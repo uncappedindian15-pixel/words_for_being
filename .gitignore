@@ -1,0 +1,25 @@
+# secrets
+.env
+*.pem
+secrets/
+
+# generated assets (kept on disk, not in git — except the public video mirror
+# if you choose to commit videos for GitHub Pages hosting; see README)
+generated/images/
+!generated/images/.gitkeep
+generated/videos/
+!generated/videos/.gitkeep
+
+# media/videos/ holds published MP4s (committed — GitHub Pages serves them)
+
+# logs (keep dashboard + db in git for observability)
+logs/*.log
+logs/notifications.md
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# os
+.DS_Store

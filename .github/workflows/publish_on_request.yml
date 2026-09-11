@@ -1,0 +1,46 @@
+name: Publish Today (SAFE MODE button)
+
+# Human step in SAFE MODE: click "Run workflow" on this workflow in
+# GitHub Actions after checking the dashboard. It publishes the
+# READY_TO_PUBLISH post for today and never creates a second one.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install FFmpeg + Tesseract (free)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg tesseract-ocr
+
+      - name: Install Python deps (free, open source)
+        run: pip install -r requirements.txt
+
+      - name: Publish today's post
+        run: python src/pipeline.py publish-today
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+
+      - name: Commit status back to repo
+        if: always()
+        run: |
+          git config user.name "wfb-bot"
+          git config user.email "wfb-bot@users.noreply.github.com"
+          git add dashboard.html logs/notifications.md database/content.json database/history.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "wfb: publish update $(date -u +%F)"
+            git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
+          fi
+        continue-on-error: true

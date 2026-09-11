@@ -1,0 +1,8 @@
+requests>=2.31
+Pillow>=10.0
+numpy>=1.26
+scipy>=1.11
+# optional, for OCR-based "did the model add text" check (needs tesseract binary too)
+pytesseract>=0.3.10
+# optional, fallback if system ffmpeg cannot be installed
+imageio-ffmpeg>=0.4.9

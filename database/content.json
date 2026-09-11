@@ -1,0 +1,432 @@
+{
+  "posts": [
+    {
+      "post_id": "wfB-20260911-001",
+      "date": "2026-09-11",
+      "created": "2026-09-11T14:23:36.585568+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "A-01",
+        "category": "A",
+        "formula": 5,
+        "emotional_core": "quiet self-reclamation after years of shrinking",
+        "visual_concept": "a green shoot cracking open a concrete block",
+        "physical_action": "a single shoot splitting a concrete block",
+        "hook": "You are the whole year, not a season.",
+        "subline": "spring never apologises for arriving late",
+        "cta": "Save this for later.",
+        "caption": "Somewhere along the way I started treating myself like a phase. A few hard months. A temporary version.\n\nBut you are not a season — you are the whole year, with every kind of weather in it. Late spring counts. Long winters count.\n\nThis one is for every version of you that is still growing.\n\nFollow @words.for.being for daily reminders that you are the long story, not a chapter.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfgrowth",
+          "#healingjourney",
+          "#growthmindset",
+          "#personaldevelopment"
+        ]
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-01",
+          "formula": 5,
+          "emotional_core": "quiet self-reclamation after years of shrinking",
+          "visual_concept": "a green shoot cracking open a concrete block",
+          "physical_action": "a single shoot splitting a concrete block",
+          "hook": "You are not a season. You are the whole year.",
+          "subline": "spring never apologises for arriving late",
+          "cta": "",
+          "caption": "Somewhere along the way I started treating myself like a phase. A few hard months. A temporary version.\n\nBut you are not a season — you are the whole year, with every kind of weather in it. Late spring counts. Long winters count.\n\nThis one is for every version of you that is still growing.\n\nFollow @words.for.being for daily reminders that you are the long story, not a chapter.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfgrowth",
+            "#healingjourney",
+            "#growthmindset",
+            "#personaldevelopment"
+          ],
+          "image_prompt": "a single green shoot with two leaves cracking open the top of a small pale concrete block, the crack visible as a zigzag line, the block sitting alone on a plain surface",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": 0,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            0,
+            "A-01"
+          ],
+          [
+            0,
+            "A-02"
+          ],
+          [
+            0,
+            "A-03"
+          ],
+          [
+            0,
+            "A-04"
+          ],
+          [
+            0,
+            "A-05"
+          ],
+          [
+            0,
+            "A-06"
+          ],
+          [
+            0,
+            "A-07"
+          ],
+          [
+            0,
+            "A-08"
+          ],
+          [
+            0,
+            "A-09"
+          ],
+          [
+            0,
+            "A-10"
+          ],
+          [
+            0,
+            "A-11"
+          ],
+          [
+            0,
+            "A-12"
+          ],
+          [
+            0,
+            "A-13"
+          ],
+          [
+            0,
+            "A-14"
+          ],
+          [
+            0,
+            "A-15"
+          ],
+          [
+            0,
+            "A-16"
+          ],
+          [
+            0,
+            "B-01"
+          ],
+          [
+            0,
+            "B-02"
+          ],
+          [
+            0,
+            "B-03"
+          ],
+          [
+            0,
+            "B-04"
+          ],
+          [
+            0,
+            "B-05"
+          ],
+          [
+            0,
+            "B-06"
+          ],
+          [
+            0,
+            "B-07"
+          ],
+          [
+            0,
+            "B-08"
+          ],
+          [
+            0,
+            "B-09"
+          ],
+          [
+            0,
+            "B-10"
+          ],
+          [
+            0,
+            "B-11"
+          ],
+          [
+            0,
+            "B-12"
+          ],
+          [
+            0,
+            "B-13"
+          ],
+          [
+            0,
+            "B-14"
+          ],
+          [
+            0,
+            "B-15"
+          ],
+          [
+            0,
+            "B-16"
+          ],
+          [
+            0,
+            "C-01"
+          ],
+          [
+            0,
+            "C-02"
+          ],
+          [
+            0,
+            "C-03"
+          ],
+          [
+            0,
+            "C-04"
+          ],
+          [
+            0,
+            "C-05"
+          ],
+          [
+            0,
+            "C-06"
+          ],
+          [
+            0,
+            "C-07"
+          ],
+          [
+            0,
+            "C-08"
+          ],
+          [
+            0,
+            "C-09"
+          ],
+          [
+            0,
+            "C-10"
+          ],
+          [
+            0,
+            "C-11"
+          ],
+          [
+            0,
+            "C-12"
+          ],
+          [
+            0,
+            "C-13"
+          ],
+          [
+            0,
+            "C-14"
+          ],
+          [
+            0,
+            "C-15"
+          ],
+          [
+            0,
+            "C-16"
+          ],
+          [
+            0,
+            "D-01"
+          ],
+          [
+            0,
+            "D-02"
+          ],
+          [
+            0,
+            "D-03"
+          ],
+          [
+            0,
+            "D-04"
+          ],
+          [
+            0,
+            "D-05"
+          ],
+          [
+            0,
+            "D-06"
+          ],
+          [
+            0,
+            "D-07"
+          ],
+          [
+            0,
+            "D-08"
+          ],
+          [
+            0,
+            "D-09"
+          ],
+          [
+            0,
+            "D-10"
+          ],
+          [
+            0,
+            "D-11"
+          ],
+          [
+            0,
+            "D-12"
+          ],
+          [
+            0,
+            "D-13"
+          ],
+          [
+            0,
+            "D-14"
+          ],
+          [
+            0,
+            "D-15"
+          ],
+          [
+            0,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/user/words_for_being/generated/images/wfB-20260911-001-base.jpg",
+        "final_path": "/home/user/words_for_being/generated/images/wfB-20260911-001.jpg",
+        "provider": "pollinations",
+        "retries": 2,
+        "bg_luminance_avg": 246.0,
+        "bg_corners": [
+          254.0,
+          243.0,
+          249.0,
+          255.0
+        ],
+        "subject_top_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0,
+        "bbox_top_frac": 0.58
+      },
+      "video": {
+        "path": "/home/user/words_for_being/generated/videos/wfB-20260911-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.17
+      },
+      "caption": {
+        "path": "/home/user/words_for_being/captions/wfB-20260911-001.txt",
+        "text": "Somewhere along the way I started treating myself like a phase. A few hard months. A temporary version.\n\nBut you are not a season — you are the whole year, with every kind of weather in it. Late spring counts. Long winters count.\n\nThis one is for every version of you that is still growing.\n\nFollow @words.for.being for daily reminders that you are the long story, not a chapter.\n\n#wordsforbeing #selfgrowth #healingjourney #growthmindset #personaldevelopment"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 243.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-11T15:28:40.609063+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-11T14:23:36.587823+05:30",
+          "msg": "selected A-01 (cat A / formula 5: One-line metaphor, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-11T14:23:38.603497+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 159.0 < 190); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-11T14:23:59.960625+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 140.0 < 190); subject too high in frame (top-zone subject fraction 0.087 > 0.07)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-11T14:24:47.154925+05:30",
+          "msg": "image ready (retries=2, bg=243.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-11T14:24:50.358483+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.16MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-11T14:24:50.359293+05:30",
+          "msg": "caption ready (459 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-11T14:24:50.359762+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-11T15:28:40.609077+05:30",
+          "msg": "caption ready (459 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-11T15:28:40.609686+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        },
+        {
+          "ts": "2026-09-11T10:26:02+0000",
+          "stage": "restyle",
+          "detail": "re-baked typography v2 (Caveat handwritten, left-aligned 8%, hook<=8 words, subline<=12, CTA plain low-opacity) per original master prompt"
+        },
+        {
+          "ts": "2026-09-11T10:32:58+0000",
+          "stage": "regen",
+          "detail": "regenerated base for subject-bbox compliance (text zone clear)"
+        },
+        {
+          "ts": "2026-09-11T10:33:35+0000",
+          "stage": "touchup",
+          "detail": "widened watermark-erase zone (130x420, feathered) + re-bake"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 159.0 < 190); provider watermark detected in bottom-right zone",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 140.0 < 190); subject too high in frame (top-zone subject fraction 0.087 > 0.07)"
+      ],
+      "retries_total": 2
+    }
+  ],
+  "meta": {
+    "created": "2026-09-11T13:44:51.868342+05:30"
+  }
+}

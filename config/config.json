@@ -1,0 +1,137 @@
+{
+  "brand": {
+    "handle": "@words.for.being",
+    "language": "en",
+    "tone": "quiet, direct, a little wry. never preachy. never corporate. never #hashtag-soup."
+  },
+  "instagram": {
+    "handle": "@words.for.being",
+    "mode": "safe",
+    "graph_base_url": "https://graph.instagram.com",
+    "graph_api_version": "v25.0",
+    "ig_user_id": "",
+    "share_to_feed": true,
+    "video_public_host": {
+      "type": "github_pages",
+      "note": "Self-hosted on GitHub Pages (free, permanent). The pipeline commits+pushes media/videos/<file>.mp4, waits for Pages to serve it, then publishes. Set base_url to https://<your-username>.github.io/<repo>/media/videos/. Alternative type: 'catbox' (instant, third-party).",
+      "base_url": "https://YOUR_GITHUB_USERNAME.github.io/words_for_being/media/videos/"
+    },
+    "poll_timeout_seconds": 300,
+    "max_retries_publish": 2
+  },
+  "schedule": {
+    "posting_time_ist": "11:00",
+    "timezone": "Asia/Kolkata",
+    "cron_utc": "30 5 * * *",
+    "cron_note": "05:30 UTC = 11:00 IST. Change cron and posting_time together if you move the time."
+  },
+  "image": {
+    "provider": "pollinations",
+    "pollinations": {
+      "endpoint": "https://image.pollinations.ai/prompt/{prompt}",
+      "model": "flux",
+      "width": 1080,
+      "height": 1920,
+      "nologo": true,
+      "timeout_seconds": 180
+    },
+    "local": {
+      "enabled": false,
+      "comfyui_url": "http://127.0.0.1:8188",
+      "note": "Optional fallback: run ComfyUI locally and set provider to 'local'."
+    },
+    "retry_extra_prompt": "isolated single object placed low in the frame, upper third completely empty, white background, plain white, product on white, nothing else in the frame, no scene, no people",
+    "style_suffix": "minimalist flat 2D vector editorial illustration, simple matte shapes, isolated single small object, white background, white background, clean white backdrop, plain white, lots of empty white space, subject small in the lower part of the frame, empty upper third, soft light, muted warm palette, subtle paper grain, no 3d, no photorealism, no text, no words, no letters, no numbers, no watermark, no logo, no signature, no human faces, no hands, no arms",
+    "negative_hint": "avoid: text, words, letters, numbers, watermark, logo, signature, human faces, hands, arms, clutter, busy background, dark background, photorealistic people, gradients, frames, borders"
+  },
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "background": "#F7F4EE",
+    "ink": "#3A3530",
+    "watermark": "@words.for.being",
+    "watermark_opacity": 0.62
+  },
+  "typography": {
+    "font_main": "fonts/Caveat.ttf",
+    "font_body": "fonts/Caveat.ttf",
+    "font_watermark": "fonts/Caveat.ttf",
+    "fallback_fonts": [
+      "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+    ],
+    "left_margin_frac": 0.08,
+    "main_max_width": 850,
+    "main_size_min": 96,
+    "main_size_max": 168,
+    "main_max_lines": 3,
+    "main_line_spacing": 1.05,
+    "subline_size": 58,
+    "subline_max_width": 850,
+    "subline_opacity": 0.65,
+    "cta_size": 44,
+    "cta_opacity": 0.5,
+    "cta_bottom_offset": 150,
+    "text_top": 240,
+    "block_gap": 44,
+    "watermark_size": 40,
+    "watermark_margin": 54
+  },
+  "video": {
+    "duration_seconds": 5.0,
+    "fps": 30,
+    "crf": 20,
+    "preset": "medium",
+    "max_size_mb": 25
+  },
+  "quality": {
+    "background_min_luminance": 190,
+    "background_corner_patch": 70,
+    "ocr_enabled": true,
+    "ocr_max_words": 3,
+    "hook_max_words": 8,
+    "hook_max_chars": 64,
+    "caption_max_chars": 2200,
+    "max_retries_image": 6,
+    "max_retries_video": 2,
+    "similarity_threshold": 0.45,
+    "recent_lookback": 5,
+    "action_reuse_days": 21,
+    "subline_max_words": 12,
+    "subject_max_top_frac": 0.42,
+    "subject_max_height_frac": 0.58
+  },
+  "rotation": {
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "no_category_streak": 2,
+    "no_formula_repeat": true,
+    "bank_exhausted_policy": "reuse_with_check"
+  },
+  "bank": {
+    "threshold_topup": 10,
+    "topup_count": 12,
+    "llm_provider": "gemini",
+    "gemini_model": "gemini-2.5-flash",
+    "groq_model": "llama-3.3-70b-versatile",
+    "openrouter_model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  "paths": {
+    "generated_images": "generated/images",
+    "generated_videos": "generated/videos",
+    "captions": "captions",
+    "logs": "logs",
+    "database": "database"
+  },
+  "notifications": {
+    "file": "logs/notifications.md"
+  },
+  "github": {
+    "owner": "YOUR_GITHUB_USERNAME",
+    "repo": "words_for_being",
+    "branch": "main"
+  }
+}
