@@ -424,6 +424,387 @@
         "image attempt 2: base image failed QC: background not off-white (avg corner luminance 140.0 < 190); subject too high in frame (top-zone subject fraction 0.087 > 0.07)"
       ],
       "retries_total": 2
+    },
+    {
+      "post_id": "wfB-20260912-001",
+      "date": "2026-09-12",
+      "created": "2026-09-12T14:58:43.697802+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "B-01",
+        "formula": 5,
+        "emotional_core": "love as steady presence",
+        "visual_concept": "a single open umbrella standing alone in light rain",
+        "physical_action": "an umbrella standing open in falling rain",
+        "hook": "Love is the umbrella, not the thunder.",
+        "subline": "it never leaves when it rains",
+        "cta": "",
+        "caption": "We fall in love with the thunder — the first spark, the chase, the fireworks.\n\nBut a relationship is built in the quiet: the umbrella that stays open on ordinary, grey, nothing-happening days. The person who never once asks you to perform being loved.\n\nIf you have someone who is your steady weather, this is for them. If you do not, this is the standard.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#lovelanguage",
+          "#relationships",
+          "#lovequotes",
+          "#longdistance"
+        ],
+        "image_prompt": "a single open umbrella lying on its side, a few thin minimal rain lines falling around it, isolated on plain white, soft light",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-01",
+          "formula": 5,
+          "emotional_core": "love as steady presence",
+          "visual_concept": "a single open umbrella standing alone in light rain",
+          "physical_action": "an umbrella standing open in falling rain",
+          "hook": "Love is the umbrella, not the thunder.",
+          "subline": "it never leaves when it rains",
+          "cta": "",
+          "caption": "We fall in love with the thunder — the first spark, the chase, the fireworks.\n\nBut a relationship is built in the quiet: the umbrella that stays open on ordinary, grey, nothing-happening days. The person who never once asks you to perform being loved.\n\nIf you have someone who is your steady weather, this is for them. If you do not, this is the standard.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#lovelanguage",
+            "#relationships",
+            "#lovequotes",
+            "#longdistance"
+          ],
+          "image_prompt": "a single open umbrella lying on its side, a few thin minimal rain lines falling around it, isolated on plain white, soft light",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": 0,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -10,
+            "A-02"
+          ],
+          [
+            -10,
+            "A-03"
+          ],
+          [
+            -10,
+            "A-04"
+          ],
+          [
+            -10,
+            "A-05"
+          ],
+          [
+            -10,
+            "A-06"
+          ],
+          [
+            -10,
+            "A-07"
+          ],
+          [
+            -10,
+            "A-08"
+          ],
+          [
+            -10,
+            "A-09"
+          ],
+          [
+            -10,
+            "A-10"
+          ],
+          [
+            -10,
+            "A-11"
+          ],
+          [
+            -10,
+            "A-12"
+          ],
+          [
+            -10,
+            "A-13"
+          ],
+          [
+            -10,
+            "A-14"
+          ],
+          [
+            -10,
+            "A-15"
+          ],
+          [
+            -10,
+            "A-16"
+          ],
+          [
+            0,
+            "B-01"
+          ],
+          [
+            0,
+            "B-02"
+          ],
+          [
+            0,
+            "B-03"
+          ],
+          [
+            0,
+            "B-04"
+          ],
+          [
+            0,
+            "B-05"
+          ],
+          [
+            0,
+            "B-06"
+          ],
+          [
+            0,
+            "B-07"
+          ],
+          [
+            0,
+            "B-08"
+          ],
+          [
+            0,
+            "B-09"
+          ],
+          [
+            0,
+            "B-10"
+          ],
+          [
+            0,
+            "B-11"
+          ],
+          [
+            0,
+            "B-12"
+          ],
+          [
+            0,
+            "B-13"
+          ],
+          [
+            0,
+            "B-14"
+          ],
+          [
+            0,
+            "B-15"
+          ],
+          [
+            0,
+            "B-16"
+          ],
+          [
+            0,
+            "C-01"
+          ],
+          [
+            0,
+            "C-02"
+          ],
+          [
+            0,
+            "C-03"
+          ],
+          [
+            0,
+            "C-04"
+          ],
+          [
+            0,
+            "C-05"
+          ],
+          [
+            0,
+            "C-06"
+          ],
+          [
+            0,
+            "C-07"
+          ],
+          [
+            0,
+            "C-08"
+          ],
+          [
+            0,
+            "C-09"
+          ],
+          [
+            0,
+            "C-10"
+          ],
+          [
+            0,
+            "C-11"
+          ],
+          [
+            0,
+            "C-12"
+          ],
+          [
+            0,
+            "C-13"
+          ],
+          [
+            0,
+            "C-14"
+          ],
+          [
+            0,
+            "C-15"
+          ],
+          [
+            0,
+            "C-16"
+          ],
+          [
+            0,
+            "D-01"
+          ],
+          [
+            0,
+            "D-02"
+          ],
+          [
+            0,
+            "D-03"
+          ],
+          [
+            0,
+            "D-04"
+          ],
+          [
+            0,
+            "D-05"
+          ],
+          [
+            0,
+            "D-06"
+          ],
+          [
+            0,
+            "D-07"
+          ],
+          [
+            0,
+            "D-08"
+          ],
+          [
+            0,
+            "D-09"
+          ],
+          [
+            0,
+            "D-10"
+          ],
+          [
+            0,
+            "D-11"
+          ],
+          [
+            0,
+            "D-12"
+          ],
+          [
+            0,
+            "D-13"
+          ],
+          [
+            0,
+            "D-14"
+          ],
+          [
+            0,
+            "D-15"
+          ],
+          [
+            0,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260912-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260912-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 241.0,
+        "bg_corners": [
+          241.0,
+          241.0,
+          252.0,
+          255.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260912-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.08
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260912-001.txt",
+        "text": "We fall in love with the thunder — the first spark, the chase, the fireworks.\n\nBut a relationship is built in the quiet: the umbrella that stays open on ordinary, grey, nothing-happening days. The person who never once asks you to perform being loved.\n\nIf you have someone who is your steady weather, this is for them. If you do not, this is the standard.\n\n#wordsforbeing #lovelanguage #relationships #lovequotes #longdistance"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 241.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-12T14:58:54.747646+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-12T14:58:43.701766+05:30",
+          "msg": "selected B-01 (cat B / formula 5: One-line metaphor, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-12T14:58:52.440494+05:30",
+          "msg": "image ready (retries=0, bg=241.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-12T14:58:54.746220+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.08MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-12T14:58:54.747656+05:30",
+          "msg": "caption ready (426 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-12T14:58:54.748784+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {

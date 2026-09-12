@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T15:28:40.610102+05:30",
-  "count": 1,
+  "updated": "2026-09-12T14:58:54.749676+05:30",
+  "count": 2,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -8,7 +8,15 @@
       "status": "READY_TO_PUBLISH",
       "category": "A",
       "formula": 5,
-      "hook": "You are not a season. You are the whole year."
+      "hook": "You are the whole year, not a season."
+    },
+    {
+      "post_id": "wfB-20260912-001",
+      "date": "2026-09-12",
+      "status": "READY_TO_PUBLISH",
+      "category": "B",
+      "formula": 5,
+      "hook": "Love is the umbrella, not the thunder."
     }
   ]
 }
