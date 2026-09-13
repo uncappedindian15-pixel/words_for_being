@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T14:58:54.749676+05:30",
-  "count": 2,
+  "updated": "2026-09-13T16:00:08.529525+05:30",
+  "count": 3,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -17,6 +17,14 @@
       "category": "B",
       "formula": 5,
       "hook": "Love is the umbrella, not the thunder."
+    },
+    {
+      "post_id": "wfB-20260913-001",
+      "date": "2026-09-13",
+      "status": "FAILED",
+      "category": "C",
+      "formula": 5,
+      "hook": "You do not owe strangers your best face."
     }
   ]
 }

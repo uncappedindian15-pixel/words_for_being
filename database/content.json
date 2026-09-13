@@ -805,6 +805,375 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20260913-001",
+      "date": "2026-09-13",
+      "created": "2026-09-13T15:54:10.417212+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-01",
+        "formula": 5,
+        "emotional_core": "not owing strangers a performance",
+        "visual_concept": "a mask hanging on a wall hook, an empty chair beneath",
+        "physical_action": "a mask hanging, not worn",
+        "hook": "You do not owe strangers your best face.",
+        "subline": "your people see the face. the rest can wait.",
+        "cta": "",
+        "caption": "There is a version of you that exists only for the people who have earned it — the loud laugh, the honest answer, the real face.\n\nYou do not owe strangers that version. You do not owe them your softness as a free sample, your boundaries as a suggestion, your history as entertainment.\n\nThe mask is fine on the hook. You do not have to wear it for everyone.\n\nWho are the people the real version is for?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#boundaries",
+          "#selfrespect",
+          "#personalboundaries",
+          "#truth"
+        ],
+        "image_prompt": "a simple smooth mask hanging from a single hook, an empty chair placed beneath it, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-01",
+          "formula": 5,
+          "emotional_core": "not owing strangers a performance",
+          "visual_concept": "a mask hanging on a wall hook, an empty chair beneath",
+          "physical_action": "a mask hanging, not worn",
+          "hook": "You do not owe strangers your best face.",
+          "subline": "your people see the face. the rest can wait.",
+          "cta": "",
+          "caption": "There is a version of you that exists only for the people who have earned it — the loud laugh, the honest answer, the real face.\n\nYou do not owe strangers that version. You do not owe them your softness as a free sample, your boundaries as a suggestion, your history as entertainment.\n\nThe mask is fine on the hook. You do not have to wear it for everyone.\n\nWho are the people the real version is for?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#boundaries",
+            "#selfrespect",
+            "#personalboundaries",
+            "#truth"
+          ],
+          "image_prompt": "a simple smooth mask hanging from a single hook, an empty chair placed beneath it, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": 0,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -10,
+            "A-02"
+          ],
+          [
+            -10,
+            "A-03"
+          ],
+          [
+            -10,
+            "A-04"
+          ],
+          [
+            -10,
+            "A-05"
+          ],
+          [
+            -10,
+            "A-06"
+          ],
+          [
+            -10,
+            "A-07"
+          ],
+          [
+            -10,
+            "A-08"
+          ],
+          [
+            -10,
+            "A-09"
+          ],
+          [
+            -10,
+            "A-10"
+          ],
+          [
+            -10,
+            "A-11"
+          ],
+          [
+            -10,
+            "A-12"
+          ],
+          [
+            -10,
+            "A-13"
+          ],
+          [
+            -10,
+            "A-14"
+          ],
+          [
+            -10,
+            "A-15"
+          ],
+          [
+            -10,
+            "A-16"
+          ],
+          [
+            -10,
+            "B-02"
+          ],
+          [
+            -10,
+            "B-03"
+          ],
+          [
+            -10,
+            "B-04"
+          ],
+          [
+            -10,
+            "B-05"
+          ],
+          [
+            -10,
+            "B-06"
+          ],
+          [
+            -10,
+            "B-07"
+          ],
+          [
+            -10,
+            "B-08"
+          ],
+          [
+            -10,
+            "B-09"
+          ],
+          [
+            -10,
+            "B-10"
+          ],
+          [
+            -10,
+            "B-11"
+          ],
+          [
+            -10,
+            "B-12"
+          ],
+          [
+            -10,
+            "B-13"
+          ],
+          [
+            -10,
+            "B-14"
+          ],
+          [
+            -10,
+            "B-15"
+          ],
+          [
+            -10,
+            "B-16"
+          ],
+          [
+            0,
+            "C-01"
+          ],
+          [
+            0,
+            "C-02"
+          ],
+          [
+            0,
+            "C-03"
+          ],
+          [
+            0,
+            "C-04"
+          ],
+          [
+            0,
+            "C-05"
+          ],
+          [
+            0,
+            "C-06"
+          ],
+          [
+            0,
+            "C-07"
+          ],
+          [
+            0,
+            "C-08"
+          ],
+          [
+            0,
+            "C-09"
+          ],
+          [
+            0,
+            "C-10"
+          ],
+          [
+            0,
+            "C-11"
+          ],
+          [
+            0,
+            "C-12"
+          ],
+          [
+            0,
+            "C-13"
+          ],
+          [
+            0,
+            "C-14"
+          ],
+          [
+            0,
+            "C-15"
+          ],
+          [
+            0,
+            "C-16"
+          ],
+          [
+            0,
+            "D-01"
+          ],
+          [
+            0,
+            "D-02"
+          ],
+          [
+            0,
+            "D-03"
+          ],
+          [
+            0,
+            "D-04"
+          ],
+          [
+            0,
+            "D-05"
+          ],
+          [
+            0,
+            "D-06"
+          ],
+          [
+            0,
+            "D-07"
+          ],
+          [
+            0,
+            "D-08"
+          ],
+          [
+            0,
+            "D-09"
+          ],
+          [
+            0,
+            "D-10"
+          ],
+          [
+            0,
+            "D-11"
+          ],
+          [
+            0,
+            "D-12"
+          ],
+          [
+            0,
+            "D-13"
+          ],
+          [
+            0,
+            "D-14"
+          ],
+          [
+            0,
+            "D-15"
+          ],
+          [
+            0,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-13T15:54:10.422180+05:30",
+          "msg": "selected C-01 (cat C / formula 5: One-line metaphor, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-13T15:54:12.425445+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 129.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-13T15:54:34.263274+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 139.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-13T15:55:11.120800+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 137.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-13T15:56:02.897936+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 177.0 < 190); subject reaches into the text zone (top edge at 38% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-13T15:57:09.709265+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 138.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%);"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-13T15:58:31.549969+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 121.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-13T16:00:08.528020+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 126.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%);"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 129.0 < 190)",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 139.0 < 190)",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 137.0 < 190)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 177.0 < 190); subject reaches into the text zone (top edge at 38% of frame, must be <= 42%); subject too tall (62% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 138.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (100% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 121.0 < 190)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 126.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (99% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
