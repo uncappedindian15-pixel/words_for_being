@@ -1174,6 +1174,422 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 126.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (99% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20260914-001",
+      "date": "2026-09-14",
+      "created": "2026-09-14T16:19:16.169236+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-01",
+        "formula": 4,
+        "emotional_core": "the drama of money",
+        "visual_concept": "a piggy bank with a heart-shaped crack, one coin beside",
+        "physical_action": "a crack forming across a piggy bank",
+        "hook": "my bank account and i are toxic together.",
+        "subline": "all drama, no growth",
+        "cta": "Tag someone who needs this.",
+        "caption": "My bank account and I have a situation.\n\nWe had a good run — there was trust, there were funds, there was a specific era where impulse-buy was a compliment. Now? Drama. Ghosting. A low-balance notification at the worst possible time.\n\nI have tried therapy (spreadsheets). I have tried no contact (cash only). It is a toxic relationship, and for once, I am not the problem. I am the victim.\n\nThe victim of the swipe.\n\nDrop your bank account's zodiac sign. I need data.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#funnymoney",
+          "#relatable",
+          "#everydaylife",
+          "#adulting"
+        ],
+        "image_prompt": "a small ceramic piggy bank with one heart-shaped crack across its side, a single coin beside it, a calm surface",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-01",
+          "formula": 4,
+          "emotional_core": "the drama of money",
+          "visual_concept": "a piggy bank with a heart-shaped crack, one coin beside",
+          "physical_action": "a crack forming across a piggy bank",
+          "hook": "my bank account and i are toxic together.",
+          "subline": "all drama, no growth",
+          "cta": "Tag someone who needs this.",
+          "caption": "My bank account and I have a situation.\n\nWe had a good run — there was trust, there were funds, there was a specific era where impulse-buy was a compliment. Now? Drama. Ghosting. A low-balance notification at the worst possible time.\n\nI have tried therapy (spreadsheets). I have tried no contact (cash only). It is a toxic relationship, and for once, I am not the problem. I am the victim.\n\nThe victim of the swipe.\n\nDrop your bank account's zodiac sign. I need data.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#funnymoney",
+            "#relatable",
+            "#everydaylife",
+            "#adulting"
+          ],
+          "image_prompt": "a small ceramic piggy bank with one heart-shaped crack across its side, a single coin beside it, a calm surface",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": 0,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -10,
+            "A-02"
+          ],
+          [
+            -10,
+            "A-03"
+          ],
+          [
+            -10,
+            "A-04"
+          ],
+          [
+            -10,
+            "A-05"
+          ],
+          [
+            -10,
+            "A-06"
+          ],
+          [
+            -10,
+            "A-07"
+          ],
+          [
+            -10,
+            "A-08"
+          ],
+          [
+            -10,
+            "A-09"
+          ],
+          [
+            -10,
+            "A-10"
+          ],
+          [
+            -10,
+            "A-11"
+          ],
+          [
+            -10,
+            "A-12"
+          ],
+          [
+            -10,
+            "A-13"
+          ],
+          [
+            -10,
+            "A-14"
+          ],
+          [
+            -10,
+            "A-15"
+          ],
+          [
+            -10,
+            "A-16"
+          ],
+          [
+            -10,
+            "B-02"
+          ],
+          [
+            -10,
+            "B-03"
+          ],
+          [
+            -10,
+            "B-04"
+          ],
+          [
+            -10,
+            "B-05"
+          ],
+          [
+            -10,
+            "B-06"
+          ],
+          [
+            -10,
+            "B-07"
+          ],
+          [
+            -10,
+            "B-08"
+          ],
+          [
+            -10,
+            "B-09"
+          ],
+          [
+            -10,
+            "B-10"
+          ],
+          [
+            -10,
+            "B-11"
+          ],
+          [
+            -10,
+            "B-12"
+          ],
+          [
+            -10,
+            "B-13"
+          ],
+          [
+            -10,
+            "B-14"
+          ],
+          [
+            -10,
+            "B-15"
+          ],
+          [
+            -10,
+            "B-16"
+          ],
+          [
+            -10,
+            "C-02"
+          ],
+          [
+            -10,
+            "C-03"
+          ],
+          [
+            -10,
+            "C-04"
+          ],
+          [
+            -10,
+            "C-05"
+          ],
+          [
+            -10,
+            "C-06"
+          ],
+          [
+            -10,
+            "C-07"
+          ],
+          [
+            -10,
+            "C-08"
+          ],
+          [
+            -10,
+            "C-09"
+          ],
+          [
+            -10,
+            "C-10"
+          ],
+          [
+            -10,
+            "C-11"
+          ],
+          [
+            -10,
+            "C-12"
+          ],
+          [
+            -10,
+            "C-13"
+          ],
+          [
+            -10,
+            "C-14"
+          ],
+          [
+            -10,
+            "C-15"
+          ],
+          [
+            -10,
+            "C-16"
+          ],
+          [
+            0,
+            "D-01"
+          ],
+          [
+            0,
+            "D-02"
+          ],
+          [
+            0,
+            "D-03"
+          ],
+          [
+            0,
+            "D-04"
+          ],
+          [
+            0,
+            "D-05"
+          ],
+          [
+            0,
+            "D-06"
+          ],
+          [
+            0,
+            "D-07"
+          ],
+          [
+            0,
+            "D-08"
+          ],
+          [
+            0,
+            "D-09"
+          ],
+          [
+            0,
+            "D-10"
+          ],
+          [
+            0,
+            "D-11"
+          ],
+          [
+            0,
+            "D-12"
+          ],
+          [
+            0,
+            "D-13"
+          ],
+          [
+            0,
+            "D-14"
+          ],
+          [
+            0,
+            "D-15"
+          ],
+          [
+            0,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260914-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260914-001.jpg",
+        "provider": "pollinations",
+        "retries": 6,
+        "bg_luminance_avg": 238.0,
+        "bg_corners": [
+          241.0,
+          238.0,
+          248.0,
+          255.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.773,
+        "subject_bbox_height_frac": 0.086,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260914-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.1
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260914-001.txt",
+        "text": "My bank account and I have a situation.\n\nWe had a good run — there was trust, there were funds, there was a specific era where impulse-buy was a compliment. Now? Drama. Ghosting. A low-balance notification at the worst possible time.\n\nI have tried therapy (spreadsheets). I have tried no contact (cash only). It is a toxic relationship, and for once, I am not the problem. I am the victim.\n\nThe victim of the swipe.\n\nDrop your bank account's zodiac sign. I need data.\n\n#wordsforbeing #funnymoney #relatable #everydaylife #adulting"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 238.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-14T16:25:40.260288+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-14T16:19:16.174850+05:30",
+          "msg": "selected D-01 (cat D / formula 4: Internet-native meme phrasing, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-14T16:19:18.197194+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 147.0 < 190); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-14T16:19:40.217260+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 128.0 < 190); subject reaches into the text zone (top edge at 29% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-14T16:20:19.415443+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 172.0 < 190); subject reaches into the text zone (top edge at 28% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-14T16:21:20.037820+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject reaches into the text zone (top edge at 29% of frame, must be <= 42%); subject too tall (59% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-14T16:22:28.919498+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 134.0 < 190); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-14T16:23:52.340730+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 105.0 < 190); subject reaches into the text zone (top edge at 25% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-14T16:25:37.880911+05:30",
+          "msg": "image ready (retries=6, bg=238.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-14T16:25:40.258391+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.1MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-14T16:25:40.260297+05:30",
+          "msg": "caption ready (530 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-14T16:25:40.261764+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 147.0 < 190); provider watermark detected in bottom-right zone",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 128.0 < 190); subject reaches into the text zone (top edge at 29% of frame, must be <= 42%); subject too tall (70% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 172.0 < 190); subject reaches into the text zone (top edge at 28% of frame, must be <= 42%); subject too tall (71% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 29% of frame, must be <= 42%); subject too tall (59% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 134.0 < 190); provider watermark detected in bottom-right zone",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 105.0 < 190); subject reaches into the text zone (top edge at 25% of frame, must be <= 42%); subject too tall (75% of frame height, must be <= 58%); provider watermark detected in bottom-right zone"
+      ],
+      "retries_total": 6
     }
   ],
   "meta": {
