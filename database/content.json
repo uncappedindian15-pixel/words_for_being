@@ -1590,6 +1590,367 @@
         "image attempt 6: base image failed QC: background not off-white (avg corner luminance 105.0 < 190); subject reaches into the text zone (top edge at 25% of frame, must be <= 42%); subject too tall (75% of frame height, must be <= 58%); provider watermark detected in bottom-right zone"
       ],
       "retries_total": 6
+    },
+    {
+      "post_id": "wfB-20260915-001",
+      "date": "2026-09-15",
+      "created": "2026-09-15T15:42:26.331402+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-02",
+        "formula": 1,
+        "emotional_core": "the cost of postponing your own life",
+        "visual_concept": "one seed beside a closed stack of someday notebooks",
+        "physical_action": "a seed waiting beside closed notebooks",
+        "hook": "Either start today, or keep explaining.",
+        "subline": "a seed does not wait for perfect",
+        "cta": "",
+        "caption": "We do not lack plans. We lack one small act we actually did.\n\nOne page. One rep. One honest message. The excuse machine is louder than the starting gun, and you know which one you have been listening to.\n\nStart smaller than you are comfortable with. Start today.\n\nSave this for the day you almost again.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfgrowth",
+          "#startsmall",
+          "#discipline",
+          "#mindsetshift"
+        ],
+        "image_prompt": "one small brown seed resting on a round wooden dish, next to it a neat closed stack of three plain notebooks, all objects on a plain surface",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-02",
+          "formula": 1,
+          "emotional_core": "the cost of postponing your own life",
+          "visual_concept": "one seed beside a closed stack of someday notebooks",
+          "physical_action": "a seed waiting beside closed notebooks",
+          "hook": "Either start today, or keep explaining.",
+          "subline": "a seed does not wait for perfect",
+          "cta": "",
+          "caption": "We do not lack plans. We lack one small act we actually did.\n\nOne page. One rep. One honest message. The excuse machine is louder than the starting gun, and you know which one you have been listening to.\n\nStart smaller than you are comfortable with. Start today.\n\nSave this for the day you almost again.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfgrowth",
+            "#startsmall",
+            "#discipline",
+            "#mindsetshift"
+          ],
+          "image_prompt": "one small brown seed resting on a round wooden dish, next to it a neat closed stack of three plain notebooks, all objects on a plain surface",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -10,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -10,
+            "A-02"
+          ],
+          [
+            -10,
+            "A-03"
+          ],
+          [
+            -10,
+            "A-04"
+          ],
+          [
+            -10,
+            "A-05"
+          ],
+          [
+            -10,
+            "A-06"
+          ],
+          [
+            -10,
+            "A-07"
+          ],
+          [
+            -10,
+            "A-08"
+          ],
+          [
+            -10,
+            "A-09"
+          ],
+          [
+            -10,
+            "A-10"
+          ],
+          [
+            -10,
+            "A-11"
+          ],
+          [
+            -10,
+            "A-12"
+          ],
+          [
+            -10,
+            "A-13"
+          ],
+          [
+            -10,
+            "A-14"
+          ],
+          [
+            -10,
+            "A-15"
+          ],
+          [
+            -10,
+            "A-16"
+          ],
+          [
+            -10,
+            "B-02"
+          ],
+          [
+            -10,
+            "B-03"
+          ],
+          [
+            -10,
+            "B-04"
+          ],
+          [
+            -10,
+            "B-05"
+          ],
+          [
+            -10,
+            "B-06"
+          ],
+          [
+            -10,
+            "B-07"
+          ],
+          [
+            -10,
+            "B-08"
+          ],
+          [
+            -10,
+            "B-09"
+          ],
+          [
+            -10,
+            "B-10"
+          ],
+          [
+            -10,
+            "B-11"
+          ],
+          [
+            -10,
+            "B-12"
+          ],
+          [
+            -10,
+            "B-13"
+          ],
+          [
+            -10,
+            "B-14"
+          ],
+          [
+            -10,
+            "B-15"
+          ],
+          [
+            -10,
+            "B-16"
+          ],
+          [
+            -10,
+            "C-02"
+          ],
+          [
+            -10,
+            "C-03"
+          ],
+          [
+            -10,
+            "C-04"
+          ],
+          [
+            -10,
+            "C-05"
+          ],
+          [
+            -10,
+            "C-06"
+          ],
+          [
+            -10,
+            "C-07"
+          ],
+          [
+            -10,
+            "C-08"
+          ],
+          [
+            -10,
+            "C-09"
+          ],
+          [
+            -10,
+            "C-10"
+          ],
+          [
+            -10,
+            "C-11"
+          ],
+          [
+            -10,
+            "C-12"
+          ],
+          [
+            -10,
+            "C-13"
+          ],
+          [
+            -10,
+            "C-14"
+          ],
+          [
+            -10,
+            "C-15"
+          ],
+          [
+            -10,
+            "C-16"
+          ],
+          [
+            -10,
+            "D-02"
+          ],
+          [
+            -10,
+            "D-03"
+          ],
+          [
+            -10,
+            "D-04"
+          ],
+          [
+            -10,
+            "D-05"
+          ],
+          [
+            -10,
+            "D-06"
+          ],
+          [
+            -10,
+            "D-07"
+          ],
+          [
+            -10,
+            "D-08"
+          ],
+          [
+            -10,
+            "D-09"
+          ],
+          [
+            -10,
+            "D-10"
+          ],
+          [
+            -10,
+            "D-11"
+          ],
+          [
+            -10,
+            "D-12"
+          ],
+          [
+            -10,
+            "D-13"
+          ],
+          [
+            -10,
+            "D-14"
+          ],
+          [
+            -10,
+            "D-15"
+          ],
+          [
+            -10,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-15T15:42:26.338534+05:30",
+          "msg": "selected A-02 (cat A / formula 1: Blunt ultimatum, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-15T15:42:30.851113+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 117.0 < 190); subject reaches into the text zone (top edge at 16% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-15T15:43:15.914644+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 123.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-15T15:44:00.549200+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 175.0 < 190); subject too high in frame (top-zone subject fraction 0.106 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-15T15:44:55.714674+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 131.0 < 190); subject too high in frame (top-zone subject fraction 0.093 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-15T15:46:04.716940+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 136.0 < 190); subject reaches into the text zone (top edge at 25% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-15T15:47:30.856946+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 131.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-15T15:49:09.941615+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 142.0 < 190); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 117.0 < 190); subject reaches into the text zone (top edge at 16% of frame, must be <= 42%); subject too tall (83% of frame height, must be <= 58%)",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 123.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (78% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 175.0 < 190); subject too high in frame (top-zone subject fraction 0.106 > 0.07); subject reaches into the text zone (top edge at 18% of frame, must be <= 42%); subject too tall (81% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 131.0 < 190); subject too high in frame (top-zone subject fraction 0.093 > 0.07); subject reaches into the text zone (top edge at 5% of frame, must be <= 42%); subject too tall (95% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 136.0 < 190); subject reaches into the text zone (top edge at 25% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 131.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%); subject too tall (73% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 142.0 < 190); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {

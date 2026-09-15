@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T16:25:40.263181+05:30",
-  "count": 4,
+  "updated": "2026-09-15T15:49:09.943614+05:30",
+  "count": 5,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -33,6 +33,14 @@
       "category": "D",
       "formula": 4,
       "hook": "my bank account and i are toxic together."
+    },
+    {
+      "post_id": "wfB-20260915-001",
+      "date": "2026-09-15",
+      "status": "FAILED",
+      "category": "A",
+      "formula": 1,
+      "hook": "Either start today, or keep explaining."
     }
   ]
 }
