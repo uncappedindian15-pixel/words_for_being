@@ -1951,6 +1951,379 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 142.0 < 190); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20260916-001",
+      "date": "2026-09-16",
+      "created": "2026-09-16T15:36:09.663371+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "B-02",
+        "formula": 1,
+        "emotional_core": "calm or honesty, nothing in between",
+        "visual_concept": "two mugs, one full and steaming, one empty",
+        "physical_action": "one mug full and warm, one empty and cold",
+        "hook": "Be my calm, or be my honesty.",
+        "subline": "anything in between is just weather",
+        "cta": "",
+        "caption": "Some people are your calm — the exhale, the silence that heals, the room that finally quiets.\n\nOthers cannot be that, and that is their story. But at minimum be honest. Be the person who says the hard thing gently instead of the soft thing falsely.\n\nI would rather hold an empty honest mug than a full one that is slowly going cold on me.\n\nCalm is a gift. Honesty is a floor. Know the difference.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#relationshiptruths",
+          "#honesty",
+          "#lovelanguage",
+          "#boundaries"
+        ],
+        "image_prompt": "two ceramic mugs side by side on a plain surface, one full and steaming, the other empty with a ring of dried tea at the bottom",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-02",
+          "formula": 1,
+          "emotional_core": "calm or honesty, nothing in between",
+          "visual_concept": "two mugs, one full and steaming, one empty",
+          "physical_action": "one mug full and warm, one empty and cold",
+          "hook": "Be my calm, or be my honesty.",
+          "subline": "anything in between is just weather",
+          "cta": "",
+          "caption": "Some people are your calm — the exhale, the silence that heals, the room that finally quiets.\n\nOthers cannot be that, and that is their story. But at minimum be honest. Be the person who says the hard thing gently instead of the soft thing falsely.\n\nI would rather hold an empty honest mug than a full one that is slowly going cold on me.\n\nCalm is a gift. Honesty is a floor. Know the difference.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#relationshiptruths",
+            "#honesty",
+            "#lovelanguage",
+            "#boundaries"
+          ],
+          "image_prompt": "two ceramic mugs side by side on a plain surface, one full and steaming, the other empty with a ring of dried tea at the bottom",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -10,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -20,
+            "A-03"
+          ],
+          [
+            -20,
+            "A-04"
+          ],
+          [
+            -20,
+            "A-05"
+          ],
+          [
+            -20,
+            "A-06"
+          ],
+          [
+            -20,
+            "A-07"
+          ],
+          [
+            -20,
+            "A-08"
+          ],
+          [
+            -20,
+            "A-09"
+          ],
+          [
+            -20,
+            "A-10"
+          ],
+          [
+            -20,
+            "A-11"
+          ],
+          [
+            -20,
+            "A-12"
+          ],
+          [
+            -20,
+            "A-13"
+          ],
+          [
+            -20,
+            "A-14"
+          ],
+          [
+            -20,
+            "A-15"
+          ],
+          [
+            -20,
+            "A-16"
+          ],
+          [
+            -10,
+            "B-02"
+          ],
+          [
+            -10,
+            "B-03"
+          ],
+          [
+            -10,
+            "B-04"
+          ],
+          [
+            -10,
+            "B-05"
+          ],
+          [
+            -10,
+            "B-06"
+          ],
+          [
+            -10,
+            "B-07"
+          ],
+          [
+            -10,
+            "B-08"
+          ],
+          [
+            -10,
+            "B-09"
+          ],
+          [
+            -10,
+            "B-10"
+          ],
+          [
+            -10,
+            "B-11"
+          ],
+          [
+            -10,
+            "B-12"
+          ],
+          [
+            -10,
+            "B-13"
+          ],
+          [
+            -10,
+            "B-14"
+          ],
+          [
+            -10,
+            "B-15"
+          ],
+          [
+            -10,
+            "B-16"
+          ],
+          [
+            -10,
+            "C-02"
+          ],
+          [
+            -10,
+            "C-03"
+          ],
+          [
+            -10,
+            "C-04"
+          ],
+          [
+            -10,
+            "C-05"
+          ],
+          [
+            -10,
+            "C-06"
+          ],
+          [
+            -10,
+            "C-07"
+          ],
+          [
+            -10,
+            "C-08"
+          ],
+          [
+            -10,
+            "C-09"
+          ],
+          [
+            -10,
+            "C-10"
+          ],
+          [
+            -10,
+            "C-11"
+          ],
+          [
+            -10,
+            "C-12"
+          ],
+          [
+            -10,
+            "C-13"
+          ],
+          [
+            -10,
+            "C-14"
+          ],
+          [
+            -10,
+            "C-15"
+          ],
+          [
+            -10,
+            "C-16"
+          ],
+          [
+            -10,
+            "D-02"
+          ],
+          [
+            -10,
+            "D-03"
+          ],
+          [
+            -10,
+            "D-04"
+          ],
+          [
+            -10,
+            "D-05"
+          ],
+          [
+            -10,
+            "D-06"
+          ],
+          [
+            -10,
+            "D-07"
+          ],
+          [
+            -10,
+            "D-08"
+          ],
+          [
+            -10,
+            "D-09"
+          ],
+          [
+            -10,
+            "D-10"
+          ],
+          [
+            -10,
+            "D-11"
+          ],
+          [
+            -10,
+            "D-12"
+          ],
+          [
+            -10,
+            "D-13"
+          ],
+          [
+            -10,
+            "D-14"
+          ],
+          [
+            -10,
+            "D-15"
+          ],
+          [
+            -10,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260916-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260916-001.jpg",
+        "provider": "pollinations",
+        "retries": 1,
+        "bg_luminance_avg": 240.0,
+        "bg_corners": [
+          249.0,
+          240.0,
+          252.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.81,
+        "subject_bbox_height_frac": 0.026,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260916-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.09
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260916-001.txt",
+        "text": "Some people are your calm — the exhale, the silence that heals, the room that finally quiets.\n\nOthers cannot be that, and that is their story. But at minimum be honest. Be the person who says the hard thing gently instead of the soft thing falsely.\n\nI would rather hold an empty honest mug than a full one that is slowly going cold on me.\n\nCalm is a gift. Honesty is a floor. Know the difference.\n\n#wordsforbeing #relationshiptruths #honesty #lovelanguage #boundaries"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 240.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-16T15:37:08.687328+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-16T15:36:09.671219+05:30",
+          "msg": "selected B-02 (cat B / formula 1: Blunt ultimatum, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-16T15:36:12.135074+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-16T15:37:06.032287+05:30",
+          "msg": "image ready (retries=1, bg=240.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-16T15:37:08.684932+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.09MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-16T15:37:08.687338+05:30",
+          "msg": "caption ready (467 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-16T15:37:08.689529+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\"
+      ],
+      "retries_total": 1
     }
   ],
   "meta": {
