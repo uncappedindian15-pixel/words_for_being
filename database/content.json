@@ -2324,6 +2324,359 @@
         "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\"
       ],
       "retries_total": 1
+    },
+    {
+      "post_id": "wfB-20260917-001",
+      "date": "2026-09-17",
+      "created": "2026-09-17T15:39:29.157589+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-02",
+        "formula": 1,
+        "emotional_core": "one warning, then absence",
+        "visual_concept": "a key on the floor outside a closed door",
+        "physical_action": "a key left on the floor, the door closed",
+        "hook": "One warning given. The door is closed now.",
+        "subline": "i will not be a lesson at my expense",
+        "cta": "",
+        "caption": "You have already had the conversation. The signs were not subtle — you just kept interpreting them as temporary.\n\nSo here is the warning, once, clearly, without drama: I am not a lesson. I am not a phase. I am not a mistake you get to study. I will not be the person who pays the tuition for your growth.\n\nThe key is on the floor and the door is closed, and this time there is no we-need-to-talk behind it. There is just the door.\n\nTo everyone who finally became the boundary: well done.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#boundaries",
+          "#leaving",
+          "#selfworth",
+          "#relationshiptruths"
+        ],
+        "image_prompt": "a single key lying in front of a simple closed door standing upright, its shadow small and soft, nothing else in the frame, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-02",
+          "formula": 1,
+          "emotional_core": "one warning, then absence",
+          "visual_concept": "a key on the floor outside a closed door",
+          "physical_action": "a key left on the floor, the door closed",
+          "hook": "One warning given. The door is closed now.",
+          "subline": "i will not be a lesson at my expense",
+          "cta": "",
+          "caption": "You have already had the conversation. The signs were not subtle — you just kept interpreting them as temporary.\n\nSo here is the warning, once, clearly, without drama: I am not a lesson. I am not a phase. I am not a mistake you get to study. I will not be the person who pays the tuition for your growth.\n\nThe key is on the floor and the door is closed, and this time there is no we-need-to-talk behind it. There is just the door.\n\nTo everyone who finally became the boundary: well done.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#boundaries",
+            "#leaving",
+            "#selfworth",
+            "#relationshiptruths"
+          ],
+          "image_prompt": "a single key lying in front of a simple closed door standing upright, its shadow small and soft, nothing else in the frame, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -10,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -20,
+            "A-03"
+          ],
+          [
+            -20,
+            "A-04"
+          ],
+          [
+            -20,
+            "A-05"
+          ],
+          [
+            -20,
+            "A-06"
+          ],
+          [
+            -20,
+            "A-07"
+          ],
+          [
+            -20,
+            "A-08"
+          ],
+          [
+            -20,
+            "A-09"
+          ],
+          [
+            -20,
+            "A-10"
+          ],
+          [
+            -20,
+            "A-11"
+          ],
+          [
+            -20,
+            "A-12"
+          ],
+          [
+            -20,
+            "A-13"
+          ],
+          [
+            -20,
+            "A-14"
+          ],
+          [
+            -20,
+            "A-15"
+          ],
+          [
+            -20,
+            "A-16"
+          ],
+          [
+            -20,
+            "B-03"
+          ],
+          [
+            -20,
+            "B-04"
+          ],
+          [
+            -20,
+            "B-05"
+          ],
+          [
+            -20,
+            "B-06"
+          ],
+          [
+            -20,
+            "B-07"
+          ],
+          [
+            -20,
+            "B-08"
+          ],
+          [
+            -20,
+            "B-09"
+          ],
+          [
+            -20,
+            "B-10"
+          ],
+          [
+            -20,
+            "B-11"
+          ],
+          [
+            -20,
+            "B-12"
+          ],
+          [
+            -20,
+            "B-13"
+          ],
+          [
+            -20,
+            "B-14"
+          ],
+          [
+            -20,
+            "B-15"
+          ],
+          [
+            -20,
+            "B-16"
+          ],
+          [
+            -10,
+            "C-02"
+          ],
+          [
+            -10,
+            "C-03"
+          ],
+          [
+            -10,
+            "C-04"
+          ],
+          [
+            -10,
+            "C-05"
+          ],
+          [
+            -10,
+            "C-06"
+          ],
+          [
+            -10,
+            "C-07"
+          ],
+          [
+            -10,
+            "C-08"
+          ],
+          [
+            -10,
+            "C-09"
+          ],
+          [
+            -10,
+            "C-10"
+          ],
+          [
+            -10,
+            "C-11"
+          ],
+          [
+            -10,
+            "C-12"
+          ],
+          [
+            -10,
+            "C-13"
+          ],
+          [
+            -10,
+            "C-14"
+          ],
+          [
+            -10,
+            "C-15"
+          ],
+          [
+            -10,
+            "C-16"
+          ],
+          [
+            -10,
+            "D-02"
+          ],
+          [
+            -10,
+            "D-03"
+          ],
+          [
+            -10,
+            "D-04"
+          ],
+          [
+            -10,
+            "D-05"
+          ],
+          [
+            -10,
+            "D-06"
+          ],
+          [
+            -10,
+            "D-07"
+          ],
+          [
+            -10,
+            "D-08"
+          ],
+          [
+            -10,
+            "D-09"
+          ],
+          [
+            -10,
+            "D-10"
+          ],
+          [
+            -10,
+            "D-11"
+          ],
+          [
+            -10,
+            "D-12"
+          ],
+          [
+            -10,
+            "D-13"
+          ],
+          [
+            -10,
+            "D-14"
+          ],
+          [
+            -10,
+            "D-15"
+          ],
+          [
+            -10,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-17T15:39:29.165579+05:30",
+          "msg": "selected C-02 (cat C / formula 1: Blunt ultimatum, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-17T15:39:33.423497+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 140.0 < 190); subject too high in frame (top-zone subject fraction 0.117 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-17T15:40:18.223632+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 179.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-17T15:41:03.075702+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 153.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-17T15:41:57.732368+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 155.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-17T15:43:07.056558+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 176.0 < 190); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-17T15:44:30.510782+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 157.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%);"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-17T15:46:09.790581+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 169.0 < 190); subject reaches into the text zone (top edge at 9% of frame, must be <= 42%);"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 140.0 < 190); subject too high in frame (top-zone subject fraction 0.117 > 0.07); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (99% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 179.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%); subject too tall (79% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 153.0 < 190)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 155.0 < 190)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 176.0 < 190); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%); subject too tall (87% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 157.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (82% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 169.0 < 190); subject reaches into the text zone (top edge at 9% of frame, must be <= 42%); subject too tall (90% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
