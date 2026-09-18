@@ -2677,6 +2677,363 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 169.0 < 190); subject reaches into the text zone (top edge at 9% of frame, must be <= 42%); subject too tall (90% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20260918-001",
+      "date": "2026-09-18",
+      "created": "2026-09-18T15:25:27.746615+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-02",
+        "formula": 5,
+        "emotional_core": "quiet presence as a vibe",
+        "visual_concept": "an open book with a bookmark and a tiny moth",
+        "physical_action": "a moth resting on an open page",
+        "hook": "Your vibe is a library, not a billboard.",
+        "subline": "quiet, but everyone finds something",
+        "cta": "",
+        "caption": "Some people are a stadium. Loud, bright, everyone sees the same show.\n\nYou are a library. Quieter at the door, but walk in and every person finds a different shelf — a joke that is only for them, a silence that is only for them, a sentence they will carry for years.\n\nYou do not perform. You are stocked. And the people who find their thing? They do not leave. They become regulars.\n\nWhat is the shelf you would put yourself on?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#quietvibes",
+          "#personality",
+          "#lovequotes",
+          "#relatable"
+        ],
+        "image_prompt": "a small open book on a plain surface with a single bookmark, a tiny moth resting on one corner of the page",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-02",
+          "formula": 5,
+          "emotional_core": "quiet presence as a vibe",
+          "visual_concept": "an open book with a bookmark and a tiny moth",
+          "physical_action": "a moth resting on an open page",
+          "hook": "Your vibe is a library, not a billboard.",
+          "subline": "quiet, but everyone finds something",
+          "cta": "",
+          "caption": "Some people are a stadium. Loud, bright, everyone sees the same show.\n\nYou are a library. Quieter at the door, but walk in and every person finds a different shelf — a joke that is only for them, a silence that is only for them, a sentence they will carry for years.\n\nYou do not perform. You are stocked. And the people who find their thing? They do not leave. They become regulars.\n\nWhat is the shelf you would put yourself on?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#quietvibes",
+            "#personality",
+            "#lovequotes",
+            "#relatable"
+          ],
+          "image_prompt": "a small open book on a plain surface with a single bookmark, a tiny moth resting on one corner of the page",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -10,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -20,
+            "A-03"
+          ],
+          [
+            -20,
+            "A-04"
+          ],
+          [
+            -20,
+            "A-05"
+          ],
+          [
+            -20,
+            "A-06"
+          ],
+          [
+            -20,
+            "A-07"
+          ],
+          [
+            -20,
+            "A-08"
+          ],
+          [
+            -20,
+            "A-09"
+          ],
+          [
+            -20,
+            "A-10"
+          ],
+          [
+            -20,
+            "A-11"
+          ],
+          [
+            -20,
+            "A-12"
+          ],
+          [
+            -20,
+            "A-13"
+          ],
+          [
+            -20,
+            "A-14"
+          ],
+          [
+            -20,
+            "A-15"
+          ],
+          [
+            -20,
+            "A-16"
+          ],
+          [
+            -20,
+            "B-03"
+          ],
+          [
+            -20,
+            "B-04"
+          ],
+          [
+            -20,
+            "B-05"
+          ],
+          [
+            -20,
+            "B-06"
+          ],
+          [
+            -20,
+            "B-07"
+          ],
+          [
+            -20,
+            "B-08"
+          ],
+          [
+            -20,
+            "B-09"
+          ],
+          [
+            -20,
+            "B-10"
+          ],
+          [
+            -20,
+            "B-11"
+          ],
+          [
+            -20,
+            "B-12"
+          ],
+          [
+            -20,
+            "B-13"
+          ],
+          [
+            -20,
+            "B-14"
+          ],
+          [
+            -20,
+            "B-15"
+          ],
+          [
+            -20,
+            "B-16"
+          ],
+          [
+            -20,
+            "C-03"
+          ],
+          [
+            -20,
+            "C-04"
+          ],
+          [
+            -20,
+            "C-05"
+          ],
+          [
+            -20,
+            "C-06"
+          ],
+          [
+            -20,
+            "C-07"
+          ],
+          [
+            -20,
+            "C-08"
+          ],
+          [
+            -20,
+            "C-09"
+          ],
+          [
+            -20,
+            "C-10"
+          ],
+          [
+            -20,
+            "C-11"
+          ],
+          [
+            -20,
+            "C-12"
+          ],
+          [
+            -20,
+            "C-13"
+          ],
+          [
+            -20,
+            "C-14"
+          ],
+          [
+            -20,
+            "C-15"
+          ],
+          [
+            -20,
+            "C-16"
+          ],
+          [
+            -10,
+            "D-02"
+          ],
+          [
+            -10,
+            "D-03"
+          ],
+          [
+            -10,
+            "D-04"
+          ],
+          [
+            -10,
+            "D-05"
+          ],
+          [
+            -10,
+            "D-06"
+          ],
+          [
+            -10,
+            "D-07"
+          ],
+          [
+            -10,
+            "D-08"
+          ],
+          [
+            -10,
+            "D-09"
+          ],
+          [
+            -10,
+            "D-10"
+          ],
+          [
+            -10,
+            "D-11"
+          ],
+          [
+            -10,
+            "D-12"
+          ],
+          [
+            -10,
+            "D-13"
+          ],
+          [
+            -10,
+            "D-14"
+          ],
+          [
+            -10,
+            "D-15"
+          ],
+          [
+            -10,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260918-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260918-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 235.0,
+        "bg_corners": [
+          235.0,
+          242.0,
+          242.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260918-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.09
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260918-001.txt",
+        "text": "Some people are a stadium. Loud, bright, everyone sees the same show.\n\nYou are a library. Quieter at the door, but walk in and every person finds a different shelf — a joke that is only for them, a silence that is only for them, a sentence they will carry for years.\n\nYou do not perform. You are stocked. And the people who find their thing? They do not leave. They become regulars.\n\nWhat is the shelf you would put yourself on?\n\n#wordsforbeing #quietvibes #personality #lovequotes #relatable"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 235.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-18T15:25:38.707321+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-18T15:25:27.752698+05:30",
+          "msg": "selected D-02 (cat D / formula 5: One-line metaphor, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-18T15:25:36.936604+05:30",
+          "msg": "image ready (retries=0, bg=235.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-18T15:25:38.704924+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.09MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-18T15:25:38.707329+05:30",
+          "msg": "caption ready (492 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-18T15:25:38.709568+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {
