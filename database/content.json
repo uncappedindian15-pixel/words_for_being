@@ -3034,6 +3034,359 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20260919-001",
+      "date": "2026-09-19",
+      "created": "2026-09-19T15:07:34.165215+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "A-03",
+        "formula": 8,
+        "emotional_core": "the myth of being ready",
+        "visual_concept": "the first clumsy brushstroke on a blank canvas",
+        "physical_action": "one rough brushstroke landing on a blank canvas",
+        "hook": "To you waiting for ready: paint anyway.",
+        "subline": "the first stroke is always ugly",
+        "cta": "Save this for later.",
+        "caption": "You have seen a thousand finished things and convinced yourself they started finished.\n\nThey did not. Every artist has a first ugly stroke somewhere in the drawer. Your first draft, your first workout, your first honest conversation — none of them will look like the highlight reel.\n\nDo them badly. Do them.\n\nShare this with someone who is overthinking a first step.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfgrowth",
+          "#beginnings",
+          "#showup",
+          "#courage"
+        ],
+        "image_prompt": "a small blank canvas lying flat with one single rough dark brushstroke across it, a small paintbrush resting beside it, isolated on plain white, soft light",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-03",
+          "formula": 8,
+          "emotional_core": "the myth of being ready",
+          "visual_concept": "the first clumsy brushstroke on a blank canvas",
+          "physical_action": "one rough brushstroke landing on a blank canvas",
+          "hook": "To you waiting for ready: paint anyway.",
+          "subline": "the first stroke is always ugly",
+          "cta": "Save this for later.",
+          "caption": "You have seen a thousand finished things and convinced yourself they started finished.\n\nThey did not. Every artist has a first ugly stroke somewhere in the drawer. Your first draft, your first workout, your first honest conversation — none of them will look like the highlight reel.\n\nDo them badly. Do them.\n\nShare this with someone who is overthinking a first step.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfgrowth",
+            "#beginnings",
+            "#showup",
+            "#courage"
+          ],
+          "image_prompt": "a small blank canvas lying flat with one single rough dark brushstroke across it, a small paintbrush resting beside it, isolated on plain white, soft light",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -20,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -20,
+            "A-03"
+          ],
+          [
+            -20,
+            "A-04"
+          ],
+          [
+            -20,
+            "A-05"
+          ],
+          [
+            -20,
+            "A-06"
+          ],
+          [
+            -20,
+            "A-07"
+          ],
+          [
+            -20,
+            "A-08"
+          ],
+          [
+            -20,
+            "A-09"
+          ],
+          [
+            -20,
+            "A-10"
+          ],
+          [
+            -20,
+            "A-11"
+          ],
+          [
+            -20,
+            "A-12"
+          ],
+          [
+            -20,
+            "A-13"
+          ],
+          [
+            -20,
+            "A-14"
+          ],
+          [
+            -20,
+            "A-15"
+          ],
+          [
+            -20,
+            "A-16"
+          ],
+          [
+            -20,
+            "B-03"
+          ],
+          [
+            -20,
+            "B-04"
+          ],
+          [
+            -20,
+            "B-05"
+          ],
+          [
+            -20,
+            "B-06"
+          ],
+          [
+            -20,
+            "B-07"
+          ],
+          [
+            -20,
+            "B-08"
+          ],
+          [
+            -20,
+            "B-09"
+          ],
+          [
+            -20,
+            "B-10"
+          ],
+          [
+            -20,
+            "B-11"
+          ],
+          [
+            -20,
+            "B-12"
+          ],
+          [
+            -20,
+            "B-13"
+          ],
+          [
+            -20,
+            "B-14"
+          ],
+          [
+            -20,
+            "B-15"
+          ],
+          [
+            -20,
+            "B-16"
+          ],
+          [
+            -20,
+            "C-03"
+          ],
+          [
+            -20,
+            "C-04"
+          ],
+          [
+            -20,
+            "C-05"
+          ],
+          [
+            -20,
+            "C-06"
+          ],
+          [
+            -20,
+            "C-07"
+          ],
+          [
+            -20,
+            "C-08"
+          ],
+          [
+            -20,
+            "C-09"
+          ],
+          [
+            -20,
+            "C-10"
+          ],
+          [
+            -20,
+            "C-11"
+          ],
+          [
+            -20,
+            "C-12"
+          ],
+          [
+            -20,
+            "C-13"
+          ],
+          [
+            -20,
+            "C-14"
+          ],
+          [
+            -20,
+            "C-15"
+          ],
+          [
+            -20,
+            "C-16"
+          ],
+          [
+            -20,
+            "D-03"
+          ],
+          [
+            -20,
+            "D-04"
+          ],
+          [
+            -20,
+            "D-05"
+          ],
+          [
+            -20,
+            "D-06"
+          ],
+          [
+            -20,
+            "D-07"
+          ],
+          [
+            -20,
+            "D-08"
+          ],
+          [
+            -20,
+            "D-09"
+          ],
+          [
+            -20,
+            "D-10"
+          ],
+          [
+            -20,
+            "D-11"
+          ],
+          [
+            -20,
+            "D-12"
+          ],
+          [
+            -20,
+            "D-13"
+          ],
+          [
+            -20,
+            "D-14"
+          ],
+          [
+            -20,
+            "D-15"
+          ],
+          [
+            -20,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260919-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260919-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 239.0,
+        "bg_corners": [
+          241.0,
+          241.0,
+          239.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.501,
+        "subject_bbox_height_frac": 0.345,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260919-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.14
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260919-001.txt",
+        "text": "You have seen a thousand finished things and convinced yourself they started finished.\n\nThey did not. Every artist has a first ugly stroke somewhere in the drawer. Your first draft, your first workout, your first honest conversation — none of them will look like the highlight reel.\n\nDo them badly. Do them.\n\nShare this with someone who is overthinking a first step.\n\n#wordsforbeing #selfgrowth #beginnings #showup #courage"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 239.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-19T15:07:47.683224+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-19T15:07:34.173861+05:30",
+          "msg": "selected A-03 (cat A / formula 8: Direct address, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-19T15:07:44.776204+05:30",
+          "msg": "image ready (retries=0, bg=239.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-19T15:07:47.679967+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.14MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-19T15:07:47.683233+05:30",
+          "msg": "caption ready (423 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-19T15:07:47.686166+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {

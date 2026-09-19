@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18T15:25:38.711501+05:30",
-  "count": 8,
+  "updated": "2026-09-19T15:07:47.688807+05:30",
+  "count": 9,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -65,6 +65,14 @@
       "category": "D",
       "formula": 5,
       "hook": "Your vibe is a library, not a billboard."
+    },
+    {
+      "post_id": "wfB-20260919-001",
+      "date": "2026-09-19",
+      "status": "READY_TO_PUBLISH",
+      "category": "A",
+      "formula": 8,
+      "hook": "To you waiting for ready: paint anyway."
     }
   ]
 }
