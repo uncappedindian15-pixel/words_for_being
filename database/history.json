@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T15:07:47.688807+05:30",
-  "count": 9,
+  "updated": "2026-09-20T15:29:58.488098+05:30",
+  "count": 10,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -73,6 +73,14 @@
       "category": "A",
       "formula": 8,
       "hook": "To you waiting for ready: paint anyway."
+    },
+    {
+      "post_id": "wfB-20260920-001",
+      "date": "2026-09-20",
+      "status": "FAILED",
+      "category": "B",
+      "formula": 8,
+      "hook": "To the one who still holds my hand:"
     }
   ]
 }

@@ -3387,6 +3387,347 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20260920-001",
+      "date": "2026-09-20",
+      "created": "2026-09-20T15:23:34.198681+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-03",
+        "formula": 8,
+        "emotional_core": "the miracle of a loved small gesture",
+        "visual_concept": "a knitted scarf wrapped around a single teacup",
+        "physical_action": "a scarf knitted around a cup, keeping it warm",
+        "hook": "To the one who still holds my hand:",
+        "subline": "never let anyone call that boring",
+        "cta": "Tag someone who needs this.",
+        "caption": "There is a specific kind of love that never gets comfortable with itself — the hand that still holds like day one, the drive-safe text that still feels like a promise.\n\nPeople call it settling. It is not. It is a person choosing the miracle on purpose, every single morning, without a camera rolling.\n\nIf someone does that with you, guard it like the rare thing it is.\n\nTo everyone who is still new on year seven: you are the main character.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#couples",
+          "#love",
+          "#relationships",
+          "#marriage"
+        ],
+        "image_prompt": "a soft knitted scarf wrapped neatly around a single warm teacup, the cup steaming gently, on a plain surface",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-03",
+          "formula": 8,
+          "emotional_core": "the miracle of a loved small gesture",
+          "visual_concept": "a knitted scarf wrapped around a single teacup",
+          "physical_action": "a scarf knitted around a cup, keeping it warm",
+          "hook": "To the one who still holds my hand:",
+          "subline": "never let anyone call that boring",
+          "cta": "Tag someone who needs this.",
+          "caption": "There is a specific kind of love that never gets comfortable with itself — the hand that still holds like day one, the drive-safe text that still feels like a promise.\n\nPeople call it settling. It is not. It is a person choosing the miracle on purpose, every single morning, without a camera rolling.\n\nIf someone does that with you, guard it like the rare thing it is.\n\nTo everyone who is still new on year seven: you are the main character.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#couples",
+            "#love",
+            "#relationships",
+            "#marriage"
+          ],
+          "image_prompt": "a soft knitted scarf wrapped neatly around a single warm teacup, the cup steaming gently, on a plain surface",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -20,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -30,
+            "A-04"
+          ],
+          [
+            -30,
+            "A-05"
+          ],
+          [
+            -30,
+            "A-06"
+          ],
+          [
+            -30,
+            "A-07"
+          ],
+          [
+            -30,
+            "A-08"
+          ],
+          [
+            -30,
+            "A-09"
+          ],
+          [
+            -30,
+            "A-10"
+          ],
+          [
+            -30,
+            "A-11"
+          ],
+          [
+            -30,
+            "A-12"
+          ],
+          [
+            -30,
+            "A-13"
+          ],
+          [
+            -30,
+            "A-14"
+          ],
+          [
+            -30,
+            "A-15"
+          ],
+          [
+            -30,
+            "A-16"
+          ],
+          [
+            -20,
+            "B-03"
+          ],
+          [
+            -20,
+            "B-04"
+          ],
+          [
+            -20,
+            "B-05"
+          ],
+          [
+            -20,
+            "B-06"
+          ],
+          [
+            -20,
+            "B-07"
+          ],
+          [
+            -20,
+            "B-08"
+          ],
+          [
+            -20,
+            "B-09"
+          ],
+          [
+            -20,
+            "B-10"
+          ],
+          [
+            -20,
+            "B-11"
+          ],
+          [
+            -20,
+            "B-12"
+          ],
+          [
+            -20,
+            "B-13"
+          ],
+          [
+            -20,
+            "B-14"
+          ],
+          [
+            -20,
+            "B-15"
+          ],
+          [
+            -20,
+            "B-16"
+          ],
+          [
+            -20,
+            "C-03"
+          ],
+          [
+            -20,
+            "C-04"
+          ],
+          [
+            -20,
+            "C-05"
+          ],
+          [
+            -20,
+            "C-06"
+          ],
+          [
+            -20,
+            "C-07"
+          ],
+          [
+            -20,
+            "C-08"
+          ],
+          [
+            -20,
+            "C-09"
+          ],
+          [
+            -20,
+            "C-10"
+          ],
+          [
+            -20,
+            "C-11"
+          ],
+          [
+            -20,
+            "C-12"
+          ],
+          [
+            -20,
+            "C-13"
+          ],
+          [
+            -20,
+            "C-14"
+          ],
+          [
+            -20,
+            "C-15"
+          ],
+          [
+            -20,
+            "C-16"
+          ],
+          [
+            -20,
+            "D-03"
+          ],
+          [
+            -20,
+            "D-04"
+          ],
+          [
+            -20,
+            "D-05"
+          ],
+          [
+            -20,
+            "D-06"
+          ],
+          [
+            -20,
+            "D-07"
+          ],
+          [
+            -20,
+            "D-08"
+          ],
+          [
+            -20,
+            "D-09"
+          ],
+          [
+            -20,
+            "D-10"
+          ],
+          [
+            -20,
+            "D-11"
+          ],
+          [
+            -20,
+            "D-12"
+          ],
+          [
+            -20,
+            "D-13"
+          ],
+          [
+            -20,
+            "D-14"
+          ],
+          [
+            -20,
+            "D-15"
+          ],
+          [
+            -20,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-20T15:23:34.208577+05:30",
+          "msg": "selected B-03 (cat B / formula 8: Direct address, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-20T15:23:35.446173+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-20T15:24:20.354983+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-20T15:25:05.386160+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-20T15:25:56.079775+05:30",
+          "msg": "attempt 4 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-20T15:27:01.723832+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-20T15:28:22.427380+05:30",
+          "msg": "attempt 6 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-20T15:29:58.483650+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 2: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 3: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 4: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 5: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 6: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 7: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
