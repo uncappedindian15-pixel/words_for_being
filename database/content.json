@@ -3728,6 +3728,343 @@
         "image attempt 7: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20260921-001",
+      "date": "2026-09-21",
+      "created": "2026-09-21T16:22:52.025001+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-03",
+        "formula": 8,
+        "emotional_core": "naming the pattern",
+        "visual_concept": "repeated loops on a page, one circled in red",
+        "physical_action": "a red circle around one repeated loop",
+        "hook": "To the one who calls me dramatic:",
+        "subline": "the pattern was your handwriting",
+        "cta": "",
+        "caption": "There is a specific trick: you repeat the same behaviour until the person describing it sounds like the problem.\n\nLate again — you are so dramatic. Unkind again — you are so sensitive. It works, for a while.\n\nBut I have read the handwriting. I have seen the loops. The pattern was yours, it is always been yours, and naming it is not drama — it is just literacy.\n\nYou were never too much. You were just seen.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#toxicrelationships",
+          "#gaslighting",
+          "#redflags",
+          "#realtalk"
+        ],
+        "image_prompt": "a sheet of paper with repeated neat loops drawn in ink, a red pen circling one single loop, on a plain surface",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-03",
+          "formula": 8,
+          "emotional_core": "naming the pattern",
+          "visual_concept": "repeated loops on a page, one circled in red",
+          "physical_action": "a red circle around one repeated loop",
+          "hook": "To the one who calls me dramatic:",
+          "subline": "the pattern was your handwriting",
+          "cta": "",
+          "caption": "There is a specific trick: you repeat the same behaviour until the person describing it sounds like the problem.\n\nLate again — you are so dramatic. Unkind again — you are so sensitive. It works, for a while.\n\nBut I have read the handwriting. I have seen the loops. The pattern was yours, it is always been yours, and naming it is not drama — it is just literacy.\n\nYou were never too much. You were just seen.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#toxicrelationships",
+            "#gaslighting",
+            "#redflags",
+            "#realtalk"
+          ],
+          "image_prompt": "a sheet of paper with repeated neat loops drawn in ink, a red pen circling one single loop, on a plain surface",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -20,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -30,
+            "A-04"
+          ],
+          [
+            -30,
+            "A-05"
+          ],
+          [
+            -30,
+            "A-06"
+          ],
+          [
+            -30,
+            "A-07"
+          ],
+          [
+            -30,
+            "A-08"
+          ],
+          [
+            -30,
+            "A-09"
+          ],
+          [
+            -30,
+            "A-10"
+          ],
+          [
+            -30,
+            "A-11"
+          ],
+          [
+            -30,
+            "A-12"
+          ],
+          [
+            -30,
+            "A-13"
+          ],
+          [
+            -30,
+            "A-14"
+          ],
+          [
+            -30,
+            "A-15"
+          ],
+          [
+            -30,
+            "A-16"
+          ],
+          [
+            -30,
+            "B-04"
+          ],
+          [
+            -30,
+            "B-05"
+          ],
+          [
+            -30,
+            "B-06"
+          ],
+          [
+            -30,
+            "B-07"
+          ],
+          [
+            -30,
+            "B-08"
+          ],
+          [
+            -30,
+            "B-09"
+          ],
+          [
+            -30,
+            "B-10"
+          ],
+          [
+            -30,
+            "B-11"
+          ],
+          [
+            -30,
+            "B-12"
+          ],
+          [
+            -30,
+            "B-13"
+          ],
+          [
+            -30,
+            "B-14"
+          ],
+          [
+            -30,
+            "B-15"
+          ],
+          [
+            -30,
+            "B-16"
+          ],
+          [
+            -20,
+            "C-03"
+          ],
+          [
+            -20,
+            "C-04"
+          ],
+          [
+            -20,
+            "C-05"
+          ],
+          [
+            -20,
+            "C-06"
+          ],
+          [
+            -20,
+            "C-07"
+          ],
+          [
+            -20,
+            "C-08"
+          ],
+          [
+            -20,
+            "C-09"
+          ],
+          [
+            -20,
+            "C-10"
+          ],
+          [
+            -20,
+            "C-11"
+          ],
+          [
+            -20,
+            "C-12"
+          ],
+          [
+            -20,
+            "C-13"
+          ],
+          [
+            -20,
+            "C-14"
+          ],
+          [
+            -20,
+            "C-15"
+          ],
+          [
+            -20,
+            "C-16"
+          ],
+          [
+            -20,
+            "D-03"
+          ],
+          [
+            -20,
+            "D-04"
+          ],
+          [
+            -20,
+            "D-05"
+          ],
+          [
+            -20,
+            "D-06"
+          ],
+          [
+            -20,
+            "D-07"
+          ],
+          [
+            -20,
+            "D-08"
+          ],
+          [
+            -20,
+            "D-09"
+          ],
+          [
+            -20,
+            "D-10"
+          ],
+          [
+            -20,
+            "D-11"
+          ],
+          [
+            -20,
+            "D-12"
+          ],
+          [
+            -20,
+            "D-13"
+          ],
+          [
+            -20,
+            "D-14"
+          ],
+          [
+            -20,
+            "D-15"
+          ],
+          [
+            -20,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-21T16:22:52.033064+05:30",
+          "msg": "selected C-03 (cat C / formula 8: Direct address, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-21T16:23:01.351846+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 28% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-21T16:23:41.552640+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 178.0 < 190); subject reaches into the text zone (top edge at 27% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-21T16:24:32.743580+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject reaches into the text zone (top edge at 21% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-21T16:25:31.173506+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.07 > 0.07); subject reaches into the text zone (top edge at 18% of frame, must be <"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-21T16:26:46.564906+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.089 > 0.07); subject reaches into the text zone (top edge at 8% of frame, must be <"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-21T16:28:17.225110+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject reaches into the text zone (top edge at 31% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-21T16:30:03.027593+05:30",
+          "msg": "attempt 7 failed: base image failed QC: subject reaches into the text zone (top edge at 27% of frame, must be <= 42%)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 28% of frame, must be <= 42%); provider watermark detected in bottom-right zone",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 178.0 < 190); subject reaches into the text zone (top edge at 27% of frame, must be <= 42%); subject too tall (72% of frame height, must be <= 58%)",
+        "image attempt 3: base image failed QC: subject reaches into the text zone (top edge at 21% of frame, must be <= 42%)",
+        "image attempt 4: base image failed QC: subject too high in frame (top-zone subject fraction 0.07 > 0.07); subject reaches into the text zone (top edge at 18% of frame, must be <= 42%); subject too tall (66% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: subject too high in frame (top-zone subject fraction 0.089 > 0.07); subject reaches into the text zone (top edge at 8% of frame, must be <= 42%); subject too tall (79% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 6: base image failed QC: subject reaches into the text zone (top edge at 31% of frame, must be <= 42%)",
+        "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 27% of frame, must be <= 42%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
