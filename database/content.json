@@ -4065,6 +4065,383 @@
         "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 27% of frame, must be <= 42%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20260922-001",
+      "date": "2026-09-22",
+      "created": "2026-09-22T15:38:00.939078+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-03",
+        "formula": 1,
+        "emotional_core": "3 percent battery mode",
+        "visual_concept": "a battery icon at 3 percent, one glowing sliver",
+        "physical_action": "one last sliver holding the charge",
+        "hook": "I am not lazy. I am on 3%.",
+        "subline": "the sliver is still working",
+        "cta": "",
+        "caption": "Let me be clear: I am not lazy. I am on energy-saving mode, and the battery is at 3 percent.\n\nThere is a difference. Lazy is a choice. 3 percent is a condition.\n\nThe screen is dim, the background apps are closed, the social-battery service has been moved to the cloud for the weekend, and the single glowing sliver at the end is doing its absolute best to hold the charge.\n\nDo not ask for a presentation right now. Do ask for chai. The chai is at 100 percent.\n\nWhat is your current percentage? Be honest.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#relatable",
+          "#energy",
+          "#everydaylife",
+          "#humor"
+        ],
+        "image_prompt": "a simple battery icon at 3 percent with one small pale sliver at the end, on a plain surface, minimal shapes",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-03",
+          "formula": 1,
+          "emotional_core": "3 percent battery mode",
+          "visual_concept": "a battery icon at 3 percent, one glowing sliver",
+          "physical_action": "one last sliver holding the charge",
+          "hook": "I am not lazy. I am on 3%.",
+          "subline": "the sliver is still working",
+          "cta": "",
+          "caption": "Let me be clear: I am not lazy. I am on energy-saving mode, and the battery is at 3 percent.\n\nThere is a difference. Lazy is a choice. 3 percent is a condition.\n\nThe screen is dim, the background apps are closed, the social-battery service has been moved to the cloud for the weekend, and the single glowing sliver at the end is doing its absolute best to hold the charge.\n\nDo not ask for a presentation right now. Do ask for chai. The chai is at 100 percent.\n\nWhat is your current percentage? Be honest.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#relatable",
+            "#energy",
+            "#everydaylife",
+            "#humor"
+          ],
+          "image_prompt": "a simple battery icon at 3 percent with one small pale sliver at the end, on a plain surface, minimal shapes",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -20,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -30,
+            "A-04"
+          ],
+          [
+            -30,
+            "A-05"
+          ],
+          [
+            -30,
+            "A-06"
+          ],
+          [
+            -30,
+            "A-07"
+          ],
+          [
+            -30,
+            "A-08"
+          ],
+          [
+            -30,
+            "A-09"
+          ],
+          [
+            -30,
+            "A-10"
+          ],
+          [
+            -30,
+            "A-11"
+          ],
+          [
+            -30,
+            "A-12"
+          ],
+          [
+            -30,
+            "A-13"
+          ],
+          [
+            -30,
+            "A-14"
+          ],
+          [
+            -30,
+            "A-15"
+          ],
+          [
+            -30,
+            "A-16"
+          ],
+          [
+            -30,
+            "B-04"
+          ],
+          [
+            -30,
+            "B-05"
+          ],
+          [
+            -30,
+            "B-06"
+          ],
+          [
+            -30,
+            "B-07"
+          ],
+          [
+            -30,
+            "B-08"
+          ],
+          [
+            -30,
+            "B-09"
+          ],
+          [
+            -30,
+            "B-10"
+          ],
+          [
+            -30,
+            "B-11"
+          ],
+          [
+            -30,
+            "B-12"
+          ],
+          [
+            -30,
+            "B-13"
+          ],
+          [
+            -30,
+            "B-14"
+          ],
+          [
+            -30,
+            "B-15"
+          ],
+          [
+            -30,
+            "B-16"
+          ],
+          [
+            -30,
+            "C-04"
+          ],
+          [
+            -30,
+            "C-05"
+          ],
+          [
+            -30,
+            "C-06"
+          ],
+          [
+            -30,
+            "C-07"
+          ],
+          [
+            -30,
+            "C-08"
+          ],
+          [
+            -30,
+            "C-09"
+          ],
+          [
+            -30,
+            "C-10"
+          ],
+          [
+            -30,
+            "C-11"
+          ],
+          [
+            -30,
+            "C-12"
+          ],
+          [
+            -30,
+            "C-13"
+          ],
+          [
+            -30,
+            "C-14"
+          ],
+          [
+            -30,
+            "C-15"
+          ],
+          [
+            -30,
+            "C-16"
+          ],
+          [
+            -20,
+            "D-03"
+          ],
+          [
+            -20,
+            "D-04"
+          ],
+          [
+            -20,
+            "D-05"
+          ],
+          [
+            -20,
+            "D-06"
+          ],
+          [
+            -20,
+            "D-07"
+          ],
+          [
+            -20,
+            "D-08"
+          ],
+          [
+            -20,
+            "D-09"
+          ],
+          [
+            -20,
+            "D-10"
+          ],
+          [
+            -20,
+            "D-11"
+          ],
+          [
+            -20,
+            "D-12"
+          ],
+          [
+            -20,
+            "D-13"
+          ],
+          [
+            -20,
+            "D-14"
+          ],
+          [
+            -20,
+            "D-15"
+          ],
+          [
+            -20,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260922-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260922-001.jpg",
+        "provider": "pollinations",
+        "retries": 5,
+        "bg_luminance_avg": 243.0,
+        "bg_corners": [
+          249.0,
+          248.0,
+          243.0,
+          251.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260922-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.12
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260922-001.txt",
+        "text": "Let me be clear: I am not lazy. I am on energy-saving mode, and the battery is at 3 percent.\n\nThere is a difference. Lazy is a choice. 3 percent is a condition.\n\nThe screen is dim, the background apps are closed, the social-battery service has been moved to the cloud for the weekend, and the single glowing sliver at the end is doing its absolute best to hold the charge.\n\nDo not ask for a presentation right now. Do ask for chai. The chai is at 100 percent.\n\nWhat is your current percentage? Be honest.\n\n#wordsforbeing #relatable #energy #everydaylife #humor"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 243.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-22T15:42:28.714290+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-22T15:38:00.945933+05:30",
+          "msg": "selected D-03 (cat D / formula 1: Blunt ultimatum, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-22T15:38:11.942489+05:30",
+          "msg": "attempt 1 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-22T15:38:48.793217+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-22T15:39:32.777777+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-22T15:40:25.737673+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject reaches into the text zone (top edge at 24% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-22T15:41:32.423993+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-22T15:42:25.962438+05:30",
+          "msg": "image ready (retries=5, bg=243.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-22T15:42:28.710228+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.12MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-22T15:42:28.714299+05:30",
+          "msg": "caption ready (560 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-22T15:42:28.717767+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: provider watermark detected in bottom-right zone",
+        "image attempt 2: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\",
+        "image attempt 3: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\",
+        "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 24% of frame, must be <= 42%); provider watermark detected in bottom-right zone",
+        "image attempt 5: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\"
+      ],
+      "retries_total": 5
     }
   ],
   "meta": {

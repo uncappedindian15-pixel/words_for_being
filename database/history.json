@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T16:30:03.030942+05:30",
-  "count": 11,
+  "updated": "2026-09-22T15:42:28.721052+05:30",
+  "count": 12,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -89,6 +89,14 @@
       "category": "C",
       "formula": 8,
       "hook": "To the one who calls me dramatic:"
+    },
+    {
+      "post_id": "wfB-20260922-001",
+      "date": "2026-09-22",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 1,
+      "hook": "I am not lazy. I am on 3%."
     }
   ]
 }
