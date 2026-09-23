@@ -4442,6 +4442,386 @@
         "image attempt 5: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\"
       ],
       "retries_total": 5
+    },
+    {
+      "post_id": "wfB-20260923-001",
+      "date": "2026-09-23",
+      "created": "2026-09-23T15:38:43.655470+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "A-04",
+        "formula": 3,
+        "emotional_core": "apologising for existence, then stopping",
+        "visual_concept": "a coat laid flat on the floor, taking up space",
+        "physical_action": "a coat laid out full-size on the floor",
+        "hook": "i stopped apologising for taking up space.",
+        "subline": "this coat is taking it. no apology.",
+        "cta": "",
+        "caption": "Funny how we rehearse sorry more than we rehearse our own sentences.\n\nI have been shrinking my volume, my wants, my footprint, and calling it kindness. Turns out it was fear with good manners.\n\nToday the coat goes on the floor, full size, right in the middle. You do not owe anyone a smaller version of yourself.\n\nFollow @words.for.being — daily words for the person you are becoming.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfworth",
+          "#boundaries",
+          "#healingjourney",
+          "#selfcare"
+        ],
+        "image_prompt": "a light beige folded winter coat laid flat on a plain white floor in the centre of the frame, taking up space, nothing else around it",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-04",
+          "formula": 3,
+          "emotional_core": "apologising for existence, then stopping",
+          "visual_concept": "a coat laid flat on the floor, taking up space",
+          "physical_action": "a coat laid out full-size on the floor",
+          "hook": "i stopped apologising for taking up space.",
+          "subline": "this coat is taking it. no apology.",
+          "cta": "",
+          "caption": "Funny how we rehearse sorry more than we rehearse our own sentences.\n\nI have been shrinking my volume, my wants, my footprint, and calling it kindness. Turns out it was fear with good manners.\n\nToday the coat goes on the floor, full size, right in the middle. You do not owe anyone a smaller version of yourself.\n\nFollow @words.for.being — daily words for the person you are becoming.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfworth",
+            "#boundaries",
+            "#healingjourney",
+            "#selfcare"
+          ],
+          "image_prompt": "a light beige folded winter coat laid flat on a plain white floor in the centre of the frame, taking up space, nothing else around it",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -30,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -30,
+            "A-04"
+          ],
+          [
+            -30,
+            "A-05"
+          ],
+          [
+            -30,
+            "A-06"
+          ],
+          [
+            -30,
+            "A-07"
+          ],
+          [
+            -30,
+            "A-08"
+          ],
+          [
+            -30,
+            "A-09"
+          ],
+          [
+            -30,
+            "A-10"
+          ],
+          [
+            -30,
+            "A-11"
+          ],
+          [
+            -30,
+            "A-12"
+          ],
+          [
+            -30,
+            "A-13"
+          ],
+          [
+            -30,
+            "A-14"
+          ],
+          [
+            -30,
+            "A-15"
+          ],
+          [
+            -30,
+            "A-16"
+          ],
+          [
+            -30,
+            "B-04"
+          ],
+          [
+            -30,
+            "B-05"
+          ],
+          [
+            -30,
+            "B-06"
+          ],
+          [
+            -30,
+            "B-07"
+          ],
+          [
+            -30,
+            "B-08"
+          ],
+          [
+            -30,
+            "B-09"
+          ],
+          [
+            -30,
+            "B-10"
+          ],
+          [
+            -30,
+            "B-11"
+          ],
+          [
+            -30,
+            "B-12"
+          ],
+          [
+            -30,
+            "B-13"
+          ],
+          [
+            -30,
+            "B-14"
+          ],
+          [
+            -30,
+            "B-15"
+          ],
+          [
+            -30,
+            "B-16"
+          ],
+          [
+            -30,
+            "C-04"
+          ],
+          [
+            -30,
+            "C-05"
+          ],
+          [
+            -30,
+            "C-06"
+          ],
+          [
+            -30,
+            "C-07"
+          ],
+          [
+            -30,
+            "C-08"
+          ],
+          [
+            -30,
+            "C-09"
+          ],
+          [
+            -30,
+            "C-10"
+          ],
+          [
+            -30,
+            "C-11"
+          ],
+          [
+            -30,
+            "C-12"
+          ],
+          [
+            -30,
+            "C-13"
+          ],
+          [
+            -30,
+            "C-14"
+          ],
+          [
+            -30,
+            "C-15"
+          ],
+          [
+            -30,
+            "C-16"
+          ],
+          [
+            -30,
+            "D-04"
+          ],
+          [
+            -30,
+            "D-05"
+          ],
+          [
+            -30,
+            "D-06"
+          ],
+          [
+            -30,
+            "D-07"
+          ],
+          [
+            -30,
+            "D-08"
+          ],
+          [
+            -30,
+            "D-09"
+          ],
+          [
+            -30,
+            "D-10"
+          ],
+          [
+            -30,
+            "D-11"
+          ],
+          [
+            -30,
+            "D-12"
+          ],
+          [
+            -30,
+            "D-13"
+          ],
+          [
+            -30,
+            "D-14"
+          ],
+          [
+            -30,
+            "D-15"
+          ],
+          [
+            -30,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260923-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260923-001.jpg",
+        "provider": "pollinations",
+        "retries": 6,
+        "bg_luminance_avg": 233.0,
+        "bg_corners": [
+          233.0,
+          233.0,
+          233.0,
+          250.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.812,
+        "subject_bbox_height_frac": 0.048,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260923-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.1
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260923-001.txt",
+        "text": "Funny how we rehearse sorry more than we rehearse our own sentences.\n\nI have been shrinking my volume, my wants, my footprint, and calling it kindness. Turns out it was fear with good manners.\n\nToday the coat goes on the floor, full size, right in the middle. You do not owe anyone a smaller version of yourself.\n\nFollow @words.for.being — daily words for the person you are becoming.\n\n#wordsforbeing #selfworth #boundaries #healingjourney #selfcare"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 233.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-23T15:44:54.694876+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-23T15:38:43.661611+05:30",
+          "msg": "selected A-04 (cat A / formula 3: Casual raw confession, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-23T15:38:50.810132+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 27% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-23T15:39:33.151261+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 142.0 < 190); subject reaches into the text zone (top edge at 24% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-23T15:40:15.719534+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-23T15:41:00.243942+05:30",
+          "msg": "attempt 4 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-23T15:41:47.375764+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 167.0 < 190); subject reaches into the text zone (top edge at 33% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-23T15:43:11.291571+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 166.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-23T15:44:53.165475+05:30",
+          "msg": "image ready (retries=6, bg=233.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-23T15:44:54.692225+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.1MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-23T15:44:54.694881+05:30",
+          "msg": "caption ready (449 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-23T15:44:54.697147+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 27% of frame, must be <= 42%)",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 142.0 < 190); subject reaches into the text zone (top edge at 24% of frame, must be <= 42%); subject too tall (75% of frame height, must be <= 58%)",
+        "image attempt 3: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\",
+        "image attempt 4: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 167.0 < 190); subject reaches into the text zone (top edge at 33% of frame, must be <= 42%); subject too tall (66% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 166.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (70% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 6
     }
   ],
   "meta": {
