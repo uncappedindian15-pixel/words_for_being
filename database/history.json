@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T15:44:54.699293+05:30",
-  "count": 13,
+  "updated": "2026-09-24T15:51:57.432882+05:30",
+  "count": 14,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -105,6 +105,14 @@
       "category": "A",
       "formula": 3,
       "hook": "i stopped apologising for taking up space."
+    },
+    {
+      "post_id": "wfB-20260924-001",
+      "date": "2026-09-24",
+      "status": "FAILED",
+      "category": "B",
+      "formula": 3,
+      "hook": "i love him past, present, and future."
     }
   ]
 }

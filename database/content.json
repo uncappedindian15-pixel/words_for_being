@@ -4822,6 +4822,331 @@
         "image attempt 6: base image failed QC: background not off-white (avg corner luminance 166.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (70% of frame height, must be <= 58%)"
       ],
       "retries_total": 6
+    },
+    {
+      "post_id": "wfB-20260924-001",
+      "date": "2026-09-24",
+      "created": "2026-09-24T15:44:49.934155+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-04",
+        "formula": 3,
+        "emotional_core": "loving across tenses",
+        "visual_concept": "a calendar page with three dates circled in three colours",
+        "physical_action": "three dates circled on one calendar page",
+        "hook": "i love him past, present, and future.",
+        "subline": "every tense counts, even the rehearsed one",
+        "cta": "",
+        "caption": "I catch myself loving him in all three tenses at once.\n\nPast: the way he laughed at my bad joke in 2019. Present: the way he steals the blanket and apologises with breakfast. Future: the kitchen we will never finish renovating, the trips we will finally take.\n\nMost people only love in the present tense. You cannot. That is the problem, and it is the gift.\n\nWhich tense are you stuck in today?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#couples",
+          "#lovestory",
+          "#longdistance",
+          "#relationshipgoals"
+        ],
+        "image_prompt": "a single calendar page lying flat with three dates circled in three different coloured pens, a small heart drawn in the corner",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-04",
+          "formula": 3,
+          "emotional_core": "loving across tenses",
+          "visual_concept": "a calendar page with three dates circled in three colours",
+          "physical_action": "three dates circled on one calendar page",
+          "hook": "i love him past, present, and future.",
+          "subline": "every tense counts, even the rehearsed one",
+          "cta": "",
+          "caption": "I catch myself loving him in all three tenses at once.\n\nPast: the way he laughed at my bad joke in 2019. Present: the way he steals the blanket and apologises with breakfast. Future: the kitchen we will never finish renovating, the trips we will finally take.\n\nMost people only love in the present tense. You cannot. That is the problem, and it is the gift.\n\nWhich tense are you stuck in today?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#couples",
+            "#lovestory",
+            "#longdistance",
+            "#relationshipgoals"
+          ],
+          "image_prompt": "a single calendar page lying flat with three dates circled in three different coloured pens, a small heart drawn in the corner",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -30,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -40,
+            "A-05"
+          ],
+          [
+            -40,
+            "A-06"
+          ],
+          [
+            -40,
+            "A-07"
+          ],
+          [
+            -40,
+            "A-08"
+          ],
+          [
+            -40,
+            "A-09"
+          ],
+          [
+            -40,
+            "A-10"
+          ],
+          [
+            -40,
+            "A-11"
+          ],
+          [
+            -40,
+            "A-12"
+          ],
+          [
+            -40,
+            "A-13"
+          ],
+          [
+            -40,
+            "A-14"
+          ],
+          [
+            -40,
+            "A-15"
+          ],
+          [
+            -40,
+            "A-16"
+          ],
+          [
+            -30,
+            "B-04"
+          ],
+          [
+            -30,
+            "B-05"
+          ],
+          [
+            -30,
+            "B-06"
+          ],
+          [
+            -30,
+            "B-07"
+          ],
+          [
+            -30,
+            "B-08"
+          ],
+          [
+            -30,
+            "B-09"
+          ],
+          [
+            -30,
+            "B-10"
+          ],
+          [
+            -30,
+            "B-11"
+          ],
+          [
+            -30,
+            "B-12"
+          ],
+          [
+            -30,
+            "B-13"
+          ],
+          [
+            -30,
+            "B-14"
+          ],
+          [
+            -30,
+            "B-15"
+          ],
+          [
+            -30,
+            "B-16"
+          ],
+          [
+            -30,
+            "C-04"
+          ],
+          [
+            -30,
+            "C-05"
+          ],
+          [
+            -30,
+            "C-06"
+          ],
+          [
+            -30,
+            "C-07"
+          ],
+          [
+            -30,
+            "C-08"
+          ],
+          [
+            -30,
+            "C-09"
+          ],
+          [
+            -30,
+            "C-10"
+          ],
+          [
+            -30,
+            "C-11"
+          ],
+          [
+            -30,
+            "C-12"
+          ],
+          [
+            -30,
+            "C-13"
+          ],
+          [
+            -30,
+            "C-14"
+          ],
+          [
+            -30,
+            "C-15"
+          ],
+          [
+            -30,
+            "C-16"
+          ],
+          [
+            -30,
+            "D-04"
+          ],
+          [
+            -30,
+            "D-05"
+          ],
+          [
+            -30,
+            "D-06"
+          ],
+          [
+            -30,
+            "D-07"
+          ],
+          [
+            -30,
+            "D-08"
+          ],
+          [
+            -30,
+            "D-09"
+          ],
+          [
+            -30,
+            "D-10"
+          ],
+          [
+            -30,
+            "D-11"
+          ],
+          [
+            -30,
+            "D-12"
+          ],
+          [
+            -30,
+            "D-13"
+          ],
+          [
+            -30,
+            "D-14"
+          ],
+          [
+            -30,
+            "D-15"
+          ],
+          [
+            -30,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-24T15:44:49.943322+05:30",
+          "msg": "selected B-04 (cat B / formula 3: Casual raw confession, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-24T15:45:00.395723+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 18% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-24T15:45:45.712587+05:30",
+          "msg": "attempt 2 failed: base image failed QC: subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (89% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-24T15:46:29.541802+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.101 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-24T15:47:26.870259+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.364 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-24T15:48:41.975657+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject reaches into the text zone (top edge at 28% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-24T15:50:11.965824+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.142 > 0.07); subject reaches into the text zone (top edge at 10% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-24T15:51:57.428448+05:30",
+          "msg": "attempt 7 failed: base image failed QC: subject reaches into the text zone (top edge at 41% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 18% of frame, must be <= 42%)",
+        "image attempt 2: base image failed QC: subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (89% of frame height, must be <= 58%)",
+        "image attempt 3: base image failed QC: subject too high in frame (top-zone subject fraction 0.101 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (85% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: subject too high in frame (top-zone subject fraction 0.364 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (78% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 28% of frame, must be <= 42%)",
+        "image attempt 6: base image failed QC: subject too high in frame (top-zone subject fraction 0.142 > 0.07); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 41% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
