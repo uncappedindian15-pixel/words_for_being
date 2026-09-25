@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T15:51:57.432882+05:30",
-  "count": 14,
+  "updated": "2026-09-25T15:50:05.989283+05:30",
+  "count": 15,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -113,6 +113,14 @@
       "category": "B",
       "formula": 3,
       "hook": "i love him past, present, and future."
+    },
+    {
+      "post_id": "wfB-20260925-001",
+      "date": "2026-09-25",
+      "status": "READY_TO_PUBLISH",
+      "category": "C",
+      "formula": 3,
+      "hook": "i counted 14 apologies and zero changes."
     }
   ]
 }

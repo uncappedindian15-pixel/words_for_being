@@ -5147,6 +5147,343 @@
         "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 41% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20260925-001",
+      "date": "2026-09-25",
+      "created": "2026-09-25T15:49:08.379135+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "C-04",
+        "formula": 3,
+        "emotional_core": "counting apologies, not changes",
+        "visual_concept": "a small open ledger with tidy tally marks",
+        "physical_action": "tally marks counted and recorded in a ledger",
+        "hook": "i counted 14 apologies and zero changes.",
+        "subline": "the math does not lie",
+        "cta": "Tag someone who needs this.",
+        "caption": "There is a specific kind of sorry that costs nothing — said quickly, said often, said like a coin in a meter.\n\nFourteen of them this year. Fourteen doors that opened and closed the same way.\n\nI stopped counting the words and started counting the receipts: the same behaviour, the same day, the same it-will-not-happen-again.\n\nThe math was never close. Apology without change is just a better-sounding version of the same wound.\n\nYou have earned your silence now. Use it well.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#toxicrelationships",
+          "#patterns",
+          "#selfworth",
+          "#recovery"
+        ],
+        "image_prompt": "a small open ledger with neat rows of tally marks, a pencil resting across the open pages, a calm desk corner",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-04",
+          "formula": 3,
+          "emotional_core": "counting apologies, not changes",
+          "visual_concept": "a small open ledger with tidy tally marks",
+          "physical_action": "tally marks counted and recorded in a ledger",
+          "hook": "i counted 14 apologies and zero changes.",
+          "subline": "the math does not lie",
+          "cta": "Tag someone who needs this.",
+          "caption": "There is a specific kind of sorry that costs nothing — said quickly, said often, said like a coin in a meter.\n\nFourteen of them this year. Fourteen doors that opened and closed the same way.\n\nI stopped counting the words and started counting the receipts: the same behaviour, the same day, the same it-will-not-happen-again.\n\nThe math was never close. Apology without change is just a better-sounding version of the same wound.\n\nYou have earned your silence now. Use it well.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#toxicrelationships",
+            "#patterns",
+            "#selfworth",
+            "#recovery"
+          ],
+          "image_prompt": "a small open ledger with neat rows of tally marks, a pencil resting across the open pages, a calm desk corner",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -30,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -40,
+            "A-05"
+          ],
+          [
+            -40,
+            "A-06"
+          ],
+          [
+            -40,
+            "A-07"
+          ],
+          [
+            -40,
+            "A-08"
+          ],
+          [
+            -40,
+            "A-09"
+          ],
+          [
+            -40,
+            "A-10"
+          ],
+          [
+            -40,
+            "A-11"
+          ],
+          [
+            -40,
+            "A-12"
+          ],
+          [
+            -40,
+            "A-13"
+          ],
+          [
+            -40,
+            "A-14"
+          ],
+          [
+            -40,
+            "A-15"
+          ],
+          [
+            -40,
+            "A-16"
+          ],
+          [
+            -40,
+            "B-05"
+          ],
+          [
+            -40,
+            "B-06"
+          ],
+          [
+            -40,
+            "B-07"
+          ],
+          [
+            -40,
+            "B-08"
+          ],
+          [
+            -40,
+            "B-09"
+          ],
+          [
+            -40,
+            "B-10"
+          ],
+          [
+            -40,
+            "B-11"
+          ],
+          [
+            -40,
+            "B-12"
+          ],
+          [
+            -40,
+            "B-13"
+          ],
+          [
+            -40,
+            "B-14"
+          ],
+          [
+            -40,
+            "B-15"
+          ],
+          [
+            -40,
+            "B-16"
+          ],
+          [
+            -30,
+            "C-04"
+          ],
+          [
+            -30,
+            "C-05"
+          ],
+          [
+            -30,
+            "C-06"
+          ],
+          [
+            -30,
+            "C-07"
+          ],
+          [
+            -30,
+            "C-08"
+          ],
+          [
+            -30,
+            "C-09"
+          ],
+          [
+            -30,
+            "C-10"
+          ],
+          [
+            -30,
+            "C-11"
+          ],
+          [
+            -30,
+            "C-12"
+          ],
+          [
+            -30,
+            "C-13"
+          ],
+          [
+            -30,
+            "C-14"
+          ],
+          [
+            -30,
+            "C-15"
+          ],
+          [
+            -30,
+            "C-16"
+          ],
+          [
+            -30,
+            "D-04"
+          ],
+          [
+            -30,
+            "D-05"
+          ],
+          [
+            -30,
+            "D-06"
+          ],
+          [
+            -30,
+            "D-07"
+          ],
+          [
+            -30,
+            "D-08"
+          ],
+          [
+            -30,
+            "D-09"
+          ],
+          [
+            -30,
+            "D-10"
+          ],
+          [
+            -30,
+            "D-11"
+          ],
+          [
+            -30,
+            "D-12"
+          ],
+          [
+            -30,
+            "D-13"
+          ],
+          [
+            -30,
+            "D-14"
+          ],
+          [
+            -30,
+            "D-15"
+          ],
+          [
+            -30,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260925-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260925-001.jpg",
+        "provider": "pollinations",
+        "retries": 1,
+        "bg_luminance_avg": 244.0,
+        "bg_corners": [
+          252.0,
+          254.0,
+          244.0,
+          251.0
+        ],
+        "subject_top_frac": 0.001,
+        "subject_bbox_top_frac": 0.788,
+        "subject_bbox_height_frac": 0.151,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260925-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.11
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260925-001.txt",
+        "text": "There is a specific kind of sorry that costs nothing — said quickly, said often, said like a coin in a meter.\n\nFourteen of them this year. Fourteen doors that opened and closed the same way.\n\nI stopped counting the words and started counting the receipts: the same behaviour, the same day, the same it-will-not-happen-again.\n\nThe math was never close. Apology without change is just a better-sounding version of the same wound.\n\nYou have earned your silence now. Use it well.\n\n#wordsforbeing #toxicrelationships #patterns #selfworth #recovery"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 244.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-25T15:50:05.980353+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-25T15:49:08.390032+05:30",
+          "msg": "selected C-04 (cat C / formula 3: Casual raw confession, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-25T15:49:09.629927+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-25T15:50:03.616027+05:30",
+          "msg": "image ready (retries=1, bg=244.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-25T15:50:05.975269+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.11MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-25T15:50:05.980363+05:30",
+          "msg": "caption ready (542 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-25T15:50:05.985070+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\"
+      ],
+      "retries_total": 1
     }
   ],
   "meta": {
