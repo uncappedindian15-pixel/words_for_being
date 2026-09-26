@@ -5484,6 +5484,331 @@
         "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\"
       ],
       "retries_total": 1
+    },
+    {
+      "post_id": "wfB-20260926-001",
+      "date": "2026-09-26",
+      "created": "2026-09-26T15:28:35.264360+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-04",
+        "formula": 6,
+        "emotional_core": "the ignored pot makes the best tea",
+        "visual_concept": "a kettle and cups, the forgotten one with the best steam",
+        "physical_action": "steam rising thickest from the forgotten cup",
+        "hook": "Life tip: ignored tea steeps the best.",
+        "subline": "steep in silence",
+        "cta": "Save this for later.",
+        "caption": "Here is a life tip that is also a warning: the best cup of tea is the one you forgot about.\n\nThe forgotten pot, left on the back of the stove, steeps while you are busy — and when you remember it, it is the deepest, the most complex, the one you actually taste.\n\nPeople work the same way. The relationship you check on every hour never develops a flavour. The one you let steep in silence comes back rich.\n\nSo: stop checking the pot. It is fine. It is becoming something.\n\nWhat is a forgotten pot in your life right now?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#patience",
+          "#tea",
+          "#lifelessons",
+          "#relatable"
+        ],
+        "image_prompt": "a small kettle beside three cups, one cup in the back with the richest steam rising, the other two calm and quiet",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-04",
+          "formula": 6,
+          "emotional_core": "the ignored pot makes the best tea",
+          "visual_concept": "a kettle and cups, the forgotten one with the best steam",
+          "physical_action": "steam rising thickest from the forgotten cup",
+          "hook": "Life tip: ignored tea steeps the best.",
+          "subline": "steep in silence",
+          "cta": "Save this for later.",
+          "caption": "Here is a life tip that is also a warning: the best cup of tea is the one you forgot about.\n\nThe forgotten pot, left on the back of the stove, steeps while you are busy — and when you remember it, it is the deepest, the most complex, the one you actually taste.\n\nPeople work the same way. The relationship you check on every hour never develops a flavour. The one you let steep in silence comes back rich.\n\nSo: stop checking the pot. It is fine. It is becoming something.\n\nWhat is a forgotten pot in your life right now?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#patience",
+            "#tea",
+            "#lifelessons",
+            "#relatable"
+          ],
+          "image_prompt": "a small kettle beside three cups, one cup in the back with the richest steam rising, the other two calm and quiet",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -30,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -40,
+            "A-05"
+          ],
+          [
+            -40,
+            "A-06"
+          ],
+          [
+            -40,
+            "A-07"
+          ],
+          [
+            -40,
+            "A-08"
+          ],
+          [
+            -40,
+            "A-09"
+          ],
+          [
+            -40,
+            "A-10"
+          ],
+          [
+            -40,
+            "A-11"
+          ],
+          [
+            -40,
+            "A-12"
+          ],
+          [
+            -40,
+            "A-13"
+          ],
+          [
+            -40,
+            "A-14"
+          ],
+          [
+            -40,
+            "A-15"
+          ],
+          [
+            -40,
+            "A-16"
+          ],
+          [
+            -40,
+            "B-05"
+          ],
+          [
+            -40,
+            "B-06"
+          ],
+          [
+            -40,
+            "B-07"
+          ],
+          [
+            -40,
+            "B-08"
+          ],
+          [
+            -40,
+            "B-09"
+          ],
+          [
+            -40,
+            "B-10"
+          ],
+          [
+            -40,
+            "B-11"
+          ],
+          [
+            -40,
+            "B-12"
+          ],
+          [
+            -40,
+            "B-13"
+          ],
+          [
+            -40,
+            "B-14"
+          ],
+          [
+            -40,
+            "B-15"
+          ],
+          [
+            -40,
+            "B-16"
+          ],
+          [
+            -40,
+            "C-05"
+          ],
+          [
+            -40,
+            "C-06"
+          ],
+          [
+            -40,
+            "C-07"
+          ],
+          [
+            -40,
+            "C-08"
+          ],
+          [
+            -40,
+            "C-09"
+          ],
+          [
+            -40,
+            "C-10"
+          ],
+          [
+            -40,
+            "C-11"
+          ],
+          [
+            -40,
+            "C-12"
+          ],
+          [
+            -40,
+            "C-13"
+          ],
+          [
+            -40,
+            "C-14"
+          ],
+          [
+            -40,
+            "C-15"
+          ],
+          [
+            -40,
+            "C-16"
+          ],
+          [
+            -30,
+            "D-04"
+          ],
+          [
+            -30,
+            "D-05"
+          ],
+          [
+            -30,
+            "D-06"
+          ],
+          [
+            -30,
+            "D-07"
+          ],
+          [
+            -30,
+            "D-08"
+          ],
+          [
+            -30,
+            "D-09"
+          ],
+          [
+            -30,
+            "D-10"
+          ],
+          [
+            -30,
+            "D-11"
+          ],
+          [
+            -30,
+            "D-12"
+          ],
+          [
+            -30,
+            "D-13"
+          ],
+          [
+            -30,
+            "D-14"
+          ],
+          [
+            -30,
+            "D-15"
+          ],
+          [
+            -30,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260926-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260926-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 239.0,
+        "bg_corners": [
+          248.0,
+          239.0,
+          254.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.866,
+        "subject_bbox_height_frac": 0.013,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260926-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.08
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260926-001.txt",
+        "text": "Here is a life tip that is also a warning: the best cup of tea is the one you forgot about.\n\nThe forgotten pot, left on the back of the stove, steeps while you are busy — and when you remember it, it is the deepest, the most complex, the one you actually taste.\n\nPeople work the same way. The relationship you check on every hour never develops a flavour. The one you let steep in silence comes back rich.\n\nSo: stop checking the pot. It is fine. It is becoming something.\n\nWhat is a forgotten pot in your life right now?\n\n#wordsforbeing #patience #tea #lifelessons #relatable"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 239.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-26T15:28:48.813812+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-26T15:28:35.275780+05:30",
+          "msg": "selected D-04 (cat D / formula 6: Life tip / Rule, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-26T15:28:46.622480+05:30",
+          "msg": "image ready (retries=0, bg=239.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-26T15:28:48.808478+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.08MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-26T15:28:48.813822+05:30",
+          "msg": "caption ready (575 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-26T15:28:48.818887+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {

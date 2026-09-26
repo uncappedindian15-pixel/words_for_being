@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T15:50:05.989283+05:30",
-  "count": 15,
+  "updated": "2026-09-26T15:28:48.823633+05:30",
+  "count": 16,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -121,6 +121,14 @@
       "category": "C",
       "formula": 3,
       "hook": "i counted 14 apologies and zero changes."
+    },
+    {
+      "post_id": "wfB-20260926-001",
+      "date": "2026-09-26",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 6,
+      "hook": "Life tip: ignored tea steeps the best."
     }
   ]
 }
