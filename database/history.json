@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T15:28:48.823633+05:30",
-  "count": 16,
+  "updated": "2026-09-27T16:14:12.162991+05:30",
+  "count": 17,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -129,6 +129,14 @@
       "category": "D",
       "formula": 6,
       "hook": "Life tip: ignored tea steeps the best."
+    },
+    {
+      "post_id": "wfB-20260927-001",
+      "date": "2026-09-27",
+      "status": "FAILED",
+      "category": "A",
+      "formula": 6,
+      "hook": "Rule: rest is maintenance, not a reward."
     }
   ]
 }

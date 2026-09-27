@@ -5809,6 +5809,319 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20260927-001",
+      "date": "2026-09-27",
+      "created": "2026-09-27T16:08:20.343303+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-05",
+        "formula": 6,
+        "emotional_core": "rest as maintenance, not reward",
+        "visual_concept": "a phone face down, a book face up, a kettle pouring",
+        "physical_action": "a kettle pouring while the phone lies face down",
+        "hook": "Rule: rest is maintenance, not a reward.",
+        "subline": "you do not earn a break",
+        "cta": "",
+        "caption": "We treat rest like a prize at the end of a race that never finishes. So the race never finishes.\n\nRest is not the medal for surviving. It is the oil that keeps the machine from seizing.\n\nA phone face down. A book face up. A kettle on. That is not laziness, that is engineering.\n\nSave this rule for your next I deserve this moment. You do, always.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#rest",
+          "#selfcare",
+          "#burnoutrecovery",
+          "#lifelessons"
+        ],
+        "image_prompt": "a smartphone lying face down on a small table, an open book face up beside it, a kettle pouring into a cup, steam rising in a soft curve",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-05",
+          "formula": 6,
+          "emotional_core": "rest as maintenance, not reward",
+          "visual_concept": "a phone face down, a book face up, a kettle pouring",
+          "physical_action": "a kettle pouring while the phone lies face down",
+          "hook": "Rule: rest is maintenance, not a reward.",
+          "subline": "you do not earn a break",
+          "cta": "",
+          "caption": "We treat rest like a prize at the end of a race that never finishes. So the race never finishes.\n\nRest is not the medal for surviving. It is the oil that keeps the machine from seizing.\n\nA phone face down. A book face up. A kettle on. That is not laziness, that is engineering.\n\nSave this rule for your next I deserve this moment. You do, always.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#rest",
+            "#selfcare",
+            "#burnoutrecovery",
+            "#lifelessons"
+          ],
+          "image_prompt": "a smartphone lying face down on a small table, an open book face up beside it, a kettle pouring into a cup, steam rising in a soft curve",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -40,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -40,
+            "A-05"
+          ],
+          [
+            -40,
+            "A-06"
+          ],
+          [
+            -40,
+            "A-07"
+          ],
+          [
+            -40,
+            "A-08"
+          ],
+          [
+            -40,
+            "A-09"
+          ],
+          [
+            -40,
+            "A-10"
+          ],
+          [
+            -40,
+            "A-11"
+          ],
+          [
+            -40,
+            "A-12"
+          ],
+          [
+            -40,
+            "A-13"
+          ],
+          [
+            -40,
+            "A-14"
+          ],
+          [
+            -40,
+            "A-15"
+          ],
+          [
+            -40,
+            "A-16"
+          ],
+          [
+            -40,
+            "B-05"
+          ],
+          [
+            -40,
+            "B-06"
+          ],
+          [
+            -40,
+            "B-07"
+          ],
+          [
+            -40,
+            "B-08"
+          ],
+          [
+            -40,
+            "B-09"
+          ],
+          [
+            -40,
+            "B-10"
+          ],
+          [
+            -40,
+            "B-11"
+          ],
+          [
+            -40,
+            "B-12"
+          ],
+          [
+            -40,
+            "B-13"
+          ],
+          [
+            -40,
+            "B-14"
+          ],
+          [
+            -40,
+            "B-15"
+          ],
+          [
+            -40,
+            "B-16"
+          ],
+          [
+            -40,
+            "C-05"
+          ],
+          [
+            -40,
+            "C-06"
+          ],
+          [
+            -40,
+            "C-07"
+          ],
+          [
+            -40,
+            "C-08"
+          ],
+          [
+            -40,
+            "C-09"
+          ],
+          [
+            -40,
+            "C-10"
+          ],
+          [
+            -40,
+            "C-11"
+          ],
+          [
+            -40,
+            "C-12"
+          ],
+          [
+            -40,
+            "C-13"
+          ],
+          [
+            -40,
+            "C-14"
+          ],
+          [
+            -40,
+            "C-15"
+          ],
+          [
+            -40,
+            "C-16"
+          ],
+          [
+            -40,
+            "D-05"
+          ],
+          [
+            -40,
+            "D-06"
+          ],
+          [
+            -40,
+            "D-07"
+          ],
+          [
+            -40,
+            "D-08"
+          ],
+          [
+            -40,
+            "D-09"
+          ],
+          [
+            -40,
+            "D-10"
+          ],
+          [
+            -40,
+            "D-11"
+          ],
+          [
+            -40,
+            "D-12"
+          ],
+          [
+            -40,
+            "D-13"
+          ],
+          [
+            -40,
+            "D-14"
+          ],
+          [
+            -40,
+            "D-15"
+          ],
+          [
+            -40,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-27T16:08:20.351098+05:30",
+          "msg": "selected A-05 (cat A / formula 6: Life tip / Rule, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-27T16:08:22.153204+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-27T16:09:10.285607+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 141.0 < 190); subject too high in frame (top-zone subject fraction 0.418 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-27T16:09:54.001438+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 125.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-27T16:10:47.943155+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 127.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-27T16:12:00.267865+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.261 > 0.07); subject reaches into the text zone (top edge at 12% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-27T16:13:21.634304+05:30",
+          "msg": "attempt 6 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-27T16:14:12.159037+05:30",
+          "msg": "attempt 7 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.407 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be "
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 141.0 < 190); subject too high in frame (top-zone subject fraction 0.418 > 0.07); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (99% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 125.0 < 190)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 127.0 < 190)",
+        "image attempt 5: base image failed QC: subject too high in frame (top-zone subject fraction 0.261 > 0.07); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%); subject too tall (79% of frame height, must be <= 58%)",
+        "image attempt 6: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\",
+        "image attempt 7: base image failed QC: subject too high in frame (top-zone subject fraction 0.407 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (61% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
