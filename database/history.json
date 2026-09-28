@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T16:14:12.162991+05:30",
-  "count": 17,
+  "updated": "2026-09-28T17:26:56.456804+05:30",
+  "count": 18,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -137,6 +137,14 @@
       "category": "A",
       "formula": 6,
       "hook": "Rule: rest is maintenance, not a reward."
+    },
+    {
+      "post_id": "wfB-20260928-001",
+      "date": "2026-09-28",
+      "status": "FAILED",
+      "category": "B",
+      "formula": 6,
+      "hook": "Rule: say it before it seasons."
     }
   ]
 }

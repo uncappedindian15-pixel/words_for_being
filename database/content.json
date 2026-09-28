@@ -6122,6 +6122,315 @@
         "image attempt 7: base image failed QC: subject too high in frame (top-zone subject fraction 0.407 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (61% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20260928-001",
+      "date": "2026-09-28",
+      "created": "2026-09-28T17:19:44.207523+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-05",
+        "formula": 6,
+        "emotional_core": "words lose flavour in silence",
+        "visual_concept": "a jar of preserves with a fresh blank label, a pen beside it",
+        "physical_action": "a fresh label waiting on the jar",
+        "hook": "Rule: say it before it seasons.",
+        "subline": "i love you goes stale in silence",
+        "cta": "",
+        "caption": "Here is a rule I should have learned earlier: I love you is not a feeling, it is a habit.\n\nThe day you stop saying it, it does not die — it seasons. It turns thick, quiet, slightly bitter, like something forgotten in the back of a shelf.\n\nSay it in the small moments, when it is easy, when there is no reason. The jar looks the same either way. The flavour is everything.\n\nSay it today. Out loud. Not in a text.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#lovelanguage",
+          "#relationships",
+          "#wordsmatter",
+          "#couples"
+        ],
+        "image_prompt": "a small glass jar of preserves with a fresh blank paper label tied with string, a pen resting beside it, warm soft light",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-05",
+          "formula": 6,
+          "emotional_core": "words lose flavour in silence",
+          "visual_concept": "a jar of preserves with a fresh blank label, a pen beside it",
+          "physical_action": "a fresh label waiting on the jar",
+          "hook": "Rule: say it before it seasons.",
+          "subline": "i love you goes stale in silence",
+          "cta": "",
+          "caption": "Here is a rule I should have learned earlier: I love you is not a feeling, it is a habit.\n\nThe day you stop saying it, it does not die — it seasons. It turns thick, quiet, slightly bitter, like something forgotten in the back of a shelf.\n\nSay it in the small moments, when it is easy, when there is no reason. The jar looks the same either way. The flavour is everything.\n\nSay it today. Out loud. Not in a text.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#lovelanguage",
+            "#relationships",
+            "#wordsmatter",
+            "#couples"
+          ],
+          "image_prompt": "a small glass jar of preserves with a fresh blank paper label tied with string, a pen resting beside it, warm soft light",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -40,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -50,
+            "A-06"
+          ],
+          [
+            -50,
+            "A-07"
+          ],
+          [
+            -50,
+            "A-08"
+          ],
+          [
+            -50,
+            "A-09"
+          ],
+          [
+            -50,
+            "A-10"
+          ],
+          [
+            -50,
+            "A-11"
+          ],
+          [
+            -50,
+            "A-12"
+          ],
+          [
+            -50,
+            "A-13"
+          ],
+          [
+            -50,
+            "A-14"
+          ],
+          [
+            -50,
+            "A-15"
+          ],
+          [
+            -50,
+            "A-16"
+          ],
+          [
+            -40,
+            "B-05"
+          ],
+          [
+            -40,
+            "B-06"
+          ],
+          [
+            -40,
+            "B-07"
+          ],
+          [
+            -40,
+            "B-08"
+          ],
+          [
+            -40,
+            "B-09"
+          ],
+          [
+            -40,
+            "B-10"
+          ],
+          [
+            -40,
+            "B-11"
+          ],
+          [
+            -40,
+            "B-12"
+          ],
+          [
+            -40,
+            "B-13"
+          ],
+          [
+            -40,
+            "B-14"
+          ],
+          [
+            -40,
+            "B-15"
+          ],
+          [
+            -40,
+            "B-16"
+          ],
+          [
+            -40,
+            "C-05"
+          ],
+          [
+            -40,
+            "C-06"
+          ],
+          [
+            -40,
+            "C-07"
+          ],
+          [
+            -40,
+            "C-08"
+          ],
+          [
+            -40,
+            "C-09"
+          ],
+          [
+            -40,
+            "C-10"
+          ],
+          [
+            -40,
+            "C-11"
+          ],
+          [
+            -40,
+            "C-12"
+          ],
+          [
+            -40,
+            "C-13"
+          ],
+          [
+            -40,
+            "C-14"
+          ],
+          [
+            -40,
+            "C-15"
+          ],
+          [
+            -40,
+            "C-16"
+          ],
+          [
+            -40,
+            "D-05"
+          ],
+          [
+            -40,
+            "D-06"
+          ],
+          [
+            -40,
+            "D-07"
+          ],
+          [
+            -40,
+            "D-08"
+          ],
+          [
+            -40,
+            "D-09"
+          ],
+          [
+            -40,
+            "D-10"
+          ],
+          [
+            -40,
+            "D-11"
+          ],
+          [
+            -40,
+            "D-12"
+          ],
+          [
+            -40,
+            "D-13"
+          ],
+          [
+            -40,
+            "D-14"
+          ],
+          [
+            -40,
+            "D-15"
+          ],
+          [
+            -40,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-28T17:19:44.215824+05:30",
+          "msg": "selected B-05 (cat B / formula 6: Life tip / Rule, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-28T17:19:48.376427+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 133.0 < 190); subject reaches into the text zone (top edge at 29% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-28T17:20:34.221472+05:30",
+          "msg": "attempt 2 failed: base image failed QC: background not off-white (avg corner luminance 119.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-28T17:21:38.749801+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject reaches into the text zone (top edge at 15% of frame, must be <= 42%); subject too tall (67% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-28T17:22:33.631717+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 170.0 < 190); subject reaches into the text zone (top edge at 24% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-28T17:23:48.012373+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject reaches into the text zone (top edge at 26% of frame, must be <= 42%); subject too tall (62% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-28T17:25:17.790596+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (71% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-28T17:26:56.451259+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 180.0 < 190); subject too high in frame (top-zone subject fraction 0.109 > 0.07); subject r"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 133.0 < 190); subject reaches into the text zone (top edge at 29% of frame, must be <= 42%)",
+        "image attempt 2: base image failed QC: background not off-white (avg corner luminance 119.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%); subject too tall (79% of frame height, must be <= 58%)",
+        "image attempt 3: base image failed QC: subject reaches into the text zone (top edge at 15% of frame, must be <= 42%); subject too tall (67% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 170.0 < 190); subject reaches into the text zone (top edge at 24% of frame, must be <= 42%); subject too tall (75% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 26% of frame, must be <= 42%); subject too tall (62% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (71% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 180.0 < 190); subject too high in frame (top-zone subject fraction 0.109 > 0.07); subject reaches into the text zone (top edge at 15% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
