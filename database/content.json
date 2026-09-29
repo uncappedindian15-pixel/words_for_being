@@ -6431,6 +6431,319 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 180.0 < 190); subject too high in frame (top-zone subject fraction 0.109 > 0.07); subject reaches into the text zone (top edge at 15% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20260929-001",
+      "date": "2026-09-29",
+      "created": "2026-09-29T16:57:11.740914+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "C-05",
+        "formula": 6,
+        "emotional_core": "the person who needs your silence",
+        "visual_concept": "a glass jar with a single stone, a blank label",
+        "physical_action": "a stone kept in a jar, labelled nothing",
+        "hook": "Rule: they want silence because they manage you.",
+        "subline": "quiet is a choice. silence is a tool",
+        "cta": "",
+        "caption": "There is a difference between a quiet person and a person who wants you quiet.\n\nQuiet is a temperament — they choose their words. Controlling is a tool — they choose your absence.\n\nIf your voice is only welcome on their schedule, in their volume, at their convenience, you are not in a calm relationship. You are in a managed one.\n\nQuiet people do not need your silence. They just prefer good conversations.\n\nSay one true sentence this week and watch who flinches.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#boundaries",
+          "#toxicrelationships",
+          "#redflags",
+          "#communication"
+        ],
+        "image_prompt": "a clear glass jar with a single smooth stone resting inside, a small blank paper label taped to the side, on a plain surface",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-05",
+          "formula": 6,
+          "emotional_core": "the person who needs your silence",
+          "visual_concept": "a glass jar with a single stone, a blank label",
+          "physical_action": "a stone kept in a jar, labelled nothing",
+          "hook": "Rule: they want silence because they manage you.",
+          "subline": "quiet is a choice. silence is a tool",
+          "cta": "",
+          "caption": "There is a difference between a quiet person and a person who wants you quiet.\n\nQuiet is a temperament — they choose their words. Controlling is a tool — they choose your absence.\n\nIf your voice is only welcome on their schedule, in their volume, at their convenience, you are not in a calm relationship. You are in a managed one.\n\nQuiet people do not need your silence. They just prefer good conversations.\n\nSay one true sentence this week and watch who flinches.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#boundaries",
+            "#toxicrelationships",
+            "#redflags",
+            "#communication"
+          ],
+          "image_prompt": "a clear glass jar with a single smooth stone resting inside, a small blank paper label taped to the side, on a plain surface",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -40,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -50,
+            "A-06"
+          ],
+          [
+            -50,
+            "A-07"
+          ],
+          [
+            -50,
+            "A-08"
+          ],
+          [
+            -50,
+            "A-09"
+          ],
+          [
+            -50,
+            "A-10"
+          ],
+          [
+            -50,
+            "A-11"
+          ],
+          [
+            -50,
+            "A-12"
+          ],
+          [
+            -50,
+            "A-13"
+          ],
+          [
+            -50,
+            "A-14"
+          ],
+          [
+            -50,
+            "A-15"
+          ],
+          [
+            -50,
+            "A-16"
+          ],
+          [
+            -50,
+            "B-06"
+          ],
+          [
+            -50,
+            "B-07"
+          ],
+          [
+            -50,
+            "B-08"
+          ],
+          [
+            -50,
+            "B-09"
+          ],
+          [
+            -50,
+            "B-10"
+          ],
+          [
+            -50,
+            "B-11"
+          ],
+          [
+            -50,
+            "B-12"
+          ],
+          [
+            -50,
+            "B-13"
+          ],
+          [
+            -50,
+            "B-14"
+          ],
+          [
+            -50,
+            "B-15"
+          ],
+          [
+            -50,
+            "B-16"
+          ],
+          [
+            -40,
+            "C-05"
+          ],
+          [
+            -40,
+            "C-06"
+          ],
+          [
+            -40,
+            "C-07"
+          ],
+          [
+            -40,
+            "C-08"
+          ],
+          [
+            -40,
+            "C-09"
+          ],
+          [
+            -40,
+            "C-10"
+          ],
+          [
+            -40,
+            "C-11"
+          ],
+          [
+            -40,
+            "C-12"
+          ],
+          [
+            -40,
+            "C-13"
+          ],
+          [
+            -40,
+            "C-14"
+          ],
+          [
+            -40,
+            "C-15"
+          ],
+          [
+            -40,
+            "C-16"
+          ],
+          [
+            -40,
+            "D-05"
+          ],
+          [
+            -40,
+            "D-06"
+          ],
+          [
+            -40,
+            "D-07"
+          ],
+          [
+            -40,
+            "D-08"
+          ],
+          [
+            -40,
+            "D-09"
+          ],
+          [
+            -40,
+            "D-10"
+          ],
+          [
+            -40,
+            "D-11"
+          ],
+          [
+            -40,
+            "D-12"
+          ],
+          [
+            -40,
+            "D-13"
+          ],
+          [
+            -40,
+            "D-14"
+          ],
+          [
+            -40,
+            "D-15"
+          ],
+          [
+            -40,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260929-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20260929-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 242.0,
+        "bg_corners": [
+          242.0,
+          251.0,
+          250.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.866,
+        "subject_bbox_height_frac": 0.004,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20260929-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.1
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20260929-001.txt",
+        "text": "There is a difference between a quiet person and a person who wants you quiet.\n\nQuiet is a temperament — they choose their words. Controlling is a tool — they choose your absence.\n\nIf your voice is only welcome on their schedule, in their volume, at their convenience, you are not in a calm relationship. You are in a managed one.\n\nQuiet people do not need your silence. They just prefer good conversations.\n\nSay one true sentence this week and watch who flinches.\n\n#wordsforbeing #boundaries #toxicrelationships #redflags #communication"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 242.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-09-29T16:57:23.502968+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-29T16:57:11.750665+05:30",
+          "msg": "selected C-05 (cat C / formula 6: Life tip / Rule, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-09-29T16:57:21.699369+05:30",
+          "msg": "image ready (retries=0, bg=242.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-09-29T16:57:23.498086+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.1MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-09-29T16:57:23.502976+05:30",
+          "msg": "caption ready (537 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-09-29T16:57:23.507783+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {
