@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T16:57:23.511994+05:30",
-  "count": 19,
+  "updated": "2026-09-30T16:49:36.605264+05:30",
+  "count": 20,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -153,6 +153,14 @@
       "category": "C",
       "formula": 6,
       "hook": "Rule: they want silence because they manage you."
+    },
+    {
+      "post_id": "wfB-20260930-001",
+      "date": "2026-09-30",
+      "status": "FAILED",
+      "category": "D",
+      "formula": 7,
+      "hook": "I told my plant I am behind."
     }
   ]
 }

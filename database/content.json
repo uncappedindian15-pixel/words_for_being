@@ -6744,6 +6744,307 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20260930-001",
+      "date": "2026-09-30",
+      "created": "2026-09-30T16:45:06.309694+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "D-05",
+        "formula": 7,
+        "emotional_core": "the plant's indifference",
+        "visual_concept": "a plant by a shelf, a tiny notebook beside it",
+        "physical_action": "a plant growing next to an open notebook",
+        "hook": "I told my plant I am behind.",
+        "subline": "it photosynthesised anyway. i am taking notes.",
+        "cta": "",
+        "caption": "I had a full monologue on my plant last night. Behind on workouts. Behind on calls. Behind on adulting. Behind on the thing I keep meaning to start.\n\nAnd the plant did what plants do. It photosynthesised. Quietly, in its own time, without a spreadsheet, without a streak, without a single apology.\n\nIt is not unbothered. It is just on a different clock.\n\nI am taking notes. The notes are: do the one small thing, daily, in the light.\n\nWhat does your plant teach you?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#plantparent",
+          "#relatable",
+          "#growthmindset",
+          "#everydaylife"
+        ],
+        "image_prompt": "a small potted plant on a tiny white shelf beside a tiny open notebook, one leaf in soft focus, isolated on plain white",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-05",
+          "formula": 7,
+          "emotional_core": "the plant's indifference",
+          "visual_concept": "a plant by a shelf, a tiny notebook beside it",
+          "physical_action": "a plant growing next to an open notebook",
+          "hook": "I told my plant I am behind.",
+          "subline": "it photosynthesised anyway. i am taking notes.",
+          "cta": "",
+          "caption": "I had a full monologue on my plant last night. Behind on workouts. Behind on calls. Behind on adulting. Behind on the thing I keep meaning to start.\n\nAnd the plant did what plants do. It photosynthesised. Quietly, in its own time, without a spreadsheet, without a streak, without a single apology.\n\nIt is not unbothered. It is just on a different clock.\n\nI am taking notes. The notes are: do the one small thing, daily, in the light.\n\nWhat does your plant teach you?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#plantparent",
+            "#relatable",
+            "#growthmindset",
+            "#everydaylife"
+          ],
+          "image_prompt": "a small potted plant on a tiny white shelf beside a tiny open notebook, one leaf in soft focus, isolated on plain white",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -40,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -50,
+            "A-06"
+          ],
+          [
+            -50,
+            "A-07"
+          ],
+          [
+            -50,
+            "A-08"
+          ],
+          [
+            -50,
+            "A-09"
+          ],
+          [
+            -50,
+            "A-10"
+          ],
+          [
+            -50,
+            "A-11"
+          ],
+          [
+            -50,
+            "A-12"
+          ],
+          [
+            -50,
+            "A-13"
+          ],
+          [
+            -50,
+            "A-14"
+          ],
+          [
+            -50,
+            "A-15"
+          ],
+          [
+            -50,
+            "A-16"
+          ],
+          [
+            -50,
+            "B-06"
+          ],
+          [
+            -50,
+            "B-07"
+          ],
+          [
+            -50,
+            "B-08"
+          ],
+          [
+            -50,
+            "B-09"
+          ],
+          [
+            -50,
+            "B-10"
+          ],
+          [
+            -50,
+            "B-11"
+          ],
+          [
+            -50,
+            "B-12"
+          ],
+          [
+            -50,
+            "B-13"
+          ],
+          [
+            -50,
+            "B-14"
+          ],
+          [
+            -50,
+            "B-15"
+          ],
+          [
+            -50,
+            "B-16"
+          ],
+          [
+            -50,
+            "C-06"
+          ],
+          [
+            -50,
+            "C-07"
+          ],
+          [
+            -50,
+            "C-08"
+          ],
+          [
+            -50,
+            "C-09"
+          ],
+          [
+            -50,
+            "C-10"
+          ],
+          [
+            -50,
+            "C-11"
+          ],
+          [
+            -50,
+            "C-12"
+          ],
+          [
+            -50,
+            "C-13"
+          ],
+          [
+            -50,
+            "C-14"
+          ],
+          [
+            -50,
+            "C-15"
+          ],
+          [
+            -50,
+            "C-16"
+          ],
+          [
+            -40,
+            "D-05"
+          ],
+          [
+            -40,
+            "D-06"
+          ],
+          [
+            -40,
+            "D-07"
+          ],
+          [
+            -40,
+            "D-08"
+          ],
+          [
+            -40,
+            "D-09"
+          ],
+          [
+            -40,
+            "D-10"
+          ],
+          [
+            -40,
+            "D-11"
+          ],
+          [
+            -40,
+            "D-12"
+          ],
+          [
+            -40,
+            "D-13"
+          ],
+          [
+            -40,
+            "D-14"
+          ],
+          [
+            -40,
+            "D-15"
+          ],
+          [
+            -40,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-09-30T16:45:06.319232+05:30",
+          "msg": "selected D-05 (cat D / formula 7: Micro-story, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-30T16:45:09.093136+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 503: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-30T16:45:29.386966+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-30T16:46:05.840978+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-30T16:46:26.395229+05:30",
+          "msg": "attempt 4 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-30T16:47:32.765628+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-30T16:47:53.046347+05:30",
+          "msg": "attempt 6 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-09-30T16:49:36.600373+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 143.0 < 190); subject too high in frame (top-zone subject fraction 0.172 > 0.07); subject r"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 503: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend rejected request with status 503\\\",\\\"code\\\":\\\"SERVICE_UNAVAILABL",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\",
+        "image attempt 4: pollinations HTTP 402: {}",
+        "image attempt 5: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 429: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Per-user limit of 300 RPM exceeded for model lykon/dreamshaper-8-lcm\\\",\\\"code\\",
+        "image attempt 6: pollinations HTTP 402: {}",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 143.0 < 190); subject too high in frame (top-zone subject fraction 0.172 > 0.07); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
