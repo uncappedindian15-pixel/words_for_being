@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T16:49:36.605264+05:30",
-  "count": 20,
+  "updated": "2026-10-01T17:14:08.734066+05:30",
+  "count": 21,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -161,6 +161,14 @@
       "category": "D",
       "formula": 7,
       "hook": "I told my plant I am behind."
+    },
+    {
+      "post_id": "wfB-20261001-001",
+      "date": "2026-10-01",
+      "status": "READY_TO_PUBLISH",
+      "category": "A",
+      "formula": 2,
+      "hook": "Discipline is self-respect showing up on time."
     }
   ]
 }

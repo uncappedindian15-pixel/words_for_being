@@ -7045,6 +7045,326 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 143.0 < 190); subject too high in frame (top-zone subject fraction 0.172 > 0.07); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261001-001",
+      "date": "2026-10-01",
+      "created": "2026-10-01T17:12:55.273267+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "A-06",
+        "formula": 2,
+        "emotional_core": "discipline as self-respect",
+        "visual_concept": "an alarm at 5, laced shoes waiting by the door",
+        "physical_action": "shoes laced and waiting by the doorway",
+        "hook": "Discipline is self-respect showing up on time.",
+        "subline": "the alarm does not care about your mood",
+        "cta": "",
+        "caption": "Hot take: nobody is born disciplined. You just stop negotiating with yourself at 5 AM.\n\nThe shoes are already laced. The clock is already ringing. The only variable in that equation is whether you respect yourself enough to meet both of them.\n\nConsistency is the quiet form of self-love.\n\nTag someone who needs this before their alarm goes off.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#discipline",
+          "#selfrespect",
+          "#habits",
+          "#morningroutine"
+        ],
+        "image_prompt": "a small round alarm clock showing 5 o'clock, next to it a pair of neatly laced shoes placed side by side, soft warm morning tone, isolated on plain white",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-06",
+          "formula": 2,
+          "emotional_core": "discipline as self-respect",
+          "visual_concept": "an alarm at 5, laced shoes waiting by the door",
+          "physical_action": "shoes laced and waiting by the doorway",
+          "hook": "Discipline is self-respect showing up on time.",
+          "subline": "the alarm does not care about your mood",
+          "cta": "",
+          "caption": "Hot take: nobody is born disciplined. You just stop negotiating with yourself at 5 AM.\n\nThe shoes are already laced. The clock is already ringing. The only variable in that equation is whether you respect yourself enough to meet both of them.\n\nConsistency is the quiet form of self-love.\n\nTag someone who needs this before their alarm goes off.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#discipline",
+            "#selfrespect",
+            "#habits",
+            "#morningroutine"
+          ],
+          "image_prompt": "a small round alarm clock showing 5 o'clock, next to it a pair of neatly laced shoes placed side by side, soft warm morning tone, isolated on plain white",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -50,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -50,
+            "A-06"
+          ],
+          [
+            -50,
+            "A-07"
+          ],
+          [
+            -50,
+            "A-08"
+          ],
+          [
+            -50,
+            "A-09"
+          ],
+          [
+            -50,
+            "A-10"
+          ],
+          [
+            -50,
+            "A-11"
+          ],
+          [
+            -50,
+            "A-12"
+          ],
+          [
+            -50,
+            "A-13"
+          ],
+          [
+            -50,
+            "A-14"
+          ],
+          [
+            -50,
+            "A-15"
+          ],
+          [
+            -50,
+            "A-16"
+          ],
+          [
+            -50,
+            "B-06"
+          ],
+          [
+            -50,
+            "B-07"
+          ],
+          [
+            -50,
+            "B-08"
+          ],
+          [
+            -50,
+            "B-09"
+          ],
+          [
+            -50,
+            "B-10"
+          ],
+          [
+            -50,
+            "B-11"
+          ],
+          [
+            -50,
+            "B-12"
+          ],
+          [
+            -50,
+            "B-13"
+          ],
+          [
+            -50,
+            "B-14"
+          ],
+          [
+            -50,
+            "B-15"
+          ],
+          [
+            -50,
+            "B-16"
+          ],
+          [
+            -50,
+            "C-06"
+          ],
+          [
+            -50,
+            "C-07"
+          ],
+          [
+            -50,
+            "C-08"
+          ],
+          [
+            -50,
+            "C-09"
+          ],
+          [
+            -50,
+            "C-10"
+          ],
+          [
+            -50,
+            "C-11"
+          ],
+          [
+            -50,
+            "C-12"
+          ],
+          [
+            -50,
+            "C-13"
+          ],
+          [
+            -50,
+            "C-14"
+          ],
+          [
+            -50,
+            "C-15"
+          ],
+          [
+            -50,
+            "C-16"
+          ],
+          [
+            -50,
+            "D-06"
+          ],
+          [
+            -50,
+            "D-07"
+          ],
+          [
+            -50,
+            "D-08"
+          ],
+          [
+            -50,
+            "D-09"
+          ],
+          [
+            -50,
+            "D-10"
+          ],
+          [
+            -50,
+            "D-11"
+          ],
+          [
+            -50,
+            "D-12"
+          ],
+          [
+            -50,
+            "D-13"
+          ],
+          [
+            -50,
+            "D-14"
+          ],
+          [
+            -50,
+            "D-15"
+          ],
+          [
+            -50,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261001-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261001-001.jpg",
+        "provider": "pollinations",
+        "retries": 2,
+        "bg_luminance_avg": 244.0,
+        "bg_corners": [
+          244.0,
+          244.0,
+          244.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261001-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.1
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261001-001.txt",
+        "text": "Hot take: nobody is born disciplined. You just stop negotiating with yourself at 5 AM.\n\nThe shoes are already laced. The clock is already ringing. The only variable in that equation is whether you respect yourself enough to meet both of them.\n\nConsistency is the quiet form of self-love.\n\nTag someone who needs this before their alarm goes off.\n\n#wordsforbeing #discipline #selfrespect #habits #morningroutine"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 244.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-01T17:14:08.725027+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-01T17:12:55.289181+05:30",
+          "msg": "selected A-06 (cat A / formula 2: Hot take/opinion, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-01T17:13:02.884712+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.442 > 0.07); subject reaches into the text zone (top edge at 8% of frame, must be <"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-01T17:13:23.163450+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-01T17:14:06.841068+05:30",
+          "msg": "image ready (retries=2, bg=244.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-01T17:14:08.719972+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.1MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-01T17:14:08.725035+05:30",
+          "msg": "caption ready (409 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-01T17:14:08.729718+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject too high in frame (top-zone subject fraction 0.442 > 0.07); subject reaches into the text zone (top edge at 8% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {}"
+      ],
+      "retries_total": 2
     }
   ],
   "meta": {
