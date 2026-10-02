@@ -7365,6 +7365,299 @@
         "image attempt 2: pollinations HTTP 402: {}"
       ],
       "retries_total": 2
+    },
+    {
+      "post_id": "wfB-20261002-001",
+      "date": "2026-10-02",
+      "created": "2026-10-02T16:42:03.509394+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-06",
+        "formula": 7,
+        "emotional_core": "love remembered in details",
+        "visual_concept": "a paper coffee cup with a small tag on its string",
+        "physical_action": "a tag tied to the cup lid, a doodle on it",
+        "hook": "He remembered the coffee from our first fight.",
+        "subline": "that, actually, is the whole relationship",
+        "cta": "Save this for later.",
+        "caption": "Not the bouquet. Not the anniversary dinner. The coffee order.\n\nThe exact way I take it, the one he got wrong in argument number one and never got wrong again.\n\nLove lives in the details you never asked to be remembered. That is the entire relationship, honestly — a thousand small I-was-paying-attention moments stacked until they become a life.\n\nWhat is the small detail your person remembers?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#couples",
+          "#lovedetails",
+          "#relationshipgoals",
+          "#love"
+        ],
+        "image_prompt": "a paper coffee cup with a small blank tag tied to its lid with string, a tiny heart doodle on the tag, steam rising",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-06",
+          "formula": 7,
+          "emotional_core": "love remembered in details",
+          "visual_concept": "a paper coffee cup with a small tag on its string",
+          "physical_action": "a tag tied to the cup lid, a doodle on it",
+          "hook": "He remembered the coffee from our first fight.",
+          "subline": "that, actually, is the whole relationship",
+          "cta": "Save this for later.",
+          "caption": "Not the bouquet. Not the anniversary dinner. The coffee order.\n\nThe exact way I take it, the one he got wrong in argument number one and never got wrong again.\n\nLove lives in the details you never asked to be remembered. That is the entire relationship, honestly — a thousand small I-was-paying-attention moments stacked until they become a life.\n\nWhat is the small detail your person remembers?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#couples",
+            "#lovedetails",
+            "#relationshipgoals",
+            "#love"
+          ],
+          "image_prompt": "a paper coffee cup with a small blank tag tied to its lid with string, a tiny heart doodle on the tag, steam rising",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -50,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -60,
+            "A-07"
+          ],
+          [
+            -60,
+            "A-08"
+          ],
+          [
+            -60,
+            "A-09"
+          ],
+          [
+            -60,
+            "A-10"
+          ],
+          [
+            -60,
+            "A-11"
+          ],
+          [
+            -60,
+            "A-12"
+          ],
+          [
+            -60,
+            "A-13"
+          ],
+          [
+            -60,
+            "A-14"
+          ],
+          [
+            -60,
+            "A-15"
+          ],
+          [
+            -60,
+            "A-16"
+          ],
+          [
+            -50,
+            "B-06"
+          ],
+          [
+            -50,
+            "B-07"
+          ],
+          [
+            -50,
+            "B-08"
+          ],
+          [
+            -50,
+            "B-09"
+          ],
+          [
+            -50,
+            "B-10"
+          ],
+          [
+            -50,
+            "B-11"
+          ],
+          [
+            -50,
+            "B-12"
+          ],
+          [
+            -50,
+            "B-13"
+          ],
+          [
+            -50,
+            "B-14"
+          ],
+          [
+            -50,
+            "B-15"
+          ],
+          [
+            -50,
+            "B-16"
+          ],
+          [
+            -50,
+            "C-06"
+          ],
+          [
+            -50,
+            "C-07"
+          ],
+          [
+            -50,
+            "C-08"
+          ],
+          [
+            -50,
+            "C-09"
+          ],
+          [
+            -50,
+            "C-10"
+          ],
+          [
+            -50,
+            "C-11"
+          ],
+          [
+            -50,
+            "C-12"
+          ],
+          [
+            -50,
+            "C-13"
+          ],
+          [
+            -50,
+            "C-14"
+          ],
+          [
+            -50,
+            "C-15"
+          ],
+          [
+            -50,
+            "C-16"
+          ],
+          [
+            -50,
+            "D-06"
+          ],
+          [
+            -50,
+            "D-07"
+          ],
+          [
+            -50,
+            "D-08"
+          ],
+          [
+            -50,
+            "D-09"
+          ],
+          [
+            -50,
+            "D-10"
+          ],
+          [
+            -50,
+            "D-11"
+          ],
+          [
+            -50,
+            "D-12"
+          ],
+          [
+            -50,
+            "D-13"
+          ],
+          [
+            -50,
+            "D-14"
+          ],
+          [
+            -50,
+            "D-15"
+          ],
+          [
+            -50,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-02T16:42:03.516856+05:30",
+          "msg": "selected B-06 (cat B / formula 7: Micro-story, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-02T16:42:06.877370+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 175.0 < 190); subject too high in frame (top-zone subject fraction 0.167 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-02T16:42:27.307166+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-02T16:43:09.672778+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject reaches into the text zone (top edge at 29% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-02T16:44:04.489751+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 172.0 < 190); subject too high in frame (top-zone subject fraction 0.143 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-02T16:45:16.139627+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.186 > 0.07); subject reaches into the text zone (top edge at 15% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-02T16:46:39.237679+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 178.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-02T16:48:20.944517+05:30",
+          "msg": "attempt 7 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.211 > 0.07); subject reaches into the text zone (top edge at 9% of frame, must be <"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 175.0 < 190); subject too high in frame (top-zone subject fraction 0.167 > 0.07); subject reaches into the text zone (top edge at 18% of frame, must be <= 42%); subject too tall (82% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: base image failed QC: subject reaches into the text zone (top edge at 29% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 172.0 < 190); subject too high in frame (top-zone subject fraction 0.143 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: subject too high in frame (top-zone subject fraction 0.186 > 0.07); subject reaches into the text zone (top edge at 15% of frame, must be <= 42%); subject too tall (71% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 178.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (78% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: subject too high in frame (top-zone subject fraction 0.211 > 0.07); subject reaches into the text zone (top edge at 9% of frame, must be <= 42%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
