@@ -7658,6 +7658,295 @@
         "image attempt 7: base image failed QC: subject too high in frame (top-zone subject fraction 0.211 > 0.07); subject reaches into the text zone (top edge at 9% of frame, must be <= 42%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261003-001",
+      "date": "2026-10-03",
+      "created": "2026-10-03T15:59:54.246170+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-06",
+        "formula": 7,
+        "emotional_core": "it is the timing",
+        "visual_concept": "a wall clock stuck just before 12",
+        "physical_action": "both hands frozen just before 12",
+        "hook": "He said it is the timing.",
+        "subline": "the timing was always another person",
+        "cta": "",
+        "caption": "It is the timing — the most expensive sentence in a relationship. It costs you a year, and it comes with a receipt that says not-you.\n\nThe timing, it turned out, was never weather. It was a person. Someone who was not ready until they met someone who was exactly ready, and suddenly the timing was perfect.\n\nYou were never the problem. You were just not the plan.\n\nThe clock was never stuck. It was just early for someone else.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#toxicrelationships",
+          "#exboyfriend",
+          "#healingjourney",
+          "#truth"
+        ],
+        "image_prompt": "a round clock standing upright with both hands frozen just before 12, a small soft shadow beneath it, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-06",
+          "formula": 7,
+          "emotional_core": "it is the timing",
+          "visual_concept": "a wall clock stuck just before 12",
+          "physical_action": "both hands frozen just before 12",
+          "hook": "He said it is the timing.",
+          "subline": "the timing was always another person",
+          "cta": "",
+          "caption": "It is the timing — the most expensive sentence in a relationship. It costs you a year, and it comes with a receipt that says not-you.\n\nThe timing, it turned out, was never weather. It was a person. Someone who was not ready until they met someone who was exactly ready, and suddenly the timing was perfect.\n\nYou were never the problem. You were just not the plan.\n\nThe clock was never stuck. It was just early for someone else.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#toxicrelationships",
+            "#exboyfriend",
+            "#healingjourney",
+            "#truth"
+          ],
+          "image_prompt": "a round clock standing upright with both hands frozen just before 12, a small soft shadow beneath it, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -50,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -60,
+            "A-07"
+          ],
+          [
+            -60,
+            "A-08"
+          ],
+          [
+            -60,
+            "A-09"
+          ],
+          [
+            -60,
+            "A-10"
+          ],
+          [
+            -60,
+            "A-11"
+          ],
+          [
+            -60,
+            "A-12"
+          ],
+          [
+            -60,
+            "A-13"
+          ],
+          [
+            -60,
+            "A-14"
+          ],
+          [
+            -60,
+            "A-15"
+          ],
+          [
+            -60,
+            "A-16"
+          ],
+          [
+            -60,
+            "B-07"
+          ],
+          [
+            -60,
+            "B-08"
+          ],
+          [
+            -60,
+            "B-09"
+          ],
+          [
+            -60,
+            "B-10"
+          ],
+          [
+            -60,
+            "B-11"
+          ],
+          [
+            -60,
+            "B-12"
+          ],
+          [
+            -60,
+            "B-13"
+          ],
+          [
+            -60,
+            "B-14"
+          ],
+          [
+            -60,
+            "B-15"
+          ],
+          [
+            -60,
+            "B-16"
+          ],
+          [
+            -50,
+            "C-06"
+          ],
+          [
+            -50,
+            "C-07"
+          ],
+          [
+            -50,
+            "C-08"
+          ],
+          [
+            -50,
+            "C-09"
+          ],
+          [
+            -50,
+            "C-10"
+          ],
+          [
+            -50,
+            "C-11"
+          ],
+          [
+            -50,
+            "C-12"
+          ],
+          [
+            -50,
+            "C-13"
+          ],
+          [
+            -50,
+            "C-14"
+          ],
+          [
+            -50,
+            "C-15"
+          ],
+          [
+            -50,
+            "C-16"
+          ],
+          [
+            -50,
+            "D-06"
+          ],
+          [
+            -50,
+            "D-07"
+          ],
+          [
+            -50,
+            "D-08"
+          ],
+          [
+            -50,
+            "D-09"
+          ],
+          [
+            -50,
+            "D-10"
+          ],
+          [
+            -50,
+            "D-11"
+          ],
+          [
+            -50,
+            "D-12"
+          ],
+          [
+            -50,
+            "D-13"
+          ],
+          [
+            -50,
+            "D-14"
+          ],
+          [
+            -50,
+            "D-15"
+          ],
+          [
+            -50,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-03T15:59:54.257005+05:30",
+          "msg": "selected C-06 (cat C / formula 7: Micro-story, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-03T15:59:55.028261+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-03T16:00:15.479554+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-03T16:00:50.918899+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-03T16:01:41.733061+05:30",
+          "msg": "attempt 4 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-03T16:02:47.370534+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-03T16:04:07.891886+05:30",
+          "msg": "attempt 6 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-03T16:05:43.582168+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient ba"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 4: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 5: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 6: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba",
+        "image attempt 7: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
