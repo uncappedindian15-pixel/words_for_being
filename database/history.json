@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T16:05:43.588889+05:30",
-  "count": 23,
+  "updated": "2026-10-04T16:41:38.473974+05:30",
+  "count": 24,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -185,6 +185,14 @@
       "category": "C",
       "formula": 7,
       "hook": "He said it is the timing."
+    },
+    {
+      "post_id": "wfB-20261004-001",
+      "date": "2026-10-04",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 2,
+      "hook": "Hot take: Tuesdays are the plot twist."
     }
   ]
 }

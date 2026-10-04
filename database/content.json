@@ -7947,6 +7947,299 @@
         "image attempt 7: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 402: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Insufficient balance. This request costs ~0.0001 pollen, but your available ba"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261004-001",
+      "date": "2026-10-04",
+      "created": "2026-10-04T16:41:22.944785+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-06",
+        "formula": 2,
+        "emotional_core": "Tuesday as plot twist",
+        "visual_concept": "a calendar page with one day circled, confetti around",
+        "physical_action": "one day circled in red on the calendar",
+        "hook": "Hot take: Tuesdays are the plot twist.",
+        "subline": "no arc needed",
+        "cta": "",
+        "caption": "Hot take: we are all waiting for the big plot twist — the promotion, the confession, the grand gesture.\n\nBut the best twist I have had this year was a Tuesday. Coffee was good. The call went well. The evening had no agenda. Nothing happened, and everything was fine.\n\nNo arc. No lesson. Just a Tuesday that went right, and I still think about it.\n\nSome plot twists are quiet. They do not need a three-act structure. They just need a day.\n\nWhen was your best nothing-happened day?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#tuesday",
+          "#relatable",
+          "#goodvibes",
+          "#everydaylife"
+        ],
+        "image_prompt": "a small calendar page with one day circled in red, a few minimal confetti shapes around it, a calm surface",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-06",
+          "formula": 2,
+          "emotional_core": "Tuesday as plot twist",
+          "visual_concept": "a calendar page with one day circled, confetti around",
+          "physical_action": "one day circled in red on the calendar",
+          "hook": "Hot take: Tuesdays are the plot twist.",
+          "subline": "no arc needed",
+          "cta": "",
+          "caption": "Hot take: we are all waiting for the big plot twist — the promotion, the confession, the grand gesture.\n\nBut the best twist I have had this year was a Tuesday. Coffee was good. The call went well. The evening had no agenda. Nothing happened, and everything was fine.\n\nNo arc. No lesson. Just a Tuesday that went right, and I still think about it.\n\nSome plot twists are quiet. They do not need a three-act structure. They just need a day.\n\nWhen was your best nothing-happened day?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#tuesday",
+            "#relatable",
+            "#goodvibes",
+            "#everydaylife"
+          ],
+          "image_prompt": "a small calendar page with one day circled in red, a few minimal confetti shapes around it, a calm surface",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -50,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -60,
+            "A-07"
+          ],
+          [
+            -60,
+            "A-08"
+          ],
+          [
+            -60,
+            "A-09"
+          ],
+          [
+            -60,
+            "A-10"
+          ],
+          [
+            -60,
+            "A-11"
+          ],
+          [
+            -60,
+            "A-12"
+          ],
+          [
+            -60,
+            "A-13"
+          ],
+          [
+            -60,
+            "A-14"
+          ],
+          [
+            -60,
+            "A-15"
+          ],
+          [
+            -60,
+            "A-16"
+          ],
+          [
+            -60,
+            "B-07"
+          ],
+          [
+            -60,
+            "B-08"
+          ],
+          [
+            -60,
+            "B-09"
+          ],
+          [
+            -60,
+            "B-10"
+          ],
+          [
+            -60,
+            "B-11"
+          ],
+          [
+            -60,
+            "B-12"
+          ],
+          [
+            -60,
+            "B-13"
+          ],
+          [
+            -60,
+            "B-14"
+          ],
+          [
+            -60,
+            "B-15"
+          ],
+          [
+            -60,
+            "B-16"
+          ],
+          [
+            -60,
+            "C-07"
+          ],
+          [
+            -60,
+            "C-08"
+          ],
+          [
+            -60,
+            "C-09"
+          ],
+          [
+            -60,
+            "C-10"
+          ],
+          [
+            -60,
+            "C-11"
+          ],
+          [
+            -60,
+            "C-12"
+          ],
+          [
+            -60,
+            "C-13"
+          ],
+          [
+            -60,
+            "C-14"
+          ],
+          [
+            -60,
+            "C-15"
+          ],
+          [
+            -60,
+            "C-16"
+          ],
+          [
+            -50,
+            "D-06"
+          ],
+          [
+            -50,
+            "D-07"
+          ],
+          [
+            -50,
+            "D-08"
+          ],
+          [
+            -50,
+            "D-09"
+          ],
+          [
+            -50,
+            "D-10"
+          ],
+          [
+            -50,
+            "D-11"
+          ],
+          [
+            -50,
+            "D-12"
+          ],
+          [
+            -50,
+            "D-13"
+          ],
+          [
+            -50,
+            "D-14"
+          ],
+          [
+            -50,
+            "D-15"
+          ],
+          [
+            -50,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261004-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261004-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 239.0,
+        "bg_corners": [
+          244.0,
+          251.0,
+          239.0,
+          248.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.689,
+        "subject_bbox_height_frac": 0.01,
+        "ocr_words": 3,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261004-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.14
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261004-001.txt",
+        "text": "Hot take: we are all waiting for the big plot twist — the promotion, the confession, the grand gesture.\n\nBut the best twist I have had this year was a Tuesday. Coffee was good. The call went well. The evening had no agenda. Nothing happened, and everything was fine.\n\nNo arc. No lesson. Just a Tuesday that went right, and I still think about it.\n\nSome plot twists are quiet. They do not need a three-act structure. They just need a day.\n\nWhen was your best nothing-happened day?\n\n#wordsforbeing #tuesday #relatable #goodvibes #everydaylife"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 239.0,
+        "ocr_words": 3,
+        "video": 5.0,
+        "checked_at": "2026-10-04T16:41:38.460771+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-04T16:41:22.955877+05:30",
+          "msg": "selected D-06 (cat D / formula 2: Hot take/opinion, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-04T16:41:35.648413+05:30",
+          "msg": "image ready (retries=0, bg=239.0, ocr_words=3)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-04T16:41:38.453745+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.14MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-04T16:41:38.460780+05:30",
+          "msg": "caption ready (540 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-04T16:41:38.467780+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {
