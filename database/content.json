@@ -8240,6 +8240,287 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20261005-001",
+      "date": "2026-10-05",
+      "created": "2026-10-05T17:55:01.278525+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-07",
+        "formula": 7,
+        "emotional_core": "replacing digital performance with small real care",
+        "visual_concept": "a watering can over a plant, the phone face down",
+        "physical_action": "water falling from a can onto a plant",
+        "hook": "The plant is doing fine. So am I.",
+        "subline": "deleted the habit app. watered the plant instead.",
+        "cta": "Tag someone who needs this.",
+        "caption": "There was a week I tracked my water, my steps, my mood, my sleep, my glow-up score — and still felt like a failure at 10 PM.\n\nSo I deleted the app. Watered the plant. Sat with the silence for ten minutes.\n\nIt turned out the plant never needed the spreadsheet. And neither did I. Some things grow when you stop measuring them.\n\nWhat is one thing you will stop measuring this week?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#simpleliving",
+          "#mindset",
+          "#selfcare",
+          "#mentalhealth"
+        ],
+        "image_prompt": "a small metal watering can tilted over a leafy potted plant, a smartphone lying face down on the floor nearby, water droplets falling in a gentle arc",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-07",
+          "formula": 7,
+          "emotional_core": "replacing digital performance with small real care",
+          "visual_concept": "a watering can over a plant, the phone face down",
+          "physical_action": "water falling from a can onto a plant",
+          "hook": "The plant is doing fine. So am I.",
+          "subline": "deleted the habit app. watered the plant instead.",
+          "cta": "Tag someone who needs this.",
+          "caption": "There was a week I tracked my water, my steps, my mood, my sleep, my glow-up score — and still felt like a failure at 10 PM.\n\nSo I deleted the app. Watered the plant. Sat with the silence for ten minutes.\n\nIt turned out the plant never needed the spreadsheet. And neither did I. Some things grow when you stop measuring them.\n\nWhat is one thing you will stop measuring this week?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#simpleliving",
+            "#mindset",
+            "#selfcare",
+            "#mentalhealth"
+          ],
+          "image_prompt": "a small metal watering can tilted over a leafy potted plant, a smartphone lying face down on the floor nearby, water droplets falling in a gentle arc",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -60,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -60,
+            "A-07"
+          ],
+          [
+            -60,
+            "A-08"
+          ],
+          [
+            -60,
+            "A-09"
+          ],
+          [
+            -60,
+            "A-10"
+          ],
+          [
+            -60,
+            "A-11"
+          ],
+          [
+            -60,
+            "A-12"
+          ],
+          [
+            -60,
+            "A-13"
+          ],
+          [
+            -60,
+            "A-14"
+          ],
+          [
+            -60,
+            "A-15"
+          ],
+          [
+            -60,
+            "A-16"
+          ],
+          [
+            -60,
+            "B-07"
+          ],
+          [
+            -60,
+            "B-08"
+          ],
+          [
+            -60,
+            "B-09"
+          ],
+          [
+            -60,
+            "B-10"
+          ],
+          [
+            -60,
+            "B-11"
+          ],
+          [
+            -60,
+            "B-12"
+          ],
+          [
+            -60,
+            "B-13"
+          ],
+          [
+            -60,
+            "B-14"
+          ],
+          [
+            -60,
+            "B-15"
+          ],
+          [
+            -60,
+            "B-16"
+          ],
+          [
+            -60,
+            "C-07"
+          ],
+          [
+            -60,
+            "C-08"
+          ],
+          [
+            -60,
+            "C-09"
+          ],
+          [
+            -60,
+            "C-10"
+          ],
+          [
+            -60,
+            "C-11"
+          ],
+          [
+            -60,
+            "C-12"
+          ],
+          [
+            -60,
+            "C-13"
+          ],
+          [
+            -60,
+            "C-14"
+          ],
+          [
+            -60,
+            "C-15"
+          ],
+          [
+            -60,
+            "C-16"
+          ],
+          [
+            -60,
+            "D-07"
+          ],
+          [
+            -60,
+            "D-08"
+          ],
+          [
+            -60,
+            "D-09"
+          ],
+          [
+            -60,
+            "D-10"
+          ],
+          [
+            -60,
+            "D-11"
+          ],
+          [
+            -60,
+            "D-12"
+          ],
+          [
+            -60,
+            "D-13"
+          ],
+          [
+            -60,
+            "D-14"
+          ],
+          [
+            -60,
+            "D-15"
+          ],
+          [
+            -60,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-05T17:55:01.451543+05:30",
+          "msg": "selected A-07 (cat A / formula 7: Micro-story, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-05T17:55:08.899343+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.074 > 0.07); subject reaches into the text zone (top edge at 18% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-05T17:55:29.220403+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-05T17:56:08.308821+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 107.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%);"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-05T17:57:01.942374+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 169.0 < 190); subject reaches into the text zone (top edge at 35% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-05T17:58:13.971641+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject reaches into the text zone (top edge at 16% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-05T17:59:40.836744+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.074 > 0.07); subject reaches into the text zone (top edge at 16% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-05T18:01:20.934074+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 131.0 < 190); subject reaches into the text zone (top edge at 40% of frame, must be <= 42%)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject too high in frame (top-zone subject fraction 0.074 > 0.07); subject reaches into the text zone (top edge at 18% of frame, must be <= 42%); subject too tall (72% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 107.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (99% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 169.0 < 190); subject reaches into the text zone (top edge at 35% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 16% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: subject too high in frame (top-zone subject fraction 0.074 > 0.07); subject reaches into the text zone (top edge at 16% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 131.0 < 190); subject reaches into the text zone (top edge at 40% of frame, must be <= 42%); subject too tall (60% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {

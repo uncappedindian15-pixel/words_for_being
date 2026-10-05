@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T16:41:38.473974+05:30",
-  "count": 24,
+  "updated": "2026-10-05T18:01:20.938432+05:30",
+  "count": 25,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -193,6 +193,14 @@
       "category": "D",
       "formula": 2,
       "hook": "Hot take: Tuesdays are the plot twist."
+    },
+    {
+      "post_id": "wfB-20261005-001",
+      "date": "2026-10-05",
+      "status": "FAILED",
+      "category": "A",
+      "formula": 7,
+      "hook": "The plant is doing fine. So am I."
     }
   ]
 }
