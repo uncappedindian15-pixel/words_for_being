@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T18:01:20.938432+05:30",
-  "count": 25,
+  "updated": "2026-10-06T17:43:28.145964+05:30",
+  "count": 26,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -201,6 +201,14 @@
       "category": "A",
       "formula": 7,
       "hook": "The plant is doing fine. So am I."
+    },
+    {
+      "post_id": "wfB-20261006-001",
+      "date": "2026-10-06",
+      "status": "FAILED",
+      "category": "B",
+      "formula": 2,
+      "hook": "Checked out of the love, not the house?"
     }
   ]
 }

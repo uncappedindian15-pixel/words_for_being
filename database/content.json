@@ -8521,6 +8521,283 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 131.0 < 190); subject reaches into the text zone (top edge at 40% of frame, must be <= 42%); subject too tall (60% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261006-001",
+      "date": "2026-10-06",
+      "created": "2026-10-06T17:37:11.180909+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-07",
+        "formula": 2,
+        "emotional_core": "checked-out couples",
+        "visual_concept": "two pillows facing opposite directions, a lamp between",
+        "physical_action": "pillows turned away from each other",
+        "hook": "Checked out of the love, not the house?",
+        "subline": "that is roommates with a mortgage",
+        "cta": "",
+        "caption": "Hot take, and I will be polite: the scariest relationship is the one with no fights and no presence.\n\nTwo people, one roof, zero signals. You can tell a relationship is checked out the way you can tell a phone is on silent — everything is still happening, nothing is reaching you.\n\nA healthy home is loud with small things. If your house is quiet, that is not peace. That is data.\n\nTalk to your person this week. Not logistics. You.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#relationshiptruths",
+          "#couples",
+          "#communication",
+          "#realtalk"
+        ],
+        "image_prompt": "two pillows on a plain bed facing opposite directions, a small table lamp between them, soft warm light",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-07",
+          "formula": 2,
+          "emotional_core": "checked-out couples",
+          "visual_concept": "two pillows facing opposite directions, a lamp between",
+          "physical_action": "pillows turned away from each other",
+          "hook": "Checked out of the love, not the house?",
+          "subline": "that is roommates with a mortgage",
+          "cta": "",
+          "caption": "Hot take, and I will be polite: the scariest relationship is the one with no fights and no presence.\n\nTwo people, one roof, zero signals. You can tell a relationship is checked out the way you can tell a phone is on silent — everything is still happening, nothing is reaching you.\n\nA healthy home is loud with small things. If your house is quiet, that is not peace. That is data.\n\nTalk to your person this week. Not logistics. You.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#relationshiptruths",
+            "#couples",
+            "#communication",
+            "#realtalk"
+          ],
+          "image_prompt": "two pillows on a plain bed facing opposite directions, a small table lamp between them, soft warm light",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -60,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -70,
+            "A-08"
+          ],
+          [
+            -70,
+            "A-09"
+          ],
+          [
+            -70,
+            "A-10"
+          ],
+          [
+            -70,
+            "A-11"
+          ],
+          [
+            -70,
+            "A-12"
+          ],
+          [
+            -70,
+            "A-13"
+          ],
+          [
+            -70,
+            "A-14"
+          ],
+          [
+            -70,
+            "A-15"
+          ],
+          [
+            -70,
+            "A-16"
+          ],
+          [
+            -60,
+            "B-07"
+          ],
+          [
+            -60,
+            "B-08"
+          ],
+          [
+            -60,
+            "B-09"
+          ],
+          [
+            -60,
+            "B-10"
+          ],
+          [
+            -60,
+            "B-11"
+          ],
+          [
+            -60,
+            "B-12"
+          ],
+          [
+            -60,
+            "B-13"
+          ],
+          [
+            -60,
+            "B-14"
+          ],
+          [
+            -60,
+            "B-15"
+          ],
+          [
+            -60,
+            "B-16"
+          ],
+          [
+            -60,
+            "C-07"
+          ],
+          [
+            -60,
+            "C-08"
+          ],
+          [
+            -60,
+            "C-09"
+          ],
+          [
+            -60,
+            "C-10"
+          ],
+          [
+            -60,
+            "C-11"
+          ],
+          [
+            -60,
+            "C-12"
+          ],
+          [
+            -60,
+            "C-13"
+          ],
+          [
+            -60,
+            "C-14"
+          ],
+          [
+            -60,
+            "C-15"
+          ],
+          [
+            -60,
+            "C-16"
+          ],
+          [
+            -60,
+            "D-07"
+          ],
+          [
+            -60,
+            "D-08"
+          ],
+          [
+            -60,
+            "D-09"
+          ],
+          [
+            -60,
+            "D-10"
+          ],
+          [
+            -60,
+            "D-11"
+          ],
+          [
+            -60,
+            "D-12"
+          ],
+          [
+            -60,
+            "D-13"
+          ],
+          [
+            -60,
+            "D-14"
+          ],
+          [
+            -60,
+            "D-15"
+          ],
+          [
+            -60,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-06T17:37:11.195330+05:30",
+          "msg": "selected B-07 (cat B / formula 2: Hot take/opinion, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-06T17:37:16.630817+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 77.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-06T17:37:37.031459+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-06T17:38:17.653018+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 123.0 < 190); subject reaches into the text zone (top edge at 36% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-06T17:39:12.113951+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 130.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-06T17:40:22.150438+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 133.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-06T17:41:46.818985+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 89.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-06T17:43:28.138665+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 88.0 < 190); subject reaches into the text zone (top edge at 14% of frame, must be <= 42%);"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 77.0 < 190)",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 123.0 < 190); subject reaches into the text zone (top edge at 36% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 130.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 133.0 < 190)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 89.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (100% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 88.0 < 190); subject reaches into the text zone (top edge at 14% of frame, must be <= 42%); subject too tall (86% of frame height, must be <= 58%); provider watermark detected in bottom-right zone"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
