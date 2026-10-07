@@ -8798,6 +8798,279 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 88.0 < 190); subject reaches into the text zone (top edge at 14% of frame, must be <= 42%); subject too tall (86% of frame height, must be <= 58%); provider watermark detected in bottom-right zone"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261007-001",
+      "date": "2026-10-07",
+      "created": "2026-10-07T17:22:48.918622+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-07",
+        "formula": 2,
+        "emotional_core": "the I am different con",
+        "visual_concept": "a paper crown with one crack down the middle",
+        "physical_action": "a crack splitting a paper crown",
+        "hook": "I am different. That is the con.",
+        "subline": "the difference was always the trick",
+        "cta": "",
+        "caption": "Hot take: the moment someone leads with I am different, the interview begins.\n\nDifferent from who, exactly? Because the people who are actually different do not need the disclaimer — the behaviour is the evidence. The ones who announce it are selling you the label before you have met the person.\n\nYou do not need a different guy. You need a guy.\n\nThe crown is paper either way. Do not bow.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#redflags",
+          "#datingadvice",
+          "#toxicrelationships",
+          "#realtalk"
+        ],
+        "image_prompt": "a small handmade paper badge standing upright with one clean crack running down its middle, on a plain surface, soft light",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-07",
+          "formula": 2,
+          "emotional_core": "the I am different con",
+          "visual_concept": "a paper crown with one crack down the middle",
+          "physical_action": "a crack splitting a paper crown",
+          "hook": "I am different. That is the con.",
+          "subline": "the difference was always the trick",
+          "cta": "",
+          "caption": "Hot take: the moment someone leads with I am different, the interview begins.\n\nDifferent from who, exactly? Because the people who are actually different do not need the disclaimer — the behaviour is the evidence. The ones who announce it are selling you the label before you have met the person.\n\nYou do not need a different guy. You need a guy.\n\nThe crown is paper either way. Do not bow.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#redflags",
+            "#datingadvice",
+            "#toxicrelationships",
+            "#realtalk"
+          ],
+          "image_prompt": "a small handmade paper badge standing upright with one clean crack running down its middle, on a plain surface, soft light",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -60,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -70,
+            "A-08"
+          ],
+          [
+            -70,
+            "A-09"
+          ],
+          [
+            -70,
+            "A-10"
+          ],
+          [
+            -70,
+            "A-11"
+          ],
+          [
+            -70,
+            "A-12"
+          ],
+          [
+            -70,
+            "A-13"
+          ],
+          [
+            -70,
+            "A-14"
+          ],
+          [
+            -70,
+            "A-15"
+          ],
+          [
+            -70,
+            "A-16"
+          ],
+          [
+            -70,
+            "B-08"
+          ],
+          [
+            -70,
+            "B-09"
+          ],
+          [
+            -70,
+            "B-10"
+          ],
+          [
+            -70,
+            "B-11"
+          ],
+          [
+            -70,
+            "B-12"
+          ],
+          [
+            -70,
+            "B-13"
+          ],
+          [
+            -70,
+            "B-14"
+          ],
+          [
+            -70,
+            "B-15"
+          ],
+          [
+            -70,
+            "B-16"
+          ],
+          [
+            -60,
+            "C-07"
+          ],
+          [
+            -60,
+            "C-08"
+          ],
+          [
+            -60,
+            "C-09"
+          ],
+          [
+            -60,
+            "C-10"
+          ],
+          [
+            -60,
+            "C-11"
+          ],
+          [
+            -60,
+            "C-12"
+          ],
+          [
+            -60,
+            "C-13"
+          ],
+          [
+            -60,
+            "C-14"
+          ],
+          [
+            -60,
+            "C-15"
+          ],
+          [
+            -60,
+            "C-16"
+          ],
+          [
+            -60,
+            "D-07"
+          ],
+          [
+            -60,
+            "D-08"
+          ],
+          [
+            -60,
+            "D-09"
+          ],
+          [
+            -60,
+            "D-10"
+          ],
+          [
+            -60,
+            "D-11"
+          ],
+          [
+            -60,
+            "D-12"
+          ],
+          [
+            -60,
+            "D-13"
+          ],
+          [
+            -60,
+            "D-14"
+          ],
+          [
+            -60,
+            "D-15"
+          ],
+          [
+            -60,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-07T17:22:48.926445+05:30",
+          "msg": "selected C-07 (cat C / formula 2: Hot take/opinion, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-07T17:22:50.922864+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 502: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-07T17:23:11.486590+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-07T17:23:50.971564+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 172.0 < 190); subject reaches into the text zone (top edge at 14% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-07T17:24:44.630644+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 175.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-07T17:25:59.432724+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 153.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-07T17:27:25.133060+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 153.0 < 190); subject reaches into the text zone (top edge at 31% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-07T17:29:03.209104+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 530: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend r"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 502: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend rejected request with status 502\\\",\\\"code\\\":\\\"BAD_GATEWAY\\\",\\\"ti",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 172.0 < 190); subject reaches into the text zone (top edge at 14% of frame, must be <= 42%); subject too tall (71% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 175.0 < 190)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 153.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 153.0 < 190); subject reaches into the text zone (top edge at 31% of frame, must be <= 42%)",
+        "image attempt 7: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 530: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend rejected request with status 530\\\",\\\"code\\\":\\\"UNKNOWN_ERROR\\\",\\\""
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {

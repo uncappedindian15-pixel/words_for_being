@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T17:43:28.145964+05:30",
-  "count": 26,
+  "updated": "2026-10-07T17:29:03.214472+05:30",
+  "count": 27,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -209,6 +209,14 @@
       "category": "B",
       "formula": 2,
       "hook": "Checked out of the love, not the house?"
+    },
+    {
+      "post_id": "wfB-20261007-001",
+      "date": "2026-10-07",
+      "status": "FAILED",
+      "category": "C",
+      "formula": 2,
+      "hook": "I am different. That is the con."
     }
   ]
 }
