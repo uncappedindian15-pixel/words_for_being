@@ -9071,6 +9071,298 @@
         "image attempt 7: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 530: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend rejected request with status 530\\\",\\\"code\\\":\\\"UNKNOWN_ERROR\\\",\\\""
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261008-001",
+      "date": "2026-10-08",
+      "created": "2026-10-08T17:38:04.352027+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-07",
+        "formula": 8,
+        "emotional_core": "the cat as landlord",
+        "visual_concept": "a cat on a cushion with a tiny crown above",
+        "physical_action": "a cat sitting on a throne cushion",
+        "hook": "To the cat who owns this house:",
+        "subline": "yes, the lap is a throne. sit.",
+        "cta": "",
+        "caption": "Let me address the actual owner of this residence directly: yes.\n\nThe lap is a throne. It always was. The walk-away was a power move you lost. The 3 AM zoomies were a renovation I did not approve of. The food bowl at 6 AM is a meeting I keep attending.\n\nYou are the landlord, the manager, and the only senior citizen in the house with authority. I am the staff. The staff are making you breakfast.\n\nSit.\n\nTo every cat who owns their human: this is your recognition.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#catlife",
+          "#petparent",
+          "#relatable",
+          "#funny"
+        ],
+        "image_prompt": "a small cat sitting calmly on a round cushion, a tiny folded paper resting on its lap, minimal shapes, soft light",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-07",
+          "formula": 8,
+          "emotional_core": "the cat as landlord",
+          "visual_concept": "a cat on a cushion with a tiny crown above",
+          "physical_action": "a cat sitting on a throne cushion",
+          "hook": "To the cat who owns this house:",
+          "subline": "yes, the lap is a throne. sit.",
+          "cta": "",
+          "caption": "Let me address the actual owner of this residence directly: yes.\n\nThe lap is a throne. It always was. The walk-away was a power move you lost. The 3 AM zoomies were a renovation I did not approve of. The food bowl at 6 AM is a meeting I keep attending.\n\nYou are the landlord, the manager, and the only senior citizen in the house with authority. I am the staff. The staff are making you breakfast.\n\nSit.\n\nTo every cat who owns their human: this is your recognition.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#catlife",
+            "#petparent",
+            "#relatable",
+            "#funny"
+          ],
+          "image_prompt": "a small cat sitting calmly on a round cushion, a tiny folded paper resting on its lap, minimal shapes, soft light",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -60,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -70,
+            "A-08"
+          ],
+          [
+            -70,
+            "A-09"
+          ],
+          [
+            -70,
+            "A-10"
+          ],
+          [
+            -70,
+            "A-11"
+          ],
+          [
+            -70,
+            "A-12"
+          ],
+          [
+            -70,
+            "A-13"
+          ],
+          [
+            -70,
+            "A-14"
+          ],
+          [
+            -70,
+            "A-15"
+          ],
+          [
+            -70,
+            "A-16"
+          ],
+          [
+            -70,
+            "B-08"
+          ],
+          [
+            -70,
+            "B-09"
+          ],
+          [
+            -70,
+            "B-10"
+          ],
+          [
+            -70,
+            "B-11"
+          ],
+          [
+            -70,
+            "B-12"
+          ],
+          [
+            -70,
+            "B-13"
+          ],
+          [
+            -70,
+            "B-14"
+          ],
+          [
+            -70,
+            "B-15"
+          ],
+          [
+            -70,
+            "B-16"
+          ],
+          [
+            -70,
+            "C-08"
+          ],
+          [
+            -70,
+            "C-09"
+          ],
+          [
+            -70,
+            "C-10"
+          ],
+          [
+            -70,
+            "C-11"
+          ],
+          [
+            -70,
+            "C-12"
+          ],
+          [
+            -70,
+            "C-13"
+          ],
+          [
+            -70,
+            "C-14"
+          ],
+          [
+            -70,
+            "C-15"
+          ],
+          [
+            -70,
+            "C-16"
+          ],
+          [
+            -60,
+            "D-07"
+          ],
+          [
+            -60,
+            "D-08"
+          ],
+          [
+            -60,
+            "D-09"
+          ],
+          [
+            -60,
+            "D-10"
+          ],
+          [
+            -60,
+            "D-11"
+          ],
+          [
+            -60,
+            "D-12"
+          ],
+          [
+            -60,
+            "D-13"
+          ],
+          [
+            -60,
+            "D-14"
+          ],
+          [
+            -60,
+            "D-15"
+          ],
+          [
+            -60,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261008-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261008-001.jpg",
+        "provider": "pollinations",
+        "retries": 2,
+        "bg_luminance_avg": 243.0,
+        "bg_corners": [
+          249.0,
+          243.0,
+          247.0,
+          255.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.452,
+        "subject_bbox_height_frac": 0.477,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261008-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.11
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261008-001.txt",
+        "text": "Let me address the actual owner of this residence directly: yes.\n\nThe lap is a throne. It always was. The walk-away was a power move you lost. The 3 AM zoomies were a renovation I did not approve of. The food bowl at 6 AM is a meeting I keep attending.\n\nYou are the landlord, the manager, and the only senior citizen in the house with authority. I am the staff. The staff are making you breakfast.\n\nSit.\n\nTo every cat who owns their human: this is your recognition.\n\n#wordsforbeing #catlife #petparent #relatable #funny"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 243.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-08T17:39:25.291652+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-08T17:38:04.372586+05:30",
+          "msg": "selected D-07 (cat D / formula 8: Direct address, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-08T17:38:15.755562+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 22% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-08T17:38:36.167680+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-08T17:39:22.732373+05:30",
+          "msg": "image ready (retries=2, bg=243.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-08T17:39:25.283342+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.11MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-08T17:39:25.291662+05:30",
+          "msg": "caption ready (519 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-08T17:39:25.299172+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 22% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {}"
+      ],
+      "retries_total": 2
     }
   ],
   "meta": {

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T17:29:03.214472+05:30",
-  "count": 27,
+  "updated": "2026-10-08T17:39:25.306215+05:30",
+  "count": 28,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -217,6 +217,14 @@
       "category": "C",
       "formula": 2,
       "hook": "I am different. That is the con."
+    },
+    {
+      "post_id": "wfB-20261008-001",
+      "date": "2026-10-08",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 8,
+      "hook": "To the cat who owns this house:"
     }
   ]
 }
