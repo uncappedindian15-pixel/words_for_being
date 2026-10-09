@@ -9363,6 +9363,294 @@
         "image attempt 2: pollinations HTTP 402: {}"
       ],
       "retries_total": 2
+    },
+    {
+      "post_id": "wfB-20261009-001",
+      "date": "2026-10-09",
+      "created": "2026-10-09T17:29:37.296910+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "A-08",
+        "formula": 4,
+        "emotional_core": "early-morning self-belief",
+        "visual_concept": "a single coffee cup under a tiny spotlight",
+        "physical_action": "one cup standing alone under a small spotlight",
+        "hook": "me at 6 am: *main character*",
+        "subline": "no audience required",
+        "cta": "",
+        "caption": "You do not need a crowd for the main character energy. You need a cup of coffee, a quiet room, and the audacity to start before anyone notices.\n\nThe spotlight is small at 6 AM. That is the point. You are building in the empty theatre so the show does not scare you later.\n\nDrop a star if your first act today is just showing up.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#maincharacter",
+          "#6amclub",
+          "#selfgrowth",
+          "#morningvibes"
+        ],
+        "image_prompt": "a single ceramic coffee cup on a small white pedestal, the rest of the frame calm and empty, isolated on plain white",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-08",
+          "formula": 4,
+          "emotional_core": "early-morning self-belief",
+          "visual_concept": "a single coffee cup under a tiny spotlight",
+          "physical_action": "one cup standing alone under a small spotlight",
+          "hook": "me at 6 am: *main character*",
+          "subline": "no audience required",
+          "cta": "",
+          "caption": "You do not need a crowd for the main character energy. You need a cup of coffee, a quiet room, and the audacity to start before anyone notices.\n\nThe spotlight is small at 6 AM. That is the point. You are building in the empty theatre so the show does not scare you later.\n\nDrop a star if your first act today is just showing up.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#maincharacter",
+            "#6amclub",
+            "#selfgrowth",
+            "#morningvibes"
+          ],
+          "image_prompt": "a single ceramic coffee cup on a small white pedestal, the rest of the frame calm and empty, isolated on plain white",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -70,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -70,
+            "A-08"
+          ],
+          [
+            -70,
+            "A-09"
+          ],
+          [
+            -70,
+            "A-10"
+          ],
+          [
+            -70,
+            "A-11"
+          ],
+          [
+            -70,
+            "A-12"
+          ],
+          [
+            -70,
+            "A-13"
+          ],
+          [
+            -70,
+            "A-14"
+          ],
+          [
+            -70,
+            "A-15"
+          ],
+          [
+            -70,
+            "A-16"
+          ],
+          [
+            -70,
+            "B-08"
+          ],
+          [
+            -70,
+            "B-09"
+          ],
+          [
+            -70,
+            "B-10"
+          ],
+          [
+            -70,
+            "B-11"
+          ],
+          [
+            -70,
+            "B-12"
+          ],
+          [
+            -70,
+            "B-13"
+          ],
+          [
+            -70,
+            "B-14"
+          ],
+          [
+            -70,
+            "B-15"
+          ],
+          [
+            -70,
+            "B-16"
+          ],
+          [
+            -70,
+            "C-08"
+          ],
+          [
+            -70,
+            "C-09"
+          ],
+          [
+            -70,
+            "C-10"
+          ],
+          [
+            -70,
+            "C-11"
+          ],
+          [
+            -70,
+            "C-12"
+          ],
+          [
+            -70,
+            "C-13"
+          ],
+          [
+            -70,
+            "C-14"
+          ],
+          [
+            -70,
+            "C-15"
+          ],
+          [
+            -70,
+            "C-16"
+          ],
+          [
+            -70,
+            "D-08"
+          ],
+          [
+            -70,
+            "D-09"
+          ],
+          [
+            -70,
+            "D-10"
+          ],
+          [
+            -70,
+            "D-11"
+          ],
+          [
+            -70,
+            "D-12"
+          ],
+          [
+            -70,
+            "D-13"
+          ],
+          [
+            -70,
+            "D-14"
+          ],
+          [
+            -70,
+            "D-15"
+          ],
+          [
+            -70,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261009-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261009-001.jpg",
+        "provider": "pollinations",
+        "retries": 2,
+        "bg_luminance_avg": 251.0,
+        "bg_corners": [
+          251.0,
+          254.0,
+          251.0,
+          253.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.797,
+        "subject_bbox_height_frac": 0.062,
+        "ocr_words": 2,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261009-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.08
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261009-001.txt",
+        "text": "You do not need a crowd for the main character energy. You need a cup of coffee, a quiet room, and the audacity to start before anyone notices.\n\nThe spotlight is small at 6 AM. That is the point. You are building in the empty theatre so the show does not scare you later.\n\nDrop a star if your first act today is just showing up.\n\n#wordsforbeing #maincharacter #6amclub #selfgrowth #morningvibes"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 251.0,
+        "ocr_words": 2,
+        "video": 5.0,
+        "checked_at": "2026-10-09T17:30:58.852208+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-09T17:29:37.307942+05:30",
+          "msg": "selected A-08 (cat A / formula 4: Internet-native meme phrasing, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-09T17:29:48.566877+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 2% of frame, must be <= 42%); subject too tall (92% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-09T17:30:09.285727+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-09T17:30:56.581392+05:30",
+          "msg": "image ready (retries=2, bg=251.0, ocr_words=2)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-09T17:30:58.844269+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.08MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-09T17:30:58.852218+05:30",
+          "msg": "caption ready (394 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-09T17:30:58.859824+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 2% of frame, must be <= 42%); subject too tall (92% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {}"
+      ],
+      "retries_total": 2
     }
   ],
   "meta": {

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T17:39:25.306215+05:30",
-  "count": 28,
+  "updated": "2026-10-09T17:30:58.866944+05:30",
+  "count": 29,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -225,6 +225,14 @@
       "category": "D",
       "formula": 8,
       "hook": "To the cat who owns this house:"
+    },
+    {
+      "post_id": "wfB-20261009-001",
+      "date": "2026-10-09",
+      "status": "READY_TO_PUBLISH",
+      "category": "A",
+      "formula": 4,
+      "hook": "me at 6 am: *main character*"
     }
   ]
 }
