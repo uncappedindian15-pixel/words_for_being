@@ -9651,6 +9651,304 @@
         "image attempt 2: pollinations HTTP 402: {}"
       ],
       "retries_total": 2
+    },
+    {
+      "post_id": "wfB-20261010-001",
+      "date": "2026-10-10",
+      "created": "2026-10-10T16:46:05.440047+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "B-08",
+        "formula": 4,
+        "emotional_core": "decoding modern love signals",
+        "visual_concept": "a phone with one tiny notification dot, a warm lamp beside",
+        "physical_action": "one small notification glowing on a dark screen",
+        "hook": "POV: he texts up? at 11 pm.",
+        "subline": "it means i am proud of you",
+        "cta": "",
+        "caption": "Modern love is a language with no textbook.\n\nu-up? at 11 PM is not an interrogation. It is a person who thought about you all day and needed one small proof you were still there.\n\nThe k after your bad day means I am not leaving, I am just bad with words.\n\nYou do not have to decode everything. But when you do — that is the moment a text became a love letter.\n\nWhat is a text that meant more than it looked?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#couples",
+          "#texting",
+          "#lovequotes",
+          "#relationshiphumor"
+        ],
+        "image_prompt": "a smartphone standing upright on a small stand with a single tiny notification dot on its blank dark screen, a small lamp beside it",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-08",
+          "formula": 4,
+          "emotional_core": "decoding modern love signals",
+          "visual_concept": "a phone with one tiny notification dot, a warm lamp beside",
+          "physical_action": "one small notification glowing on a dark screen",
+          "hook": "POV: he texts up? at 11 pm.",
+          "subline": "it means i am proud of you",
+          "cta": "",
+          "caption": "Modern love is a language with no textbook.\n\nu-up? at 11 PM is not an interrogation. It is a person who thought about you all day and needed one small proof you were still there.\n\nThe k after your bad day means I am not leaving, I am just bad with words.\n\nYou do not have to decode everything. But when you do — that is the moment a text became a love letter.\n\nWhat is a text that meant more than it looked?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#couples",
+            "#texting",
+            "#lovequotes",
+            "#relationshiphumor"
+          ],
+          "image_prompt": "a smartphone standing upright on a small stand with a single tiny notification dot on its blank dark screen, a small lamp beside it",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -70,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -80,
+            "A-09"
+          ],
+          [
+            -80,
+            "A-10"
+          ],
+          [
+            -80,
+            "A-11"
+          ],
+          [
+            -80,
+            "A-12"
+          ],
+          [
+            -80,
+            "A-13"
+          ],
+          [
+            -80,
+            "A-14"
+          ],
+          [
+            -80,
+            "A-15"
+          ],
+          [
+            -80,
+            "A-16"
+          ],
+          [
+            -70,
+            "B-08"
+          ],
+          [
+            -70,
+            "B-09"
+          ],
+          [
+            -70,
+            "B-10"
+          ],
+          [
+            -70,
+            "B-11"
+          ],
+          [
+            -70,
+            "B-12"
+          ],
+          [
+            -70,
+            "B-13"
+          ],
+          [
+            -70,
+            "B-14"
+          ],
+          [
+            -70,
+            "B-15"
+          ],
+          [
+            -70,
+            "B-16"
+          ],
+          [
+            -70,
+            "C-08"
+          ],
+          [
+            -70,
+            "C-09"
+          ],
+          [
+            -70,
+            "C-10"
+          ],
+          [
+            -70,
+            "C-11"
+          ],
+          [
+            -70,
+            "C-12"
+          ],
+          [
+            -70,
+            "C-13"
+          ],
+          [
+            -70,
+            "C-14"
+          ],
+          [
+            -70,
+            "C-15"
+          ],
+          [
+            -70,
+            "C-16"
+          ],
+          [
+            -70,
+            "D-08"
+          ],
+          [
+            -70,
+            "D-09"
+          ],
+          [
+            -70,
+            "D-10"
+          ],
+          [
+            -70,
+            "D-11"
+          ],
+          [
+            -70,
+            "D-12"
+          ],
+          [
+            -70,
+            "D-13"
+          ],
+          [
+            -70,
+            "D-14"
+          ],
+          [
+            -70,
+            "D-15"
+          ],
+          [
+            -70,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261010-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261010-001.jpg",
+        "provider": "pollinations",
+        "retries": 4,
+        "bg_luminance_avg": 239.0,
+        "bg_corners": [
+          240.0,
+          240.0,
+          239.0,
+          255.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261010-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.08
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261010-001.txt",
+        "text": "Modern love is a language with no textbook.\n\nu-up? at 11 PM is not an interrogation. It is a person who thought about you all day and needed one small proof you were still there.\n\nThe k after your bad day means I am not leaving, I am just bad with words.\n\nYou do not have to decode everything. But when you do — that is the moment a text became a love letter.\n\nWhat is a text that meant more than it looked?\n\n#wordsforbeing #couples #texting #lovequotes #relationshiphumor"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 239.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-10T16:49:15.739561+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-10T16:46:05.448255+05:30",
+          "msg": "selected B-08 (cat B / formula 4: Internet-native meme phrasing, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-10T16:46:09.078402+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 106.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-10T16:46:29.484609+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-10T16:47:07.978455+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 165.0 < 190); subject reaches into the text zone (top edge at 24% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-10T16:48:02.362062+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 118.0 < 190); subject too high in frame (top-zone subject fraction 0.127 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-10T16:49:14.393071+05:30",
+          "msg": "image ready (retries=4, bg=239.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-10T16:49:15.734046+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.08MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-10T16:49:15.739573+05:30",
+          "msg": "caption ready (472 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-10T16:49:15.744264+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 106.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (79% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 165.0 < 190); subject reaches into the text zone (top edge at 24% of frame, must be <= 42%); subject too tall (67% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 118.0 < 190); subject too high in frame (top-zone subject fraction 0.127 > 0.07); subject reaches into the text zone (top edge at 8% of frame, must be <= 42%); subject too tall (92% of frame height, must be <= 58%); provider watermark detected in bottom-right zone"
+      ],
+      "retries_total": 4
     }
   ],
   "meta": {
