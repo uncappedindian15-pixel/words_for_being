@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T16:49:15.748553+05:30",
-  "count": 30,
+  "updated": "2026-10-11T16:59:51.139944+05:30",
+  "count": 31,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -241,6 +241,14 @@
       "category": "B",
       "formula": 4,
       "hook": "POV: he texts up? at 11 pm."
+    },
+    {
+      "post_id": "wfB-20261011-001",
+      "date": "2026-10-11",
+      "status": "READY_TO_PUBLISH",
+      "category": "C",
+      "formula": 4,
+      "hook": "him: i am not angry."
     }
   ]
 }

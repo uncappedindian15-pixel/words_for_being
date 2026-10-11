@@ -9949,6 +9949,271 @@
         "image attempt 4: base image failed QC: background not off-white (avg corner luminance 118.0 < 190); subject too high in frame (top-zone subject fraction 0.127 > 0.07); subject reaches into the text zone (top edge at 8% of frame, must be <= 42%); subject too tall (92% of frame height, must be <= 58%); provider watermark detected in bottom-right zone"
       ],
       "retries_total": 4
+    },
+    {
+      "post_id": "wfB-20261011-001",
+      "date": "2026-10-11",
+      "created": "2026-10-11T16:59:36.357425+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "C-08",
+        "formula": 4,
+        "emotional_core": "I am not angry, with evidence",
+        "visual_concept": "a remote mid-air above a sofa arm",
+        "physical_action": "a remote thrown mid-air",
+        "hook": "him: i am not angry.",
+        "subline": "also him: throws the remote. the remote saw things.",
+        "cta": "",
+        "caption": "The I-am-not-angry genre has three sub-genres: the sigh that is a storm, the eye roll that is a verdict, and the remote that left its orbit.\n\nI am not angry is not a statement, it is a setup — a promise that whatever comes next is your fault for expecting better.\n\nAnger is allowed. But I am not angry followed by evidence is just gaslighting with better posture.\n\nThe remote saw things. Drop the sub-genre in the comments. Be specific.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#toxicrelationships",
+          "#redflags",
+          "#relatable",
+          "#relationshiphumor"
+        ],
+        "image_prompt": "a small tv remote suspended mid-air, a thin motion arc behind it, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-08",
+          "formula": 4,
+          "emotional_core": "I am not angry, with evidence",
+          "visual_concept": "a remote mid-air above a sofa arm",
+          "physical_action": "a remote thrown mid-air",
+          "hook": "him: i am not angry.",
+          "subline": "also him: throws the remote. the remote saw things.",
+          "cta": "",
+          "caption": "The I-am-not-angry genre has three sub-genres: the sigh that is a storm, the eye roll that is a verdict, and the remote that left its orbit.\n\nI am not angry is not a statement, it is a setup — a promise that whatever comes next is your fault for expecting better.\n\nAnger is allowed. But I am not angry followed by evidence is just gaslighting with better posture.\n\nThe remote saw things. Drop the sub-genre in the comments. Be specific.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#toxicrelationships",
+            "#redflags",
+            "#relatable",
+            "#relationshiphumor"
+          ],
+          "image_prompt": "a small tv remote suspended mid-air, a thin motion arc behind it, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -70,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -80,
+            "A-09"
+          ],
+          [
+            -80,
+            "A-10"
+          ],
+          [
+            -80,
+            "A-11"
+          ],
+          [
+            -80,
+            "A-12"
+          ],
+          [
+            -80,
+            "A-13"
+          ],
+          [
+            -80,
+            "A-14"
+          ],
+          [
+            -80,
+            "A-15"
+          ],
+          [
+            -80,
+            "A-16"
+          ],
+          [
+            -80,
+            "B-09"
+          ],
+          [
+            -80,
+            "B-10"
+          ],
+          [
+            -80,
+            "B-11"
+          ],
+          [
+            -80,
+            "B-12"
+          ],
+          [
+            -80,
+            "B-13"
+          ],
+          [
+            -80,
+            "B-14"
+          ],
+          [
+            -80,
+            "B-15"
+          ],
+          [
+            -80,
+            "B-16"
+          ],
+          [
+            -70,
+            "C-08"
+          ],
+          [
+            -70,
+            "C-09"
+          ],
+          [
+            -70,
+            "C-10"
+          ],
+          [
+            -70,
+            "C-11"
+          ],
+          [
+            -70,
+            "C-12"
+          ],
+          [
+            -70,
+            "C-13"
+          ],
+          [
+            -70,
+            "C-14"
+          ],
+          [
+            -70,
+            "C-15"
+          ],
+          [
+            -70,
+            "C-16"
+          ],
+          [
+            -70,
+            "D-08"
+          ],
+          [
+            -70,
+            "D-09"
+          ],
+          [
+            -70,
+            "D-10"
+          ],
+          [
+            -70,
+            "D-11"
+          ],
+          [
+            -70,
+            "D-12"
+          ],
+          [
+            -70,
+            "D-13"
+          ],
+          [
+            -70,
+            "D-14"
+          ],
+          [
+            -70,
+            "D-15"
+          ],
+          [
+            -70,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261011-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261011-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 241.0,
+        "bg_corners": [
+          245.0,
+          242.0,
+          241.0,
+          253.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261011-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.09
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261011-001.txt",
+        "text": "The I-am-not-angry genre has three sub-genres: the sigh that is a storm, the eye roll that is a verdict, and the remote that left its orbit.\n\nI am not angry is not a statement, it is a setup — a promise that whatever comes next is your fault for expecting better.\n\nAnger is allowed. But I am not angry followed by evidence is just gaslighting with better posture.\n\nThe remote saw things. Drop the sub-genre in the comments. Be specific.\n\n#wordsforbeing #toxicrelationships #redflags #relatable #relationshiphumor"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 241.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-11T16:59:51.124548+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-11T16:59:36.373277+05:30",
+          "msg": "selected C-08 (cat C / formula 4: Internet-native meme phrasing, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-11T16:59:48.805459+05:30",
+          "msg": "image ready (retries=0, bg=241.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-11T16:59:51.115860+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.09MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-11T16:59:51.124558+05:30",
+          "msg": "caption ready (512 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-11T16:59:51.132512+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {
