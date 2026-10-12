@@ -10214,6 +10214,259 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20261012-001",
+      "date": "2026-10-12",
+      "created": "2026-10-12T18:54:17.350330+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "D-08",
+        "formula": 4,
+        "emotional_core": "the fridge audit",
+        "visual_concept": "a fridge with 14 tiny footprints leading to it",
+        "physical_action": "footprints marching up to the closed fridge",
+        "hook": "me: opens the fridge 14 times.",
+        "subline": "the fridge: it is not in here, bestie",
+        "cta": "Tag someone who needs this.",
+        "caption": "The fridge and I have a system.\n\nI open it. I look. I close it. I open it again. I look again. I close it again. Fourteen times in one evening, according to the footprints.\n\nThe fridge, to its credit, has never once judged me. It just sits there, humming, holding the same six things I have seen in full view for the entire duration.\n\nIt is not a food search. It is a pause with a door. The fridge is not the problem. The fridge is the pause button.\n\nHow many fridge-opens is your daily record?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#relatable",
+          "#fridge",
+          "#everydaylife",
+          "#humor"
+        ],
+        "image_prompt": "a plain white refrigerator with a trail of 14 small footprints leading up to its door, the door closed, isolated on plain white",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-08",
+          "formula": 4,
+          "emotional_core": "the fridge audit",
+          "visual_concept": "a fridge with 14 tiny footprints leading to it",
+          "physical_action": "footprints marching up to the closed fridge",
+          "hook": "me: opens the fridge 14 times.",
+          "subline": "the fridge: it is not in here, bestie",
+          "cta": "Tag someone who needs this.",
+          "caption": "The fridge and I have a system.\n\nI open it. I look. I close it. I open it again. I look again. I close it again. Fourteen times in one evening, according to the footprints.\n\nThe fridge, to its credit, has never once judged me. It just sits there, humming, holding the same six things I have seen in full view for the entire duration.\n\nIt is not a food search. It is a pause with a door. The fridge is not the problem. The fridge is the pause button.\n\nHow many fridge-opens is your daily record?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#relatable",
+            "#fridge",
+            "#everydaylife",
+            "#humor"
+          ],
+          "image_prompt": "a plain white refrigerator with a trail of 14 small footprints leading up to its door, the door closed, isolated on plain white",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -70,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -80,
+            "A-09"
+          ],
+          [
+            -80,
+            "A-10"
+          ],
+          [
+            -80,
+            "A-11"
+          ],
+          [
+            -80,
+            "A-12"
+          ],
+          [
+            -80,
+            "A-13"
+          ],
+          [
+            -80,
+            "A-14"
+          ],
+          [
+            -80,
+            "A-15"
+          ],
+          [
+            -80,
+            "A-16"
+          ],
+          [
+            -80,
+            "B-09"
+          ],
+          [
+            -80,
+            "B-10"
+          ],
+          [
+            -80,
+            "B-11"
+          ],
+          [
+            -80,
+            "B-12"
+          ],
+          [
+            -80,
+            "B-13"
+          ],
+          [
+            -80,
+            "B-14"
+          ],
+          [
+            -80,
+            "B-15"
+          ],
+          [
+            -80,
+            "B-16"
+          ],
+          [
+            -80,
+            "C-09"
+          ],
+          [
+            -80,
+            "C-10"
+          ],
+          [
+            -80,
+            "C-11"
+          ],
+          [
+            -80,
+            "C-12"
+          ],
+          [
+            -80,
+            "C-13"
+          ],
+          [
+            -80,
+            "C-14"
+          ],
+          [
+            -80,
+            "C-15"
+          ],
+          [
+            -80,
+            "C-16"
+          ],
+          [
+            -70,
+            "D-08"
+          ],
+          [
+            -70,
+            "D-09"
+          ],
+          [
+            -70,
+            "D-10"
+          ],
+          [
+            -70,
+            "D-11"
+          ],
+          [
+            -70,
+            "D-12"
+          ],
+          [
+            -70,
+            "D-13"
+          ],
+          [
+            -70,
+            "D-14"
+          ],
+          [
+            -70,
+            "D-15"
+          ],
+          [
+            -70,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-12T18:54:17.362561+05:30",
+          "msg": "selected D-08 (cat D / formula 4: Internet-native meme phrasing, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-12T18:54:26.590339+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 17% of frame, must be <= 42%); subject too tall (67% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-12T18:54:47.245165+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-12T18:55:27.067520+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 143.0 < 190); subject too high in frame (top-zone subject fraction 0.134 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-12T18:56:21.603557+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 175.0 < 190); subject reaches into the text zone (top edge at 24% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-12T18:57:33.428774+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 167.0 < 190); subject reaches into the text zone (top edge at 7% of frame, must be <= 42%);"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-12T18:58:57.704361+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 134.0 < 190); subject reaches into the text zone (top edge at 16% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-12T19:00:36.923512+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 104.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%);"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 17% of frame, must be <= 42%); subject too tall (67% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 143.0 < 190); subject too high in frame (top-zone subject fraction 0.134 > 0.07); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (100% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 175.0 < 190); subject reaches into the text zone (top edge at 24% of frame, must be <= 42%); subject too tall (67% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 167.0 < 190); subject reaches into the text zone (top edge at 7% of frame, must be <= 42%); subject too tall (92% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 134.0 < 190); subject reaches into the text zone (top edge at 16% of frame, must be <= 42%); subject too tall (68% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 104.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (100% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
