@@ -10467,6 +10467,255 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 104.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (100% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261013-001",
+      "date": "2026-10-13",
+      "created": "2026-10-13T18:19:14.864158+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-09",
+        "formula": 5,
+        "emotional_core": "outgrowing the shapes others pressed you into",
+        "visual_concept": "a small clay figure emerging from a cracked mould",
+        "physical_action": "a figure stepping out of a cracked plaster mould",
+        "hook": "You are not the shape of their no.",
+        "subline": "the mould was never your size",
+        "cta": "",
+        "caption": "Somewhere you learned to fold yourself into the exact size of every room you entered.\n\nToo small for their comfort, too sharp for their approval — so you became smaller. But you are not the clay. You are the one holding it.\n\nBreak the mould gently. Keep the parts that were always yours.\n\nSave this for when you feel too much again. You are exactly enough.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfidentity",
+          "#personalgrowth",
+          "#boundaries",
+          "#healingjourney"
+        ],
+        "image_prompt": "a small smooth clay figure stepping out of a cracked plaster mould lying on its side, the mould split into two pieces",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-09",
+          "formula": 5,
+          "emotional_core": "outgrowing the shapes others pressed you into",
+          "visual_concept": "a small clay figure emerging from a cracked mould",
+          "physical_action": "a figure stepping out of a cracked plaster mould",
+          "hook": "You are not the shape of their no.",
+          "subline": "the mould was never your size",
+          "cta": "",
+          "caption": "Somewhere you learned to fold yourself into the exact size of every room you entered.\n\nToo small for their comfort, too sharp for their approval — so you became smaller. But you are not the clay. You are the one holding it.\n\nBreak the mould gently. Keep the parts that were always yours.\n\nSave this for when you feel too much again. You are exactly enough.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfidentity",
+            "#personalgrowth",
+            "#boundaries",
+            "#healingjourney"
+          ],
+          "image_prompt": "a small smooth clay figure stepping out of a cracked plaster mould lying on its side, the mould split into two pieces",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -80,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -80,
+            "A-09"
+          ],
+          [
+            -80,
+            "A-10"
+          ],
+          [
+            -80,
+            "A-11"
+          ],
+          [
+            -80,
+            "A-12"
+          ],
+          [
+            -80,
+            "A-13"
+          ],
+          [
+            -80,
+            "A-14"
+          ],
+          [
+            -80,
+            "A-15"
+          ],
+          [
+            -80,
+            "A-16"
+          ],
+          [
+            -80,
+            "B-09"
+          ],
+          [
+            -80,
+            "B-10"
+          ],
+          [
+            -80,
+            "B-11"
+          ],
+          [
+            -80,
+            "B-12"
+          ],
+          [
+            -80,
+            "B-13"
+          ],
+          [
+            -80,
+            "B-14"
+          ],
+          [
+            -80,
+            "B-15"
+          ],
+          [
+            -80,
+            "B-16"
+          ],
+          [
+            -80,
+            "C-09"
+          ],
+          [
+            -80,
+            "C-10"
+          ],
+          [
+            -80,
+            "C-11"
+          ],
+          [
+            -80,
+            "C-12"
+          ],
+          [
+            -80,
+            "C-13"
+          ],
+          [
+            -80,
+            "C-14"
+          ],
+          [
+            -80,
+            "C-15"
+          ],
+          [
+            -80,
+            "C-16"
+          ],
+          [
+            -80,
+            "D-09"
+          ],
+          [
+            -80,
+            "D-10"
+          ],
+          [
+            -80,
+            "D-11"
+          ],
+          [
+            -80,
+            "D-12"
+          ],
+          [
+            -80,
+            "D-13"
+          ],
+          [
+            -80,
+            "D-14"
+          ],
+          [
+            -80,
+            "D-15"
+          ],
+          [
+            -80,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-13T18:19:14.879599+05:30",
+          "msg": "selected A-09 (cat A / formula 5: One-line metaphor, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-13T18:19:22.596084+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 166.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-13T18:19:42.865925+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-13T18:20:33.366575+05:30",
+          "msg": "attempt 3 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-13T18:21:37.600076+05:30",
+          "msg": "attempt 4 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-13T18:22:54.483667+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 169.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-13T18:24:21.707283+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 155.0 < 190); subject reaches into the text zone (top edge at 35% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-13T18:26:03.887912+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 176.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 166.0 < 190)",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: base image failed QC: provider watermark detected in bottom-right zone",
+        "image attempt 4: base image failed QC: provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 169.0 < 190)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 155.0 < 190); subject reaches into the text zone (top edge at 35% of frame, must be <= 42%); subject too tall (64% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 176.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%); subject too tall (58% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
