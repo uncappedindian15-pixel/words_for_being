@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T18:26:03.896561+05:30",
-  "count": 33,
+  "updated": "2026-10-14T15:55:45.935512+05:30",
+  "count": 34,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -265,6 +265,14 @@
       "category": "A",
       "formula": 5,
       "hook": "You are not the shape of their no."
+    },
+    {
+      "post_id": "wfB-20261014-001",
+      "date": "2026-10-14",
+      "status": "READY_TO_PUBLISH",
+      "category": "B",
+      "formula": 5,
+      "hook": "Good people are lighthouses, not spotlights."
     }
   ]
 }
