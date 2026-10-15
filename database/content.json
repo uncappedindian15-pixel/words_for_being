@@ -10998,6 +10998,277 @@
         "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 27% of frame, must be <= 42%); subject too tall (61% of frame height, must be <= 58%)"
       ],
       "retries_total": 4
+    },
+    {
+      "post_id": "wfB-20261015-001",
+      "date": "2026-10-15",
+      "created": "2026-10-15T15:37:49.166510+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "C-09",
+        "formula": 5,
+        "emotional_core": "loyalty to disrespect is self-harm",
+        "visual_concept": "a coiled leash and an empty bowl",
+        "physical_action": "a leash coiled around an empty bowl",
+        "hook": "Loyalty to disrespect is self-harm with better PR.",
+        "subline": "the bowl is empty. the leash is coiled.",
+        "cta": "Save this for later.",
+        "caption": "We call it loyalty. We call it giving them a chance. We call it they are not a bad person, they are just.\n\nBut loyalty to a person who treats your kindness as a deposit you must keep topping up is not love — it is a wound with good branding.\n\nThe bowl is empty. The leash is coiled. You can stay and keep refilling a bowl that never holds, or you can set it down and walk to a table where your fullness is assumed, not negotiated.\n\nLoyalty is a two-way street. You have been driving alone.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfrespect",
+          "#toxicrelationships",
+          "#loyalty",
+          "#healingjourney"
+        ],
+        "image_prompt": "a dog leash coiled neatly on a plain floor next to an empty ceramic bowl, a small mat at the edge",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-09",
+          "formula": 5,
+          "emotional_core": "loyalty to disrespect is self-harm",
+          "visual_concept": "a coiled leash and an empty bowl",
+          "physical_action": "a leash coiled around an empty bowl",
+          "hook": "Loyalty to disrespect is self-harm with better PR.",
+          "subline": "the bowl is empty. the leash is coiled.",
+          "cta": "Save this for later.",
+          "caption": "We call it loyalty. We call it giving them a chance. We call it they are not a bad person, they are just.\n\nBut loyalty to a person who treats your kindness as a deposit you must keep topping up is not love — it is a wound with good branding.\n\nThe bowl is empty. The leash is coiled. You can stay and keep refilling a bowl that never holds, or you can set it down and walk to a table where your fullness is assumed, not negotiated.\n\nLoyalty is a two-way street. You have been driving alone.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfrespect",
+            "#toxicrelationships",
+            "#loyalty",
+            "#healingjourney"
+          ],
+          "image_prompt": "a dog leash coiled neatly on a plain floor next to an empty ceramic bowl, a small mat at the edge",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -80,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -90,
+            "A-10"
+          ],
+          [
+            -90,
+            "A-11"
+          ],
+          [
+            -90,
+            "A-12"
+          ],
+          [
+            -90,
+            "A-13"
+          ],
+          [
+            -90,
+            "A-14"
+          ],
+          [
+            -90,
+            "A-15"
+          ],
+          [
+            -90,
+            "A-16"
+          ],
+          [
+            -90,
+            "B-10"
+          ],
+          [
+            -90,
+            "B-11"
+          ],
+          [
+            -90,
+            "B-12"
+          ],
+          [
+            -90,
+            "B-13"
+          ],
+          [
+            -90,
+            "B-14"
+          ],
+          [
+            -90,
+            "B-15"
+          ],
+          [
+            -90,
+            "B-16"
+          ],
+          [
+            -80,
+            "C-09"
+          ],
+          [
+            -80,
+            "C-10"
+          ],
+          [
+            -80,
+            "C-11"
+          ],
+          [
+            -80,
+            "C-12"
+          ],
+          [
+            -80,
+            "C-13"
+          ],
+          [
+            -80,
+            "C-14"
+          ],
+          [
+            -80,
+            "C-15"
+          ],
+          [
+            -80,
+            "C-16"
+          ],
+          [
+            -80,
+            "D-09"
+          ],
+          [
+            -80,
+            "D-10"
+          ],
+          [
+            -80,
+            "D-11"
+          ],
+          [
+            -80,
+            "D-12"
+          ],
+          [
+            -80,
+            "D-13"
+          ],
+          [
+            -80,
+            "D-14"
+          ],
+          [
+            -80,
+            "D-15"
+          ],
+          [
+            -80,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261015-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261015-001.jpg",
+        "provider": "pollinations",
+        "retries": 3,
+        "bg_luminance_avg": 235.0,
+        "bg_corners": [
+          244.0,
+          235.0,
+          253.0,
+          253.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.583,
+        "subject_bbox_height_frac": 0.122,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261015-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.1
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261015-001.txt",
+        "text": "We call it loyalty. We call it giving them a chance. We call it they are not a bad person, they are just.\n\nBut loyalty to a person who treats your kindness as a deposit you must keep topping up is not love — it is a wound with good branding.\n\nThe bowl is empty. The leash is coiled. You can stay and keep refilling a bowl that never holds, or you can set it down and walk to a table where your fullness is assumed, not negotiated.\n\nLoyalty is a two-way street. You have been driving alone.\n\n#wordsforbeing #selfrespect #toxicrelationships #loyalty #healingjourney"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 235.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-15T15:40:03.360159+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-15T15:37:49.183709+05:30",
+          "msg": "selected C-09 (cat C / formula 5: One-line metaphor, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-15T15:37:53.403340+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 503: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-15T15:38:13.767809+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {}"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-15T15:38:57.050885+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 154.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-15T15:40:00.603154+05:30",
+          "msg": "image ready (retries=3, bg=235.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-15T15:40:03.350717+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.1MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-15T15:40:03.360169+05:30",
+          "msg": "caption ready (563 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-15T15:40:03.369100+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"error\":\"Internal Server Error\",\"message\":\"Gen Sana request failed with 503: {\\\"success\\\":false,\\\"error\\\":{\\\"message\\\":\\\"Image backend rejected request with status 503\\\",\\\"code\\\":\\\"SERVICE_UNAVAILABL",
+        "image attempt 2: pollinations HTTP 402: {}",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 154.0 < 190)"
+      ],
+      "retries_total": 3
     }
   ],
   "meta": {

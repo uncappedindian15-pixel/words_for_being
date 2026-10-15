@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T15:55:45.935512+05:30",
-  "count": 34,
+  "updated": "2026-10-15T15:40:03.377559+05:30",
+  "count": 35,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -273,6 +273,14 @@
       "category": "B",
       "formula": 5,
       "hook": "Good people are lighthouses, not spotlights."
+    },
+    {
+      "post_id": "wfB-20261015-001",
+      "date": "2026-10-15",
+      "status": "READY_TO_PUBLISH",
+      "category": "C",
+      "formula": 5,
+      "hook": "Loyalty to disrespect is self-harm with better PR."
     }
   ]
 }
