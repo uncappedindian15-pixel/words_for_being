@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T15:40:03.377559+05:30",
-  "count": 35,
+  "updated": "2026-10-16T15:34:25.749475+05:30",
+  "count": 36,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -281,6 +281,14 @@
       "category": "C",
       "formula": 5,
       "hook": "Loyalty to disrespect is self-harm with better PR."
+    },
+    {
+      "post_id": "wfB-20261016-001",
+      "date": "2026-10-16",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 5,
+      "hook": "You are a full playlist, not one song."
     }
   ]
 }

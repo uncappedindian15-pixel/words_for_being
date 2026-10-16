@@ -11269,6 +11269,294 @@
         "image attempt 3: base image failed QC: background not off-white (avg corner luminance 154.0 < 190)"
       ],
       "retries_total": 3
+    },
+    {
+      "post_id": "wfB-20261016-001",
+      "date": "2026-10-16",
+      "created": "2026-10-16T15:27:43.582525+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-09",
+        "formula": 5,
+        "emotional_core": "a full playlist in a one-song house",
+        "visual_concept": "a cassette with its long ribbon unspooled, a small radio",
+        "physical_action": "a long ribbon unspooling from a cassette",
+        "hook": "You are a full playlist, not one song.",
+        "subline": "the house only plays one. that is its problem.",
+        "cta": "",
+        "caption": "Here is the reframe: you-are-too-much is a one-song house complaining about a full playlist.\n\nYou were not built to be a single track on loop. You are the whole album — the loud songs, the quiet ones, the B-sides, the ones that only make sense at 2 AM.\n\nThe problem was never the volume. The problem was the house.\n\nA playlist does not shrink to fit a radio. It finds a better speaker.\n\nTo everyone who has been told they are too much: you are a full album. Play on.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfworth",
+          "#toomuch",
+          "#authenticity",
+          "#truth"
+        ],
+        "image_prompt": "a cassette tape with its long ribbon partially unspooled, a small radio beside it, a calm table",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-09",
+          "formula": 5,
+          "emotional_core": "a full playlist in a one-song house",
+          "visual_concept": "a cassette with its long ribbon unspooled, a small radio",
+          "physical_action": "a long ribbon unspooling from a cassette",
+          "hook": "You are a full playlist, not one song.",
+          "subline": "the house only plays one. that is its problem.",
+          "cta": "",
+          "caption": "Here is the reframe: you-are-too-much is a one-song house complaining about a full playlist.\n\nYou were not built to be a single track on loop. You are the whole album — the loud songs, the quiet ones, the B-sides, the ones that only make sense at 2 AM.\n\nThe problem was never the volume. The problem was the house.\n\nA playlist does not shrink to fit a radio. It finds a better speaker.\n\nTo everyone who has been told they are too much: you are a full album. Play on.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfworth",
+            "#toomuch",
+            "#authenticity",
+            "#truth"
+          ],
+          "image_prompt": "a cassette tape with its long ribbon partially unspooled, a small radio beside it, a calm table",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -80,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -90,
+            "A-10"
+          ],
+          [
+            -90,
+            "A-11"
+          ],
+          [
+            -90,
+            "A-12"
+          ],
+          [
+            -90,
+            "A-13"
+          ],
+          [
+            -90,
+            "A-14"
+          ],
+          [
+            -90,
+            "A-15"
+          ],
+          [
+            -90,
+            "A-16"
+          ],
+          [
+            -90,
+            "B-10"
+          ],
+          [
+            -90,
+            "B-11"
+          ],
+          [
+            -90,
+            "B-12"
+          ],
+          [
+            -90,
+            "B-13"
+          ],
+          [
+            -90,
+            "B-14"
+          ],
+          [
+            -90,
+            "B-15"
+          ],
+          [
+            -90,
+            "B-16"
+          ],
+          [
+            -90,
+            "C-10"
+          ],
+          [
+            -90,
+            "C-11"
+          ],
+          [
+            -90,
+            "C-12"
+          ],
+          [
+            -90,
+            "C-13"
+          ],
+          [
+            -90,
+            "C-14"
+          ],
+          [
+            -90,
+            "C-15"
+          ],
+          [
+            -90,
+            "C-16"
+          ],
+          [
+            -80,
+            "D-09"
+          ],
+          [
+            -80,
+            "D-10"
+          ],
+          [
+            -80,
+            "D-11"
+          ],
+          [
+            -80,
+            "D-12"
+          ],
+          [
+            -80,
+            "D-13"
+          ],
+          [
+            -80,
+            "D-14"
+          ],
+          [
+            -80,
+            "D-15"
+          ],
+          [
+            -80,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261016-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261016-001.jpg",
+        "provider": "pollinations",
+        "retries": 6,
+        "bg_luminance_avg": 240.0,
+        "bg_corners": [
+          241.0,
+          246.0,
+          240.0,
+          253.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.568,
+        "subject_bbox_height_frac": 0.336,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261016-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.12
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261016-001.txt",
+        "text": "Here is the reframe: you-are-too-much is a one-song house complaining about a full playlist.\n\nYou were not built to be a single track on loop. You are the whole album — the loud songs, the quiet ones, the B-sides, the ones that only make sense at 2 AM.\n\nThe problem was never the volume. The problem was the house.\n\nA playlist does not shrink to fit a radio. It finds a better speaker.\n\nTo everyone who has been told they are too much: you are a full album. Play on.\n\n#wordsforbeing #selfworth #toomuch #authenticity #truth"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 240.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-16T15:34:25.729179+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-16T15:27:43.592796+05:30",
+          "msg": "selected D-09 (cat D / formula 5: One-line metaphor, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-16T15:27:55.314385+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 26% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-16T15:28:15.545465+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 14"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-16T15:29:00.729456+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject reaches into the text zone (top edge at 39% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-16T15:29:57.394406+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 148.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-16T15:31:10.293130+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 175.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-16T15:32:37.855286+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 174.0 < 190); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-16T15:34:23.811513+05:30",
+          "msg": "image ready (retries=6, bg=240.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-16T15:34:25.721514+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.12MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-16T15:34:25.729187+05:30",
+          "msg": "caption ready (523 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-16T15:34:25.743598+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 26% of frame, must be <= 42%); provider watermark detected in bottom-right zone",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 14s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: subject reaches into the text zone (top edge at 39% of frame, must be <= 42%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 148.0 < 190)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 175.0 < 190)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 174.0 < 190); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%); subject too tall (90% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 6
     }
   ],
   "meta": {
