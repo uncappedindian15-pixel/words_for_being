@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T15:34:25.749475+05:30",
-  "count": 36,
+  "updated": "2026-10-17T15:08:02.429627+05:30",
+  "count": 37,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -289,6 +289,14 @@
       "category": "D",
       "formula": 5,
       "hook": "You are a full playlist, not one song."
+    },
+    {
+      "post_id": "wfB-20261017-001",
+      "date": "2026-10-17",
+      "status": "READY_TO_PUBLISH",
+      "category": "A",
+      "formula": 1,
+      "hook": "Stop scheduling your healing. Start it badly."
     }
   ]
 }
