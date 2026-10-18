@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T15:08:02.429627+05:30",
-  "count": 37,
+  "updated": "2026-10-18T15:15:22.978733+05:30",
+  "count": 38,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -297,6 +297,14 @@
       "category": "A",
       "formula": 1,
       "hook": "Stop scheduling your healing. Start it badly."
+    },
+    {
+      "post_id": "wfB-20261018-001",
+      "date": "2026-10-18",
+      "status": "READY_TO_PUBLISH",
+      "category": "B",
+      "formula": 1,
+      "hook": "Love that hides is just management."
     }
   ]
 }
