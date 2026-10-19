@@ -12093,6 +12093,231 @@
         "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 20s, or get unlimited images with a pollen key at https://enter.p"
       ],
       "retries_total": 2
+    },
+    {
+      "post_id": "wfB-20261019-001",
+      "date": "2026-10-19",
+      "created": "2026-10-19T16:29:29.098548+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-10",
+        "formula": 1,
+        "emotional_core": "the clear warning",
+        "visual_concept": "one page torn from a book, set on the closed book",
+        "physical_action": "a page torn out and placed down",
+        "hook": "You get one clear warning. Then my absence.",
+        "subline": "",
+        "cta": "Save this for later.",
+        "caption": "Not a fight. Not a cold week. Not a we-need-to-talk.\n\nOne clear, calm, final sentence, spoken like a fact: this is the last time I will explain myself about this. And then you will understand it, because I will mean it.\n\nThe second warning is not a sentence. It is a closed door, a saved number, a life that no longer contains you.\n\nDo not mistake my clarity for cruelty. It is the last kindness I have to offer.\n\nTo everyone who finally became the one clear sentence: it was brave.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#boundaries",
+          "#selfrespect",
+          "#finalwarning",
+          "#healingjourney"
+        ],
+        "image_prompt": "a single page torn from a book lying open on top of the closed book, the torn edge visible, a calm table",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-10",
+          "formula": 1,
+          "emotional_core": "the clear warning",
+          "visual_concept": "one page torn from a book, set on the closed book",
+          "physical_action": "a page torn out and placed down",
+          "hook": "You get one clear warning. Then my absence.",
+          "subline": "",
+          "cta": "Save this for later.",
+          "caption": "Not a fight. Not a cold week. Not a we-need-to-talk.\n\nOne clear, calm, final sentence, spoken like a fact: this is the last time I will explain myself about this. And then you will understand it, because I will mean it.\n\nThe second warning is not a sentence. It is a closed door, a saved number, a life that no longer contains you.\n\nDo not mistake my clarity for cruelty. It is the last kindness I have to offer.\n\nTo everyone who finally became the one clear sentence: it was brave.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#boundaries",
+            "#selfrespect",
+            "#finalwarning",
+            "#healingjourney"
+          ],
+          "image_prompt": "a single page torn from a book lying open on top of the closed book, the torn edge visible, a calm table",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -90,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -100,
+            "A-11"
+          ],
+          [
+            -100,
+            "A-12"
+          ],
+          [
+            -100,
+            "A-13"
+          ],
+          [
+            -100,
+            "A-14"
+          ],
+          [
+            -100,
+            "A-15"
+          ],
+          [
+            -100,
+            "A-16"
+          ],
+          [
+            -100,
+            "B-11"
+          ],
+          [
+            -100,
+            "B-12"
+          ],
+          [
+            -100,
+            "B-13"
+          ],
+          [
+            -100,
+            "B-14"
+          ],
+          [
+            -100,
+            "B-15"
+          ],
+          [
+            -100,
+            "B-16"
+          ],
+          [
+            -90,
+            "C-10"
+          ],
+          [
+            -90,
+            "C-11"
+          ],
+          [
+            -90,
+            "C-12"
+          ],
+          [
+            -90,
+            "C-13"
+          ],
+          [
+            -90,
+            "C-14"
+          ],
+          [
+            -90,
+            "C-15"
+          ],
+          [
+            -90,
+            "C-16"
+          ],
+          [
+            -90,
+            "D-10"
+          ],
+          [
+            -90,
+            "D-11"
+          ],
+          [
+            -90,
+            "D-12"
+          ],
+          [
+            -90,
+            "D-13"
+          ],
+          [
+            -90,
+            "D-14"
+          ],
+          [
+            -90,
+            "D-15"
+          ],
+          [
+            -90,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-19T16:29:29.112239+05:30",
+          "msg": "selected C-10 (cat C / formula 1: Blunt ultimatum, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-19T16:29:36.207740+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 172.0 < 190); subject reaches into the text zone (top edge at 40% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-19T16:29:56.531476+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-19T16:30:36.625315+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-19T16:31:38.694735+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject reaches into the text zone (top edge at 33% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-19T16:32:51.030572+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 121.0 < 190); subject reaches into the text zone (top edge at 11% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-19T16:34:23.665637+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (68% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-19T16:36:02.756010+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 172.0 < 190); subject reaches into the text zone (top edge at 40% of frame, must be <= 42%); subject too tall (59% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 33% of frame, must be <= 42%)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 121.0 < 190); subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (89% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (68% of frame height, must be <= 58%)",
+        "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
