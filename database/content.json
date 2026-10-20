@@ -12318,6 +12318,235 @@
         "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261020-001",
+      "date": "2026-10-20",
+      "created": "2026-10-20T15:42:56.382767+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-10",
+        "formula": 3,
+        "emotional_core": "the page that won",
+        "visual_concept": "an open book, the bookmark bent at 90 degrees",
+        "physical_action": "a bookmark bent hard at the same page",
+        "hook": "i read the same page 6 times.",
+        "subline": "the page won. i respect the page.",
+        "cta": "",
+        "caption": "Full confession: I have read the same page six times in one evening.\n\nNot because I forgot where I was. Because the page was comfortable and the next page was a commitment.\n\nThe bookmark is bent at 90 degrees, the light is getting low, and somewhere in there I decided the book and I were doing our thing.\n\nThe page won. The page always wins. It is the most patient antagonist in the story — it just sits there, same words, same warmth, until you finally turn it.\n\nWhat is your current stuck-on page?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#bookworm",
+          "#relatable",
+          "#reading",
+          "#everydaylife"
+        ],
+        "image_prompt": "an open book with a bookmark bent sharply at 90 degrees, the same page visible, a reading light casting a small pool of warm light",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-10",
+          "formula": 3,
+          "emotional_core": "the page that won",
+          "visual_concept": "an open book, the bookmark bent at 90 degrees",
+          "physical_action": "a bookmark bent hard at the same page",
+          "hook": "i read the same page 6 times.",
+          "subline": "the page won. i respect the page.",
+          "cta": "",
+          "caption": "Full confession: I have read the same page six times in one evening.\n\nNot because I forgot where I was. Because the page was comfortable and the next page was a commitment.\n\nThe bookmark is bent at 90 degrees, the light is getting low, and somewhere in there I decided the book and I were doing our thing.\n\nThe page won. The page always wins. It is the most patient antagonist in the story — it just sits there, same words, same warmth, until you finally turn it.\n\nWhat is your current stuck-on page?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#bookworm",
+            "#relatable",
+            "#reading",
+            "#everydaylife"
+          ],
+          "image_prompt": "an open book with a bookmark bent sharply at 90 degrees, the same page visible, a reading light casting a small pool of warm light",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -90,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -100,
+            "A-11"
+          ],
+          [
+            -100,
+            "A-12"
+          ],
+          [
+            -100,
+            "A-13"
+          ],
+          [
+            -100,
+            "A-14"
+          ],
+          [
+            -100,
+            "A-15"
+          ],
+          [
+            -100,
+            "A-16"
+          ],
+          [
+            -100,
+            "B-11"
+          ],
+          [
+            -100,
+            "B-12"
+          ],
+          [
+            -100,
+            "B-13"
+          ],
+          [
+            -100,
+            "B-14"
+          ],
+          [
+            -100,
+            "B-15"
+          ],
+          [
+            -100,
+            "B-16"
+          ],
+          [
+            -100,
+            "C-11"
+          ],
+          [
+            -100,
+            "C-12"
+          ],
+          [
+            -100,
+            "C-13"
+          ],
+          [
+            -100,
+            "C-14"
+          ],
+          [
+            -100,
+            "C-15"
+          ],
+          [
+            -100,
+            "C-16"
+          ],
+          [
+            -90,
+            "D-10"
+          ],
+          [
+            -90,
+            "D-11"
+          ],
+          [
+            -90,
+            "D-12"
+          ],
+          [
+            -90,
+            "D-13"
+          ],
+          [
+            -90,
+            "D-14"
+          ],
+          [
+            -90,
+            "D-15"
+          ],
+          [
+            -90,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261020-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261020-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 238.0,
+        "bg_corners": [
+          239.0,
+          238.0,
+          238.0,
+          253.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.556,
+        "subject_bbox_height_frac": 0.248,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261020-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.12
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261020-001.txt",
+        "text": "Full confession: I have read the same page six times in one evening.\n\nNot because I forgot where I was. Because the page was comfortable and the next page was a commitment.\n\nThe bookmark is bent at 90 degrees, the light is getting low, and somewhere in there I decided the book and I were doing our thing.\n\nThe page won. The page always wins. It is the most patient antagonist in the story — it just sits there, same words, same warmth, until you finally turn it.\n\nWhat is your current stuck-on page?\n\n#wordsforbeing #bookworm #relatable #reading #everydaylife"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 238.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-20T15:43:13.417258+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-20T15:42:56.399643+05:30",
+          "msg": "selected D-10 (cat D / formula 3: Casual raw confession, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-20T15:43:10.935316+05:30",
+          "msg": "image ready (retries=0, bg=238.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-20T15:43:13.406715+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.12MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-20T15:43:13.417268+05:30",
+          "msg": "caption ready (560 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-20T15:43:13.427214+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {

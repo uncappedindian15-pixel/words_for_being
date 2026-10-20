@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T16:36:02.766170+05:30",
-  "count": 39,
+  "updated": "2026-10-20T15:43:13.436731+05:30",
+  "count": 40,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -313,6 +313,14 @@
       "category": "C",
       "formula": 1,
       "hook": "You get one clear warning. Then my absence."
+    },
+    {
+      "post_id": "wfB-20261020-001",
+      "date": "2026-10-20",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 3,
+      "hook": "i read the same page 6 times."
     }
   ]
 }
