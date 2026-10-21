@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T15:43:13.436731+05:30",
-  "count": 40,
+  "updated": "2026-10-21T15:56:23.724160+05:30",
+  "count": 41,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -321,6 +321,14 @@
       "category": "D",
       "formula": 3,
       "hook": "i read the same page 6 times."
+    },
+    {
+      "post_id": "wfB-20261021-001",
+      "date": "2026-10-21",
+      "status": "READY_TO_PUBLISH",
+      "category": "A",
+      "formula": 8,
+      "hook": "To you at 1 AM: log off already."
     }
   ]
 }

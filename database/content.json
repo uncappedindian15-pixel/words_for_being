@@ -12547,6 +12547,267 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20261021-001",
+      "date": "2026-10-21",
+      "created": "2026-10-21T15:51:32.135461+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "A-11",
+        "formula": 8,
+        "emotional_core": "late-night scrolling as a second shift",
+        "visual_concept": "a phone face down on a pillow under a small moon",
+        "physical_action": "a phone set face down on a pillow",
+        "hook": "To you at 1 AM: log off already.",
+        "subline": "your bed is not a desk",
+        "cta": "Tag someone who needs this.",
+        "caption": "I know the exact feel of it. 1 AM, just five more minutes, and suddenly you are researching things you did not need, feeling worse, holding a glowing rectangle where your rest should be.\n\nYou have already worked today. The rest of the night belongs to your body.\n\nPut the phone face down. The internet will still be there. You will be better by morning.\n\nIf you are reading this right now — this is your sign. Goodnight.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#screensleep",
+          "#sleephygiene",
+          "#mentalhealth",
+          "#digitaldetox"
+        ],
+        "image_prompt": "a smartphone lying face down on a soft pillow, a small crescent moon floating above it, everything else calm and empty",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-11",
+          "formula": 8,
+          "emotional_core": "late-night scrolling as a second shift",
+          "visual_concept": "a phone face down on a pillow under a small moon",
+          "physical_action": "a phone set face down on a pillow",
+          "hook": "To you at 1 AM: log off already.",
+          "subline": "your bed is not a desk",
+          "cta": "Tag someone who needs this.",
+          "caption": "I know the exact feel of it. 1 AM, just five more minutes, and suddenly you are researching things you did not need, feeling worse, holding a glowing rectangle where your rest should be.\n\nYou have already worked today. The rest of the night belongs to your body.\n\nPut the phone face down. The internet will still be there. You will be better by morning.\n\nIf you are reading this right now — this is your sign. Goodnight.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#screensleep",
+            "#sleephygiene",
+            "#mentalhealth",
+            "#digitaldetox"
+          ],
+          "image_prompt": "a smartphone lying face down on a soft pillow, a small crescent moon floating above it, everything else calm and empty",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -100,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -100,
+            "A-11"
+          ],
+          [
+            -100,
+            "A-12"
+          ],
+          [
+            -100,
+            "A-13"
+          ],
+          [
+            -100,
+            "A-14"
+          ],
+          [
+            -100,
+            "A-15"
+          ],
+          [
+            -100,
+            "A-16"
+          ],
+          [
+            -100,
+            "B-11"
+          ],
+          [
+            -100,
+            "B-12"
+          ],
+          [
+            -100,
+            "B-13"
+          ],
+          [
+            -100,
+            "B-14"
+          ],
+          [
+            -100,
+            "B-15"
+          ],
+          [
+            -100,
+            "B-16"
+          ],
+          [
+            -100,
+            "C-11"
+          ],
+          [
+            -100,
+            "C-12"
+          ],
+          [
+            -100,
+            "C-13"
+          ],
+          [
+            -100,
+            "C-14"
+          ],
+          [
+            -100,
+            "C-15"
+          ],
+          [
+            -100,
+            "C-16"
+          ],
+          [
+            -100,
+            "D-11"
+          ],
+          [
+            -100,
+            "D-12"
+          ],
+          [
+            -100,
+            "D-13"
+          ],
+          [
+            -100,
+            "D-14"
+          ],
+          [
+            -100,
+            "D-15"
+          ],
+          [
+            -100,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261021-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261021-001.jpg",
+        "provider": "pollinations",
+        "retries": 5,
+        "bg_luminance_avg": 244.0,
+        "bg_corners": [
+          255.0,
+          244.0,
+          253.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.717,
+        "subject_bbox_height_frac": 0.208,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261021-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.11
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261021-001.txt",
+        "text": "I know the exact feel of it. 1 AM, just five more minutes, and suddenly you are researching things you did not need, feeling worse, holding a glowing rectangle where your rest should be.\n\nYou have already worked today. The rest of the night belongs to your body.\n\nPut the phone face down. The internet will still be there. You will be better by morning.\n\nIf you are reading this right now — this is your sign. Goodnight.\n\n#wordsforbeing #screensleep #sleephygiene #mentalhealth #digitaldetox"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 244.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-21T15:56:23.704848+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-21T15:51:32.148992+05:30",
+          "msg": "selected A-11 (cat A / formula 8: Direct address, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-21T15:51:39.096839+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 169.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-21T15:51:59.421228+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-21T15:52:41.275026+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 169.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-21T15:53:37.726387+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 174.0 < 190); subject too high in frame (top-zone subject fraction 0.101 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-21T15:54:48.162355+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 166.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-21T15:56:21.184897+05:30",
+          "msg": "image ready (retries=5, bg=244.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-21T15:56:23.694402+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.11MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-21T15:56:23.704858+05:30",
+          "msg": "caption ready (491 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-21T15:56:23.714673+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 169.0 < 190)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 169.0 < 190)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 174.0 < 190); subject too high in frame (top-zone subject fraction 0.101 > 0.07); subject reaches into the text zone (top edge at 17% of frame, must be <= 42%); subject too tall (83% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 166.0 < 190)"
+      ],
+      "retries_total": 5
     }
   ],
   "meta": {
