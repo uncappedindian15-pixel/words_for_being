@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T15:56:23.724160+05:30",
-  "count": 41,
+  "updated": "2026-10-22T15:52:04.395164+05:30",
+  "count": 42,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -329,6 +329,14 @@
       "category": "A",
       "formula": 8,
       "hook": "To you at 1 AM: log off already."
+    },
+    {
+      "post_id": "wfB-20261022-001",
+      "date": "2026-10-22",
+      "status": "READY_TO_PUBLISH",
+      "category": "B",
+      "formula": 8,
+      "hook": "To you who bring me the first bite:"
     }
   ]
 }

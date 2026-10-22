@@ -12808,6 +12808,242 @@
         "image attempt 5: base image failed QC: background not off-white (avg corner luminance 166.0 < 190)"
       ],
       "retries_total": 5
+    },
+    {
+      "post_id": "wfB-20261022-001",
+      "date": "2026-10-22",
+      "created": "2026-10-22T15:50:46.340467+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "B-11",
+        "formula": 8,
+        "emotional_core": "the firstness of a gesture",
+        "visual_concept": "a fork lifting one small piece from a shared plate",
+        "physical_action": "a fork lifting the first piece of food",
+        "hook": "To you who bring me the first bite:",
+        "subline": "the bite is not the point. the firstness is.",
+        "cta": "",
+        "caption": "There is a specific kind of love that lives in first — first bite, first coffee of the day, first to arrive, first to notice.\n\nAfter ten years, the first bite still gets handed over without thinking. That reflex is the relationship.\n\nNot the holidays, not the big speeches — the reflex. Guard the firstness in your own love life too: be first to call, first to forgive, first to say the hard thing.\n\nThe reflex is the romance.\n\nWho gives you their first?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#couples",
+          "#smallgestures",
+          "#love",
+          "#relationships"
+        ],
+        "image_prompt": "a small fork lifting one piece of food from a simple plate, a second plate waiting nearby, a calm table setting",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-11",
+          "formula": 8,
+          "emotional_core": "the firstness of a gesture",
+          "visual_concept": "a fork lifting one small piece from a shared plate",
+          "physical_action": "a fork lifting the first piece of food",
+          "hook": "To you who bring me the first bite:",
+          "subline": "the bite is not the point. the firstness is.",
+          "cta": "",
+          "caption": "There is a specific kind of love that lives in first — first bite, first coffee of the day, first to arrive, first to notice.\n\nAfter ten years, the first bite still gets handed over without thinking. That reflex is the relationship.\n\nNot the holidays, not the big speeches — the reflex. Guard the firstness in your own love life too: be first to call, first to forgive, first to say the hard thing.\n\nThe reflex is the romance.\n\nWho gives you their first?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#couples",
+            "#smallgestures",
+            "#love",
+            "#relationships"
+          ],
+          "image_prompt": "a small fork lifting one piece of food from a simple plate, a second plate waiting nearby, a calm table setting",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -100,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -110,
+            "A-12"
+          ],
+          [
+            -110,
+            "A-13"
+          ],
+          [
+            -110,
+            "A-14"
+          ],
+          [
+            -110,
+            "A-15"
+          ],
+          [
+            -110,
+            "A-16"
+          ],
+          [
+            -100,
+            "B-11"
+          ],
+          [
+            -100,
+            "B-12"
+          ],
+          [
+            -100,
+            "B-13"
+          ],
+          [
+            -100,
+            "B-14"
+          ],
+          [
+            -100,
+            "B-15"
+          ],
+          [
+            -100,
+            "B-16"
+          ],
+          [
+            -100,
+            "C-11"
+          ],
+          [
+            -100,
+            "C-12"
+          ],
+          [
+            -100,
+            "C-13"
+          ],
+          [
+            -100,
+            "C-14"
+          ],
+          [
+            -100,
+            "C-15"
+          ],
+          [
+            -100,
+            "C-16"
+          ],
+          [
+            -100,
+            "D-11"
+          ],
+          [
+            -100,
+            "D-12"
+          ],
+          [
+            -100,
+            "D-13"
+          ],
+          [
+            -100,
+            "D-14"
+          ],
+          [
+            -100,
+            "D-15"
+          ],
+          [
+            -100,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261022-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261022-001.jpg",
+        "provider": "pollinations",
+        "retries": 2,
+        "bg_luminance_avg": 240.0,
+        "bg_corners": [
+          240.0,
+          242.0,
+          243.0,
+          255.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.614,
+        "subject_bbox_height_frac": 0.31,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261022-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.1
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261022-001.txt",
+        "text": "There is a specific kind of love that lives in first — first bite, first coffee of the day, first to arrive, first to notice.\n\nAfter ten years, the first bite still gets handed over without thinking. That reflex is the relationship.\n\nNot the holidays, not the big speeches — the reflex. Guard the firstness in your own love life too: be first to call, first to forgive, first to say the hard thing.\n\nThe reflex is the romance.\n\nWho gives you their first?\n\n#wordsforbeing #couples #smallgestures #love #relationships"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 240.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-22T15:52:04.378895+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-22T15:50:46.355994+05:30",
+          "msg": "selected B-11 (cat B / formula 8: Direct address, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-22T15:50:53.585687+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 137.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-22T15:51:13.840174+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-22T15:52:02.533940+05:30",
+          "msg": "image ready (retries=2, bg=240.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-22T15:52:04.367658+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.1MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-22T15:52:04.378906+05:30",
+          "msg": "caption ready (515 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-22T15:52:04.387547+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 137.0 < 190)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19s, or get unlimited images with a pollen key at https://enter.p"
+      ],
+      "retries_total": 2
     }
   ],
   "meta": {
