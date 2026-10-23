@@ -13044,6 +13044,215 @@
         "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19s, or get unlimited images with a pollen key at https://enter.p"
       ],
       "retries_total": 2
+    },
+    {
+      "post_id": "wfB-20261023-001",
+      "date": "2026-10-23",
+      "created": "2026-10-23T15:46:15.899469+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-11",
+        "formula": 8,
+        "emotional_core": "a season, not a subscription",
+        "visual_concept": "a calendar with one quarter highlighted, a pen on it",
+        "physical_action": "one quarter of the year marked, the rest untouched",
+        "hook": "To my exes: a season, not a subscription.",
+        "subline": "the renewal is cancelled",
+        "cta": "",
+        "caption": "For the record, to everyone who has ever held a season of me like a permanent contract: you did not.\n\nYou had a season — the warmth of it, the light of it, the specific way I loved you in that window. Seasons end. That is not a betrayal, that is meteorology.\n\nI am not a subscription you can auto-renew, not a number you can call on the off chance, not a backup plan with my name on it.\n\nThe renewal is cancelled. The season was real. It is just over.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#exboyfriend",
+          "#movingon",
+          "#selfworth",
+          "#closure"
+        ],
+        "image_prompt": "a calendar page standing upright with one quarter softly highlighted, a pen resting across the page, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-11",
+          "formula": 8,
+          "emotional_core": "a season, not a subscription",
+          "visual_concept": "a calendar with one quarter highlighted, a pen on it",
+          "physical_action": "one quarter of the year marked, the rest untouched",
+          "hook": "To my exes: a season, not a subscription.",
+          "subline": "the renewal is cancelled",
+          "cta": "",
+          "caption": "For the record, to everyone who has ever held a season of me like a permanent contract: you did not.\n\nYou had a season — the warmth of it, the light of it, the specific way I loved you in that window. Seasons end. That is not a betrayal, that is meteorology.\n\nI am not a subscription you can auto-renew, not a number you can call on the off chance, not a backup plan with my name on it.\n\nThe renewal is cancelled. The season was real. It is just over.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#exboyfriend",
+            "#movingon",
+            "#selfworth",
+            "#closure"
+          ],
+          "image_prompt": "a calendar page standing upright with one quarter softly highlighted, a pen resting across the page, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -100,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -110,
+            "A-12"
+          ],
+          [
+            -110,
+            "A-13"
+          ],
+          [
+            -110,
+            "A-14"
+          ],
+          [
+            -110,
+            "A-15"
+          ],
+          [
+            -110,
+            "A-16"
+          ],
+          [
+            -110,
+            "B-12"
+          ],
+          [
+            -110,
+            "B-13"
+          ],
+          [
+            -110,
+            "B-14"
+          ],
+          [
+            -110,
+            "B-15"
+          ],
+          [
+            -110,
+            "B-16"
+          ],
+          [
+            -100,
+            "C-11"
+          ],
+          [
+            -100,
+            "C-12"
+          ],
+          [
+            -100,
+            "C-13"
+          ],
+          [
+            -100,
+            "C-14"
+          ],
+          [
+            -100,
+            "C-15"
+          ],
+          [
+            -100,
+            "C-16"
+          ],
+          [
+            -100,
+            "D-11"
+          ],
+          [
+            -100,
+            "D-12"
+          ],
+          [
+            -100,
+            "D-13"
+          ],
+          [
+            -100,
+            "D-14"
+          ],
+          [
+            -100,
+            "D-15"
+          ],
+          [
+            -100,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-23T15:46:15.917923+05:30",
+          "msg": "selected C-11 (cat C / formula 8: Direct address, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-23T15:46:42.828478+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 24% of frame, must be <= 42%); subject too tall (69% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-23T15:47:03.100354+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 9s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-23T15:48:06.407881+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (83% of frame height, must be <= 58%); imag"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-23T15:51:37.978603+05:30",
+          "msg": "attempt 4 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-23T15:53:01.460810+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject reaches into the text zone (top edge at 20% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-23T15:54:40.005734+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject reaches into the text zone (top edge at 29% of frame, must be <= 42%); subject too tall (62% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-23T15:56:40.985857+05:30",
+          "msg": "attempt 7 failed: base image failed QC: subject reaches into the text zone (top edge at 18% of frame, must be <= 42%); subject too tall (72% of frame height, must be <= 58%)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 24% of frame, must be <= 42%); subject too tall (69% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 9s, or get unlimited images with a pollen key at https://enter.po",
+        "image attempt 3: base image failed QC: subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (83% of frame height, must be <= 58%); image model appears to have drawn text (8 words by OCR)",
+        "image attempt 4: base image failed QC: provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 20% of frame, must be <= 42%)",
+        "image attempt 6: base image failed QC: subject reaches into the text zone (top edge at 29% of frame, must be <= 42%); subject too tall (62% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 18% of frame, must be <= 42%); subject too tall (72% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {

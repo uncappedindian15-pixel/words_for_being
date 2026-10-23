@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T15:52:04.395164+05:30",
-  "count": 42,
+  "updated": "2026-10-23T15:56:40.996682+05:30",
+  "count": 43,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -337,6 +337,14 @@
       "category": "B",
       "formula": 8,
       "hook": "To you who bring me the first bite:"
+    },
+    {
+      "post_id": "wfB-20261023-001",
+      "date": "2026-10-23",
+      "status": "FAILED",
+      "category": "C",
+      "formula": 8,
+      "hook": "To my exes: a season, not a subscription."
     }
   ]
 }
