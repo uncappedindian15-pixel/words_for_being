@@ -13253,6 +13253,211 @@
         "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 18% of frame, must be <= 42%); subject too tall (72% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261024-001",
+      "date": "2026-10-24",
+      "created": "2026-10-24T15:09:20.533541+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "D-11",
+        "formula": 6,
+        "emotional_core": "the drop while washing hands",
+        "visual_concept": "a sink with one music note floating above the water",
+        "physical_action": "a note floating up from the sink",
+        "hook": "Rule: song drops mid-handwash? dance anyway.",
+        "subline": "",
+        "cta": "",
+        "caption": "Here is a rule for the bathroom: if the song drops while you are washing your hands, that is a sign.\n\nDo not dry off. Do not finish the sentence you were in the middle of. Dance. One song. One sink. One very small audience — the mirror, who has seen things.\n\nThe kitchen has a drop. The shower has a drop. The 2 AM hallway has a drop.\n\nYou do not need a dance floor. You need a permission slip, and the song is the one.\n\nWhat is your drop song?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#dance",
+          "#music",
+          "#relatable",
+          "#goodvibes"
+        ],
+        "image_prompt": "a simple white sink with a single small music note floating above the water, a towel hanging beside it, isolated on plain white",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-11",
+          "formula": 6,
+          "emotional_core": "the drop while washing hands",
+          "visual_concept": "a sink with one music note floating above the water",
+          "physical_action": "a note floating up from the sink",
+          "hook": "Rule: song drops mid-handwash? dance anyway.",
+          "subline": "",
+          "cta": "",
+          "caption": "Here is a rule for the bathroom: if the song drops while you are washing your hands, that is a sign.\n\nDo not dry off. Do not finish the sentence you were in the middle of. Dance. One song. One sink. One very small audience — the mirror, who has seen things.\n\nThe kitchen has a drop. The shower has a drop. The 2 AM hallway has a drop.\n\nYou do not need a dance floor. You need a permission slip, and the song is the one.\n\nWhat is your drop song?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#dance",
+            "#music",
+            "#relatable",
+            "#goodvibes"
+          ],
+          "image_prompt": "a simple white sink with a single small music note floating above the water, a towel hanging beside it, isolated on plain white",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -100,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -110,
+            "A-12"
+          ],
+          [
+            -110,
+            "A-13"
+          ],
+          [
+            -110,
+            "A-14"
+          ],
+          [
+            -110,
+            "A-15"
+          ],
+          [
+            -110,
+            "A-16"
+          ],
+          [
+            -110,
+            "B-12"
+          ],
+          [
+            -110,
+            "B-13"
+          ],
+          [
+            -110,
+            "B-14"
+          ],
+          [
+            -110,
+            "B-15"
+          ],
+          [
+            -110,
+            "B-16"
+          ],
+          [
+            -110,
+            "C-12"
+          ],
+          [
+            -110,
+            "C-13"
+          ],
+          [
+            -110,
+            "C-14"
+          ],
+          [
+            -110,
+            "C-15"
+          ],
+          [
+            -110,
+            "C-16"
+          ],
+          [
+            -100,
+            "D-11"
+          ],
+          [
+            -100,
+            "D-12"
+          ],
+          [
+            -100,
+            "D-13"
+          ],
+          [
+            -100,
+            "D-14"
+          ],
+          [
+            -100,
+            "D-15"
+          ],
+          [
+            -100,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-24T15:09:20.550382+05:30",
+          "msg": "selected D-11 (cat D / formula 6: Life tip / Rule, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-24T15:09:28.060191+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 140.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-24T15:09:48.323639+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 18"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-24T15:10:27.407365+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-24T15:11:26.380387+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 123.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%);"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-24T15:12:39.718932+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 155.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-24T15:14:12.044327+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 158.0 < 190); subject reaches into the text zone (top edge at 30% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-24T15:15:54.989151+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 134.0 < 190)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 140.0 < 190)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 18s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 123.0 < 190); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (94% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 155.0 < 190)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 158.0 < 190); subject reaches into the text zone (top edge at 30% of frame, must be <= 42%); subject too tall (69% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 134.0 < 190)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
