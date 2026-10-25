@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T15:15:55.000333+05:30",
-  "count": 44,
+  "updated": "2026-10-25T15:34:03.564917+05:30",
+  "count": 45,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -353,6 +353,14 @@
       "category": "D",
       "formula": 6,
       "hook": "Rule: song drops mid-handwash? dance anyway."
+    },
+    {
+      "post_id": "wfB-20261025-001",
+      "date": "2026-10-25",
+      "status": "FAILED",
+      "category": "A",
+      "formula": 3,
+      "hook": "i feel most alive since i stopped performing."
     }
   ]
 }

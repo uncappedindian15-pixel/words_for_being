@@ -13458,6 +13458,207 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 134.0 < 190)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261025-001",
+      "date": "2026-10-25",
+      "created": "2026-10-25T15:27:05.318951+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-12",
+        "formula": 3,
+        "emotional_core": "being alive without performing wellness",
+        "visual_concept": "a closed journal on the floor, pen dropped beside it",
+        "physical_action": "a pen dropped beside a closed journal",
+        "hook": "i feel most alive since i stopped performing.",
+        "subline": "the journal stays closed sometimes. allowed.",
+        "cta": "",
+        "caption": "The journal I bought at the start of the year is still nearly blank, and for the first time that does not feel like a failure.\n\nI was doing wellness like a performance — the right words, the right rituals, the right screenshots. Nobody was watching. Not even me, honestly.\n\nNow some days I do nothing at all and still call it a good day. Being alive does not need a caption.\n\nWhat is one wellness habit you quit because it became a performance?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#authenticity",
+          "#mentalhealth",
+          "#selfreflection",
+          "#realtalk"
+        ],
+        "image_prompt": "a closed notebook lying on a plain floor with a pen dropped casually beside it, a small plant leaf resting on the notebook cover",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-12",
+          "formula": 3,
+          "emotional_core": "being alive without performing wellness",
+          "visual_concept": "a closed journal on the floor, pen dropped beside it",
+          "physical_action": "a pen dropped beside a closed journal",
+          "hook": "i feel most alive since i stopped performing.",
+          "subline": "the journal stays closed sometimes. allowed.",
+          "cta": "",
+          "caption": "The journal I bought at the start of the year is still nearly blank, and for the first time that does not feel like a failure.\n\nI was doing wellness like a performance — the right words, the right rituals, the right screenshots. Nobody was watching. Not even me, honestly.\n\nNow some days I do nothing at all and still call it a good day. Being alive does not need a caption.\n\nWhat is one wellness habit you quit because it became a performance?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#authenticity",
+            "#mentalhealth",
+            "#selfreflection",
+            "#realtalk"
+          ],
+          "image_prompt": "a closed notebook lying on a plain floor with a pen dropped casually beside it, a small plant leaf resting on the notebook cover",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -110,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -110,
+            "A-12"
+          ],
+          [
+            -110,
+            "A-13"
+          ],
+          [
+            -110,
+            "A-14"
+          ],
+          [
+            -110,
+            "A-15"
+          ],
+          [
+            -110,
+            "A-16"
+          ],
+          [
+            -110,
+            "B-12"
+          ],
+          [
+            -110,
+            "B-13"
+          ],
+          [
+            -110,
+            "B-14"
+          ],
+          [
+            -110,
+            "B-15"
+          ],
+          [
+            -110,
+            "B-16"
+          ],
+          [
+            -110,
+            "C-12"
+          ],
+          [
+            -110,
+            "C-13"
+          ],
+          [
+            -110,
+            "C-14"
+          ],
+          [
+            -110,
+            "C-15"
+          ],
+          [
+            -110,
+            "C-16"
+          ],
+          [
+            -110,
+            "D-12"
+          ],
+          [
+            -110,
+            "D-13"
+          ],
+          [
+            -110,
+            "D-14"
+          ],
+          [
+            -110,
+            "D-15"
+          ],
+          [
+            -110,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-25T15:27:05.336940+05:30",
+          "msg": "selected A-12 (cat A / formula 3: Casual raw confession, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-25T15:27:17.871418+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.177 > 0.07); subject reaches into the text zone (top edge at 3% of frame, must be <"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-25T15:27:38.152444+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 13"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-25T15:28:26.215384+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.134 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-25T15:29:21.193285+05:30",
+          "msg": "attempt 4 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-25T15:30:30.839976+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-25T15:32:14.034720+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject reaches into the text zone (top edge at 10% of frame, must be <= 42%); subject too tall (72% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-25T15:34:03.555505+05:30",
+          "msg": "attempt 7 failed: base image failed QC: subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (82% of frame height, must be <= 58%)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject too high in frame (top-zone subject fraction 0.177 > 0.07); subject reaches into the text zone (top edge at 3% of frame, must be <= 42%); subject too tall (92% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 13s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: subject too high in frame (top-zone subject fraction 0.134 > 0.07); subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (88% of frame height, must be <= 58%)",
+        "image attempt 4: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 5: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 6: base image failed QC: subject reaches into the text zone (top edge at 10% of frame, must be <= 42%); subject too tall (72% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (82% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
