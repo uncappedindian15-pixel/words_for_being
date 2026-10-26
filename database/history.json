@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T15:34:03.564917+05:30",
-  "count": 45,
+  "updated": "2026-10-26T17:38:46.235272+05:30",
+  "count": 46,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -361,6 +361,14 @@
       "category": "A",
       "formula": 3,
       "hook": "i feel most alive since i stopped performing."
+    },
+    {
+      "post_id": "wfB-20261026-001",
+      "date": "2026-10-26",
+      "status": "FAILED",
+      "category": "B",
+      "formula": 3,
+      "hook": "i fell for how he argues with waiters."
     }
   ]
 }

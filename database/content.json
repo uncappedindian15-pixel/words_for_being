@@ -13659,6 +13659,203 @@
         "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 11% of frame, must be <= 42%); subject too tall (82% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261026-001",
+      "date": "2026-10-26",
+      "created": "2026-10-26T17:32:00.422104+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-12",
+        "formula": 3,
+        "emotional_core": "falling for the small personality",
+        "visual_concept": "a fork on a table, a coffee ring, a folded menu",
+        "physical_action": "a fork set down after the last bite",
+        "hook": "i fell for how he argues with waiters.",
+        "subline": "not how he argues with me",
+        "cta": "",
+        "caption": "I have seen him angry before. I thought I knew the ceiling of his temper.\n\nThen a waiter got our order wrong, twice, and I watched a man be firm, funny, and kind all at once, without raising his voice or letting the service go.\n\nThat is when I understood: I did not fall for his calm with me. I fell for his character when it cost him something. That is the version that matters.\n\nWhat is a small moment you fell a second time?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#couples",
+          "#character",
+          "#lovestory",
+          "#relationships"
+        ],
+        "image_prompt": "a fork resting on a small table with a coffee ring stain on the surface, a folded blank menu beside it, a single glass of water",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-12",
+          "formula": 3,
+          "emotional_core": "falling for the small personality",
+          "visual_concept": "a fork on a table, a coffee ring, a folded menu",
+          "physical_action": "a fork set down after the last bite",
+          "hook": "i fell for how he argues with waiters.",
+          "subline": "not how he argues with me",
+          "cta": "",
+          "caption": "I have seen him angry before. I thought I knew the ceiling of his temper.\n\nThen a waiter got our order wrong, twice, and I watched a man be firm, funny, and kind all at once, without raising his voice or letting the service go.\n\nThat is when I understood: I did not fall for his calm with me. I fell for his character when it cost him something. That is the version that matters.\n\nWhat is a small moment you fell a second time?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#couples",
+            "#character",
+            "#lovestory",
+            "#relationships"
+          ],
+          "image_prompt": "a fork resting on a small table with a coffee ring stain on the surface, a folded blank menu beside it, a single glass of water",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -110,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -120,
+            "A-13"
+          ],
+          [
+            -120,
+            "A-14"
+          ],
+          [
+            -120,
+            "A-15"
+          ],
+          [
+            -120,
+            "A-16"
+          ],
+          [
+            -110,
+            "B-12"
+          ],
+          [
+            -110,
+            "B-13"
+          ],
+          [
+            -110,
+            "B-14"
+          ],
+          [
+            -110,
+            "B-15"
+          ],
+          [
+            -110,
+            "B-16"
+          ],
+          [
+            -110,
+            "C-12"
+          ],
+          [
+            -110,
+            "C-13"
+          ],
+          [
+            -110,
+            "C-14"
+          ],
+          [
+            -110,
+            "C-15"
+          ],
+          [
+            -110,
+            "C-16"
+          ],
+          [
+            -110,
+            "D-12"
+          ],
+          [
+            -110,
+            "D-13"
+          ],
+          [
+            -110,
+            "D-14"
+          ],
+          [
+            -110,
+            "D-15"
+          ],
+          [
+            -110,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-26T17:32:00.442031+05:30",
+          "msg": "selected B-12 (cat B / formula 3: Casual raw confession, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-26T17:32:09.939854+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 148.0 < 190); subject reaches into the text zone (top edge at 41% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-26T17:32:30.477936+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 16"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-26T17:33:15.044881+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.419 > 0.07); subject reaches into the text zone (top edge at 10% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-26T17:34:12.628971+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 170.0 < 190); subject reaches into the text zone (top edge at 41% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-26T17:35:21.071153+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-26T17:36:56.576929+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject reaches into the text zone (top edge at 9% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%); prov"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-26T17:38:46.224150+05:30",
+          "msg": "attempt 7 failed: base image failed QC: subject reaches into the text zone (top edge at 31% of frame, must be <= 42%)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 148.0 < 190); subject reaches into the text zone (top edge at 41% of frame, must be <= 42%); subject too tall (58% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 16s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: subject too high in frame (top-zone subject fraction 0.419 > 0.07); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 170.0 < 190); subject reaches into the text zone (top edge at 41% of frame, must be <= 42%); subject too tall (59% of frame height, must be <= 58%)",
+        "image attempt 5: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 6: base image failed QC: subject reaches into the text zone (top edge at 9% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 31% of frame, must be <= 42%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
