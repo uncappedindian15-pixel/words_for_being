@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T17:38:46.235272+05:30",
-  "count": 46,
+  "updated": "2026-10-27T16:19:59.355937+05:30",
+  "count": 47,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -369,6 +369,14 @@
       "category": "B",
       "formula": 3,
       "hook": "i fell for how he argues with waiters."
+    },
+    {
+      "post_id": "wfB-20261027-001",
+      "date": "2026-10-27",
+      "status": "FAILED",
+      "category": "C",
+      "formula": 3,
+      "hook": "i kept his maybe like a boarding pass."
     }
   ]
 }

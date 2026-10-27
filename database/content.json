@@ -13856,6 +13856,199 @@
         "image attempt 7: base image failed QC: subject reaches into the text zone (top edge at 31% of frame, must be <= 42%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261027-001",
+      "date": "2026-10-27",
+      "created": "2026-10-27T16:13:27.250231+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-12",
+        "formula": 3,
+        "emotional_core": "the expired maybe",
+        "visual_concept": "a boarding pass with a single stamp across it",
+        "physical_action": "a stamp across the boarding pass",
+        "hook": "i kept his maybe like a boarding pass.",
+        "subline": "it expired the day he said it",
+        "cta": "",
+        "caption": "There is a specific kind of suitcase we carry: the maybe.\n\nMaybe we would work. Maybe he would change. Maybe the timing. I kept that maybe for three years like a boarding pass I was never allowed to use — expired the day it was issued, but I kept scanning it at the gate, hoping the machine had a glitch.\n\nIt does not. A maybe from a person who is already at their own gate is not a ticket. It is a souvenir.\n\nTake it, look at it, and then set it on the shelf where it belongs.\n\nWhat maybe are you finally checking in?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#closure",
+          "#healingjourney",
+          "#lettinggo",
+          "#exgirlfriend"
+        ],
+        "image_prompt": "a small paper boarding pass lying flat with a single round stamp across it, a pen beside it, a calm table",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-12",
+          "formula": 3,
+          "emotional_core": "the expired maybe",
+          "visual_concept": "a boarding pass with a single stamp across it",
+          "physical_action": "a stamp across the boarding pass",
+          "hook": "i kept his maybe like a boarding pass.",
+          "subline": "it expired the day he said it",
+          "cta": "",
+          "caption": "There is a specific kind of suitcase we carry: the maybe.\n\nMaybe we would work. Maybe he would change. Maybe the timing. I kept that maybe for three years like a boarding pass I was never allowed to use — expired the day it was issued, but I kept scanning it at the gate, hoping the machine had a glitch.\n\nIt does not. A maybe from a person who is already at their own gate is not a ticket. It is a souvenir.\n\nTake it, look at it, and then set it on the shelf where it belongs.\n\nWhat maybe are you finally checking in?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#closure",
+            "#healingjourney",
+            "#lettinggo",
+            "#exgirlfriend"
+          ],
+          "image_prompt": "a small paper boarding pass lying flat with a single round stamp across it, a pen beside it, a calm table",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -110,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -120,
+            "A-13"
+          ],
+          [
+            -120,
+            "A-14"
+          ],
+          [
+            -120,
+            "A-15"
+          ],
+          [
+            -120,
+            "A-16"
+          ],
+          [
+            -120,
+            "B-13"
+          ],
+          [
+            -120,
+            "B-14"
+          ],
+          [
+            -120,
+            "B-15"
+          ],
+          [
+            -120,
+            "B-16"
+          ],
+          [
+            -110,
+            "C-12"
+          ],
+          [
+            -110,
+            "C-13"
+          ],
+          [
+            -110,
+            "C-14"
+          ],
+          [
+            -110,
+            "C-15"
+          ],
+          [
+            -110,
+            "C-16"
+          ],
+          [
+            -110,
+            "D-12"
+          ],
+          [
+            -110,
+            "D-13"
+          ],
+          [
+            -110,
+            "D-14"
+          ],
+          [
+            -110,
+            "D-15"
+          ],
+          [
+            -110,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-27T16:13:27.264067+05:30",
+          "msg": "selected C-12 (cat C / formula 3: Casual raw confession, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-27T16:13:37.620556+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use ever"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-27T16:13:57.815892+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 15"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-27T16:14:33.428004+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use ever"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-27T16:15:23.840568+05:30",
+          "msg": "attempt 4 failed: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use ever"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-27T16:16:36.125103+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use ever"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-27T16:18:12.223580+05:30",
+          "msg": "attempt 6 failed: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use ever"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-27T16:19:59.343384+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use ever"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use every model with a pollen key at https://enter.pollinations.ai/?ref",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 15s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use every model with a pollen key at https://enter.pollinations.ai/?ref",
+        "image attempt 4: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use every model with a pollen key at https://enter.pollinations.ai/?ref",
+        "image attempt 5: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use every model with a pollen key at https://enter.pollinations.ai/?ref",
+        "image attempt 6: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use every model with a pollen key at https://enter.pollinations.ai/?ref",
+        "image attempt 7: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use every model with a pollen key at https://enter.pollinations.ai/?ref"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
