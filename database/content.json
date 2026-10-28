@@ -14049,6 +14049,225 @@
         "image attempt 7: pollinations HTTP 500: {\"status\":500,\"success\":false,\"error\":{\"code\":\"INTERNAL_ERROR\",\"message\":\"Something went wrong on our side. Please try again, or use every model with a pollen key at https://enter.pollinations.ai/?ref"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261028-001",
+      "date": "2026-10-28",
+      "created": "2026-10-28T16:57:36.788945+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-12",
+        "formula": 7,
+        "emotional_core": "the alarm's tears",
+        "visual_concept": "an alarm clock with one tear, a glass of chai beside",
+        "physical_action": "one tear falling from the alarm clock",
+        "hook": "My alarm said snooze. I said no more.",
+        "subline": "it cried. i made chai.",
+        "cta": "Which line hit you the most?",
+        "caption": "There was a specific morning I ended the relationship with snooze.\n\nThe alarm went off. My hand moved toward it — the same hand, the same motion, the same 9-year-old me hiding from 7 AM. And I stopped it mid-air.\n\nWe do not do this anymore.\n\nThe alarm, to its credit, did not argue. It just went quiet, and I swear I saw something like a tear on its screen.\n\nI got up. I made chai. The day was not a masterpiece. But it was mine, and it started with me.\n\nWhat is the small we-do-not-do-this-anymore you did this year?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#morningroutine",
+          "#habits",
+          "#chai",
+          "#everydaylife"
+        ],
+        "image_prompt": "a small round alarm clock with one single tear dropping from its face, a glass of chai with a little foam beside it",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-12",
+          "formula": 7,
+          "emotional_core": "the alarm's tears",
+          "visual_concept": "an alarm clock with one tear, a glass of chai beside",
+          "physical_action": "one tear falling from the alarm clock",
+          "hook": "My alarm said snooze. I said no more.",
+          "subline": "it cried. i made chai.",
+          "cta": "Which line hit you the most?",
+          "caption": "There was a specific morning I ended the relationship with snooze.\n\nThe alarm went off. My hand moved toward it — the same hand, the same motion, the same 9-year-old me hiding from 7 AM. And I stopped it mid-air.\n\nWe do not do this anymore.\n\nThe alarm, to its credit, did not argue. It just went quiet, and I swear I saw something like a tear on its screen.\n\nI got up. I made chai. The day was not a masterpiece. But it was mine, and it started with me.\n\nWhat is the small we-do-not-do-this-anymore you did this year?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#morningroutine",
+            "#habits",
+            "#chai",
+            "#everydaylife"
+          ],
+          "image_prompt": "a small round alarm clock with one single tear dropping from its face, a glass of chai with a little foam beside it",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -110,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -120,
+            "A-13"
+          ],
+          [
+            -120,
+            "A-14"
+          ],
+          [
+            -120,
+            "A-15"
+          ],
+          [
+            -120,
+            "A-16"
+          ],
+          [
+            -120,
+            "B-13"
+          ],
+          [
+            -120,
+            "B-14"
+          ],
+          [
+            -120,
+            "B-15"
+          ],
+          [
+            -120,
+            "B-16"
+          ],
+          [
+            -120,
+            "C-13"
+          ],
+          [
+            -120,
+            "C-14"
+          ],
+          [
+            -120,
+            "C-15"
+          ],
+          [
+            -120,
+            "C-16"
+          ],
+          [
+            -110,
+            "D-12"
+          ],
+          [
+            -110,
+            "D-13"
+          ],
+          [
+            -110,
+            "D-14"
+          ],
+          [
+            -110,
+            "D-15"
+          ],
+          [
+            -110,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261028-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261028-001.jpg",
+        "provider": "pollinations",
+        "retries": 3,
+        "bg_luminance_avg": 238.0,
+        "bg_corners": [
+          240.0,
+          238.0,
+          239.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261028-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.09
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261028-001.txt",
+        "text": "There was a specific morning I ended the relationship with snooze.\n\nThe alarm went off. My hand moved toward it — the same hand, the same motion, the same 9-year-old me hiding from 7 AM. And I stopped it mid-air.\n\nWe do not do this anymore.\n\nThe alarm, to its credit, did not argue. It just went quiet, and I swear I saw something like a tear on its screen.\n\nI got up. I made chai. The day was not a masterpiece. But it was mine, and it started with me.\n\nWhat is the small we-do-not-do-this-anymore you did this year?\n\n#wordsforbeing #morningroutine #habits #chai #everydaylife"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 238.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-28T16:59:55.088432+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-28T16:57:36.800236+05:30",
+          "msg": "selected D-12 (cat D / formula 7: Micro-story, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-28T16:57:46.531602+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 38% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-28T16:58:06.986168+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 16"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-28T16:58:51.027314+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.195 > 0.07); subject reaches into the text zone (top edge at 12% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-28T16:59:53.614755+05:30",
+          "msg": "image ready (retries=3, bg=238.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-28T16:59:55.081336+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.09MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-28T16:59:55.088441+05:30",
+          "msg": "caption ready (577 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-28T16:59:55.094836+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 38% of frame, must be <= 42%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 16s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: subject too high in frame (top-zone subject fraction 0.195 > 0.07); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 3
     }
   ],
   "meta": {

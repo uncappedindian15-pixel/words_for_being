@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T16:19:59.355937+05:30",
-  "count": 47,
+  "updated": "2026-10-28T16:59:55.100867+05:30",
+  "count": 48,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -377,6 +377,14 @@
       "category": "C",
       "formula": 3,
       "hook": "i kept his maybe like a boarding pass."
+    },
+    {
+      "post_id": "wfB-20261028-001",
+      "date": "2026-10-28",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 7,
+      "hook": "My alarm said snooze. I said no more."
     }
   ]
 }
