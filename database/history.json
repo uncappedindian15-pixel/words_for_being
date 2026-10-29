@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T16:59:55.100867+05:30",
-  "count": 48,
+  "updated": "2026-10-29T17:14:12.895978+05:30",
+  "count": 49,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -385,6 +385,14 @@
       "category": "D",
       "formula": 7,
       "hook": "My alarm said snooze. I said no more."
+    },
+    {
+      "post_id": "wfB-20261029-001",
+      "date": "2026-10-29",
+      "status": "FAILED",
+      "category": "A",
+      "formula": 6,
+      "hook": "Rule: you do not owe your reasons."
     }
   ]
 }

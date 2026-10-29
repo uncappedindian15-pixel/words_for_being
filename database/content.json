@@ -14268,6 +14268,191 @@
         "image attempt 3: base image failed QC: subject too high in frame (top-zone subject fraction 0.195 > 0.07); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)"
       ],
       "retries_total": 3
+    },
+    {
+      "post_id": "wfB-20261029-001",
+      "date": "2026-10-29",
+      "created": "2026-10-29T17:07:49.438748+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-13",
+        "formula": 6,
+        "emotional_core": "you do not owe anyone your reasons",
+        "visual_concept": "an unopened envelope set down, a small candle lit",
+        "physical_action": "an envelope set down unopened",
+        "hook": "Rule: you do not owe your reasons.",
+        "subline": "silence is a complete sentence",
+        "cta": "",
+        "caption": "We explain ourselves like we are on trial — to the colleague who left, the friend who faded, the stranger who disrespected us.\n\nWhy I left. Why I need space. Why I said no. As if they had standing in the case. They do not.\n\nReasons are for the people who stay. Everyone else gets the door, and the door does not come with a statement.\n\nSave this for your next let me explain moment. You do not have to.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#boundaries",
+          "#selfrespect",
+          "#lifelessons",
+          "#truth"
+        ],
+        "image_prompt": "an unsealed envelope placed face up on a small table, a small lit candle in a glass beside it, the flame steady and small",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-13",
+          "formula": 6,
+          "emotional_core": "you do not owe anyone your reasons",
+          "visual_concept": "an unopened envelope set down, a small candle lit",
+          "physical_action": "an envelope set down unopened",
+          "hook": "Rule: you do not owe your reasons.",
+          "subline": "silence is a complete sentence",
+          "cta": "",
+          "caption": "We explain ourselves like we are on trial — to the colleague who left, the friend who faded, the stranger who disrespected us.\n\nWhy I left. Why I need space. Why I said no. As if they had standing in the case. They do not.\n\nReasons are for the people who stay. Everyone else gets the door, and the door does not come with a statement.\n\nSave this for your next let me explain moment. You do not have to.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#boundaries",
+            "#selfrespect",
+            "#lifelessons",
+            "#truth"
+          ],
+          "image_prompt": "an unsealed envelope placed face up on a small table, a small lit candle in a glass beside it, the flame steady and small",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -120,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -120,
+            "A-13"
+          ],
+          [
+            -120,
+            "A-14"
+          ],
+          [
+            -120,
+            "A-15"
+          ],
+          [
+            -120,
+            "A-16"
+          ],
+          [
+            -120,
+            "B-13"
+          ],
+          [
+            -120,
+            "B-14"
+          ],
+          [
+            -120,
+            "B-15"
+          ],
+          [
+            -120,
+            "B-16"
+          ],
+          [
+            -120,
+            "C-13"
+          ],
+          [
+            -120,
+            "C-14"
+          ],
+          [
+            -120,
+            "C-15"
+          ],
+          [
+            -120,
+            "C-16"
+          ],
+          [
+            -120,
+            "D-13"
+          ],
+          [
+            -120,
+            "D-14"
+          ],
+          [
+            -120,
+            "D-15"
+          ],
+          [
+            -120,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-29T17:07:49.455146+05:30",
+          "msg": "selected A-13 (cat A / formula 6: Life tip / Rule, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-29T17:07:57.300796+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 128.0 < 190); subject reaches into the text zone (top edge at 36% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-29T17:08:17.551383+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 18"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-29T17:08:58.155514+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 133.0 < 190); subject reaches into the text zone (top edge at 29% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-29T17:09:54.200223+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 79.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%);"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-29T17:11:05.371256+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 115.0 < 190); subject reaches into the text zone (top edge at 15% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-29T17:12:32.273237+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 118.0 < 190); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-29T17:14:12.882175+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 70.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%);"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 128.0 < 190); subject reaches into the text zone (top edge at 36% of frame, must be <= 42%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 18s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 133.0 < 190); subject reaches into the text zone (top edge at 29% of frame, must be <= 42%); subject too tall (60% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 79.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 115.0 < 190); subject reaches into the text zone (top edge at 15% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 118.0 < 190); provider watermark detected in bottom-right zone",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 70.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%); provider watermark detected in bottom-right zone"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
