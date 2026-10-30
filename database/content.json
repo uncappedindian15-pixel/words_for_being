@@ -14453,6 +14453,224 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 70.0 < 190); subject reaches into the text zone (top edge at 26% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%); provider watermark detected in bottom-right zone"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261030-001",
+      "date": "2026-10-30",
+      "created": "2026-10-30T16:59:26.763637+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "B-13",
+        "formula": 6,
+        "emotional_core": "I am fine as a load-bearing wall",
+        "visual_concept": "a small card house with one crack, a magnifying glass",
+        "physical_action": "a crack running through a card house wall",
+        "hook": "Rule: i am fine is load-bearing.",
+        "subline": "do not build your love on it",
+        "cta": "",
+        "caption": "In any relationship, I am fine is the wall everything else leans on.\n\nThe plans, the trips, the we are good — all of it sits on top of those two words. And like any load-bearing wall, if it is cracked, you do not notice until something heavy lands on it.\n\nCheck the wall. Ask once, gently, specifically: what is the thing that is not fine?\n\nMost walls are solid. The ones that are not were always going to show.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#communication",
+          "#relationshipadvice",
+          "#couples",
+          "#realtalk"
+        ],
+        "image_prompt": "a small house made of playing cards with one visible crack running through the side, a magnifying glass resting beside it",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-13",
+          "formula": 6,
+          "emotional_core": "I am fine as a load-bearing wall",
+          "visual_concept": "a small card house with one crack, a magnifying glass",
+          "physical_action": "a crack running through a card house wall",
+          "hook": "Rule: i am fine is load-bearing.",
+          "subline": "do not build your love on it",
+          "cta": "",
+          "caption": "In any relationship, I am fine is the wall everything else leans on.\n\nThe plans, the trips, the we are good — all of it sits on top of those two words. And like any load-bearing wall, if it is cracked, you do not notice until something heavy lands on it.\n\nCheck the wall. Ask once, gently, specifically: what is the thing that is not fine?\n\nMost walls are solid. The ones that are not were always going to show.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#communication",
+            "#relationshipadvice",
+            "#couples",
+            "#realtalk"
+          ],
+          "image_prompt": "a small house made of playing cards with one visible crack running through the side, a magnifying glass resting beside it",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -120,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -130,
+            "A-14"
+          ],
+          [
+            -130,
+            "A-15"
+          ],
+          [
+            -130,
+            "A-16"
+          ],
+          [
+            -120,
+            "B-13"
+          ],
+          [
+            -120,
+            "B-14"
+          ],
+          [
+            -120,
+            "B-15"
+          ],
+          [
+            -120,
+            "B-16"
+          ],
+          [
+            -120,
+            "C-13"
+          ],
+          [
+            -120,
+            "C-14"
+          ],
+          [
+            -120,
+            "C-15"
+          ],
+          [
+            -120,
+            "C-16"
+          ],
+          [
+            -120,
+            "D-13"
+          ],
+          [
+            -120,
+            "D-14"
+          ],
+          [
+            -120,
+            "D-15"
+          ],
+          [
+            -120,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261030-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261030-001.jpg",
+        "provider": "pollinations",
+        "retries": 4,
+        "bg_luminance_avg": 241.0,
+        "bg_corners": [
+          242.0,
+          241.0,
+          241.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.48,
+        "subject_bbox_height_frac": 0.347,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261030-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.09
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261030-001.txt",
+        "text": "In any relationship, I am fine is the wall everything else leans on.\n\nThe plans, the trips, the we are good — all of it sits on top of those two words. And like any load-bearing wall, if it is cracked, you do not notice until something heavy lands on it.\n\nCheck the wall. Ask once, gently, specifically: what is the thing that is not fine?\n\nMost walls are solid. The ones that are not were always going to show.\n\n#wordsforbeing #communication #relationshipadvice #couples #realtalk"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 241.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-10-30T17:03:18.721694+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-30T16:59:26.786168+05:30",
+          "msg": "selected B-13 (cat B / formula 6: Life tip / Rule, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-30T16:59:39.967523+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (60% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-30T17:00:00.318501+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 13"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-30T17:00:42.413924+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 178.0 < 190); subject reaches into the text zone (top edge at 15% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-30T17:01:45.004640+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject reaches into the text zone (top edge at 26% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-10-30T17:03:16.223947+05:30",
+          "msg": "image ready (retries=4, bg=241.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-10-30T17:03:18.708946+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.09MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-10-30T17:03:18.721706+05:30",
+          "msg": "caption ready (481 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-10-30T17:03:18.734188+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (60% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 13s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 178.0 < 190); subject reaches into the text zone (top edge at 15% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 26% of frame, must be <= 42%)"
+      ],
+      "retries_total": 4
     }
   ],
   "meta": {
