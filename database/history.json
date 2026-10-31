@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T17:03:18.745593+05:30",
-  "count": 50,
+  "updated": "2026-10-31T16:36:21.827329+05:30",
+  "count": 51,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -401,6 +401,14 @@
       "category": "B",
       "formula": 6,
       "hook": "Rule: i am fine is load-bearing."
+    },
+    {
+      "post_id": "wfB-20261031-001",
+      "date": "2026-10-31",
+      "status": "FAILED",
+      "category": "C",
+      "formula": 6,
+      "hook": "Rule: the exit does not need a witness."
     }
   ]
 }

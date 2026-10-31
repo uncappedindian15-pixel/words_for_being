@@ -14671,6 +14671,183 @@
         "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 26% of frame, must be <= 42%)"
       ],
       "retries_total": 4
+    },
+    {
+      "post_id": "wfB-20261031-001",
+      "date": "2026-10-31",
+      "created": "2026-10-31T16:30:07.639292+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-13",
+        "formula": 6,
+        "emotional_core": "the exit needs no witness",
+        "visual_concept": "a suitcase by the door, the lamp switched off",
+        "physical_action": "a suitcase standing by the open door",
+        "hook": "Rule: the exit does not need a witness.",
+        "subline": "never defend yourself to the one you are leaving",
+        "cta": "Tag someone who needs this.",
+        "caption": "Here is the rule nobody tells you before the door: you do not owe a departing audience a defence.\n\nThe let-me-explain-why-I-am-leaving speech is not for them — it is for you, a last try to make them understand so the leaving feels justified. They already understand. They just chose differently.\n\nYou do not need their verdict to be right. You just need the door.\n\nThe suitcase is by it. The lamp is off. Walk out into the quiet. It is yours now.\n\nLeave without a speech. It is braver than you think.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#leaving",
+          "#boundaries",
+          "#selfrespect",
+          "#healingjourney"
+        ],
+        "image_prompt": "a small suitcase standing alone, a small table lamp beside it switched off, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-13",
+          "formula": 6,
+          "emotional_core": "the exit needs no witness",
+          "visual_concept": "a suitcase by the door, the lamp switched off",
+          "physical_action": "a suitcase standing by the open door",
+          "hook": "Rule: the exit does not need a witness.",
+          "subline": "never defend yourself to the one you are leaving",
+          "cta": "Tag someone who needs this.",
+          "caption": "Here is the rule nobody tells you before the door: you do not owe a departing audience a defence.\n\nThe let-me-explain-why-I-am-leaving speech is not for them — it is for you, a last try to make them understand so the leaving feels justified. They already understand. They just chose differently.\n\nYou do not need their verdict to be right. You just need the door.\n\nThe suitcase is by it. The lamp is off. Walk out into the quiet. It is yours now.\n\nLeave without a speech. It is braver than you think.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#leaving",
+            "#boundaries",
+            "#selfrespect",
+            "#healingjourney"
+          ],
+          "image_prompt": "a small suitcase standing alone, a small table lamp beside it switched off, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -120,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -130,
+            "A-14"
+          ],
+          [
+            -130,
+            "A-15"
+          ],
+          [
+            -130,
+            "A-16"
+          ],
+          [
+            -130,
+            "B-14"
+          ],
+          [
+            -130,
+            "B-15"
+          ],
+          [
+            -130,
+            "B-16"
+          ],
+          [
+            -120,
+            "C-13"
+          ],
+          [
+            -120,
+            "C-14"
+          ],
+          [
+            -120,
+            "C-15"
+          ],
+          [
+            -120,
+            "C-16"
+          ],
+          [
+            -120,
+            "D-13"
+          ],
+          [
+            -120,
+            "D-14"
+          ],
+          [
+            -120,
+            "D-15"
+          ],
+          [
+            -120,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-10-31T16:30:07.659256+05:30",
+          "msg": "selected C-13 (cat C / formula 6: Life tip / Rule, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-31T16:30:18.939760+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 150.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-31T16:30:39.219690+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 14"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-31T16:31:17.085688+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-31T16:32:09.453113+05:30",
+          "msg": "attempt 4 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-31T16:33:21.490519+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-31T16:34:43.909100+05:30",
+          "msg": "attempt 6 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-10-31T16:36:21.814075+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 150.0 < 190)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 14s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 4: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 5: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 6: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
