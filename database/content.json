@@ -14848,6 +14848,202 @@
         "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261101-001",
+      "date": "2026-11-01",
+      "created": "2026-11-01T17:25:38.997250+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-13",
+        "formula": 2,
+        "emotional_core": "tomorrow as a complete no",
+        "visual_concept": "a phone with a blank sticky note on its back",
+        "physical_action": "a blank note stuck to the phone",
+        "hook": "Call you tomorrow is a complete no.",
+        "subline": "the sticky note is blank. that is the point",
+        "cta": "",
+        "caption": "Unpopular opinion, and I will be polite: I will call you tomorrow is not a promise.\n\nIt is a complete sentence. It has a subject, a verb, a time, and a meaning, and the meaning is: no, but I want you to hold the door open in case I change my mind.\n\nThe sticky note is blank on purpose. It is not a note. It is a shape.\n\nIf you find yourself waiting for a tomorrow that has been tomorrow for three weeks, that is not a call. That is a ghost with a schedule.\n\nWho is your longest tomorrow?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#relatable",
+          "#friendship",
+          "#texting",
+          "#realtalk"
+        ],
+        "image_prompt": "a smartphone standing upright with a small blank sticky note stuck to its back, on a plain surface",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-13",
+          "formula": 2,
+          "emotional_core": "tomorrow as a complete no",
+          "visual_concept": "a phone with a blank sticky note on its back",
+          "physical_action": "a blank note stuck to the phone",
+          "hook": "Call you tomorrow is a complete no.",
+          "subline": "the sticky note is blank. that is the point",
+          "cta": "",
+          "caption": "Unpopular opinion, and I will be polite: I will call you tomorrow is not a promise.\n\nIt is a complete sentence. It has a subject, a verb, a time, and a meaning, and the meaning is: no, but I want you to hold the door open in case I change my mind.\n\nThe sticky note is blank on purpose. It is not a note. It is a shape.\n\nIf you find yourself waiting for a tomorrow that has been tomorrow for three weeks, that is not a call. That is a ghost with a schedule.\n\nWho is your longest tomorrow?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#relatable",
+            "#friendship",
+            "#texting",
+            "#realtalk"
+          ],
+          "image_prompt": "a smartphone standing upright with a small blank sticky note stuck to its back, on a plain surface",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -120,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -130,
+            "A-14"
+          ],
+          [
+            -130,
+            "A-15"
+          ],
+          [
+            -130,
+            "A-16"
+          ],
+          [
+            -130,
+            "B-14"
+          ],
+          [
+            -130,
+            "B-15"
+          ],
+          [
+            -130,
+            "B-16"
+          ],
+          [
+            -130,
+            "C-14"
+          ],
+          [
+            -130,
+            "C-15"
+          ],
+          [
+            -130,
+            "C-16"
+          ],
+          [
+            -120,
+            "D-13"
+          ],
+          [
+            -120,
+            "D-14"
+          ],
+          [
+            -120,
+            "D-15"
+          ],
+          [
+            -120,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261101-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261101-001.jpg",
+        "provider": "pollinations",
+        "retries": 2,
+        "bg_luminance_avg": 249.0,
+        "bg_corners": [
+          254.0,
+          249.0,
+          251.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.56,
+        "subject_bbox_height_frac": 0.064,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261101-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.13
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261101-001.txt",
+        "text": "Unpopular opinion, and I will be polite: I will call you tomorrow is not a promise.\n\nIt is a complete sentence. It has a subject, a verb, a time, and a meaning, and the meaning is: no, but I want you to hold the door open in case I change my mind.\n\nThe sticky note is blank on purpose. It is not a note. It is a shape.\n\nIf you find yourself waiting for a tomorrow that has been tomorrow for three weeks, that is not a call. That is a ghost with a schedule.\n\nWho is your longest tomorrow?\n\n#wordsforbeing #relatable #friendship #texting #realtalk"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 249.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-11-01T17:26:53.831842+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-01T17:25:39.017262+05:30",
+          "msg": "selected D-13 (cat D / formula 2: Hot take/opinion, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-01T17:25:42.420023+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-01T17:26:02.698961+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 22"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-11-01T17:26:51.214000+05:30",
+          "msg": "image ready (retries=2, bg=249.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-11-01T17:26:53.818323+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.13MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-11-01T17:26:53.831853+05:30",
+          "msg": "caption ready (545 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-11-01T17:26:53.844603+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 22s, or get unlimited images with a pollen key at https://enter.p"
+      ],
+      "retries_total": 2
     }
   ],
   "meta": {
