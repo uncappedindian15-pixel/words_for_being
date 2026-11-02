@@ -15044,6 +15044,175 @@
         "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 22s, or get unlimited images with a pollen key at https://enter.p"
       ],
       "retries_total": 2
+    },
+    {
+      "post_id": "wfB-20261102-001",
+      "date": "2026-11-02",
+      "created": "2026-11-02T19:11:12.820522+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-14",
+        "formula": 7,
+        "emotional_core": "the freedom of a said-no plan",
+        "visual_concept": "one chair at an empty table, the others removed",
+        "physical_action": "a single chair pulled to an otherwise empty table",
+        "hook": "I said no. The silence was mine.",
+        "subline": "last tuesday, one chair was enough",
+        "cta": "",
+        "caption": "I said yes for years because no felt like a wall and yes felt like a bridge.\n\nThen I said no to a dinner I was already dreading, and the quiet that followed was not empty — it was mine. I took the one chair to my own table. Read for an hour. Slept early.\n\nA life is not measured in attended. It is measured in chosen.\n\nWhen was the last time a no felt like a gift?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#sayingno",
+          "#selfrespect",
+          "#quietlife",
+          "#healingjourney"
+        ],
+        "image_prompt": "a single wooden chair at a small round table, one small cup of tea on the table, isolated on plain white",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-14",
+          "formula": 7,
+          "emotional_core": "the freedom of a said-no plan",
+          "visual_concept": "one chair at an empty table, the others removed",
+          "physical_action": "a single chair pulled to an otherwise empty table",
+          "hook": "I said no. The silence was mine.",
+          "subline": "last tuesday, one chair was enough",
+          "cta": "",
+          "caption": "I said yes for years because no felt like a wall and yes felt like a bridge.\n\nThen I said no to a dinner I was already dreading, and the quiet that followed was not empty — it was mine. I took the one chair to my own table. Read for an hour. Slept early.\n\nA life is not measured in attended. It is measured in chosen.\n\nWhen was the last time a no felt like a gift?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#sayingno",
+            "#selfrespect",
+            "#quietlife",
+            "#healingjourney"
+          ],
+          "image_prompt": "a single wooden chair at a small round table, one small cup of tea on the table, isolated on plain white",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -130,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -130,
+            "A-14"
+          ],
+          [
+            -130,
+            "A-15"
+          ],
+          [
+            -130,
+            "A-16"
+          ],
+          [
+            -130,
+            "B-14"
+          ],
+          [
+            -130,
+            "B-15"
+          ],
+          [
+            -130,
+            "B-16"
+          ],
+          [
+            -130,
+            "C-14"
+          ],
+          [
+            -130,
+            "C-15"
+          ],
+          [
+            -130,
+            "C-16"
+          ],
+          [
+            -130,
+            "D-14"
+          ],
+          [
+            -130,
+            "D-15"
+          ],
+          [
+            -130,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-02T19:11:12.841180+05:30",
+          "msg": "selected A-14 (cat A / formula 7: Micro-story, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-02T19:11:19.702305+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 176.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-02T19:11:39.967334+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-02T19:12:22.399586+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 168.0 < 190); subject reaches into the text zone (top edge at 32% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-02T19:13:19.031292+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 136.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-02T19:14:27.048863+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-02T19:15:53.253160+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 118.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-02T19:17:31.588509+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 176.0 < 190); subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (73% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 168.0 < 190); subject reaches into the text zone (top edge at 32% of frame, must be <= 42%); subject too tall (68% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 136.0 < 190)",
+        "image attempt 5: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 118.0 < 190); subject reaches into the text zone (top edge at 20% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {

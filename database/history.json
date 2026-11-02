@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T17:26:53.856604+05:30",
-  "count": 52,
+  "updated": "2026-11-02T19:17:31.602252+05:30",
+  "count": 53,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -417,6 +417,14 @@
       "category": "D",
       "formula": 2,
       "hook": "Call you tomorrow is a complete no."
+    },
+    {
+      "post_id": "wfB-20261102-001",
+      "date": "2026-11-02",
+      "status": "FAILED",
+      "category": "A",
+      "formula": 7,
+      "hook": "I said no. The silence was mine."
     }
   ]
 }
