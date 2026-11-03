@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T19:17:31.602252+05:30",
-  "count": 53,
+  "updated": "2026-11-03T18:27:02.618895+05:30",
+  "count": 54,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -425,6 +425,14 @@
       "category": "A",
       "formula": 7,
       "hook": "I said no. The silence was mine."
+    },
+    {
+      "post_id": "wfB-20261103-001",
+      "date": "2026-11-03",
+      "status": "READY_TO_PUBLISH",
+      "category": "B",
+      "formula": 7,
+      "hook": "Her fridge note is still there."
     }
   ]
 }

@@ -15213,6 +15213,201 @@
         "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261103-001",
+      "date": "2026-11-03",
+      "created": "2026-11-03T18:24:41.533868+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "B-14",
+        "formula": 7,
+        "emotional_core": "a note that outlives its moment",
+        "visual_concept": "one small folded note on a fridge door, still there",
+        "physical_action": "a note stuck to the fridge, still holding",
+        "hook": "Her fridge note is still there.",
+        "subline": "you are doing great. i have re-read it nine times",
+        "cta": "Which line hit you the most?",
+        "caption": "The note was four words. No occasion. No reason. Just four words on a fridge door, in her handwriting, from a Tuesday I had already forgotten by Wednesday.\n\nAnd yet here it is, still there, still doing its job — nine re-reads this month, each one a small you are not doing this alone.\n\nWords can work long shifts. So can people.\n\nWrite someone four words today. They will hold for years.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#smallgestures",
+          "#couples",
+          "#notes",
+          "#love"
+        ],
+        "image_prompt": "a plain off-white refrigerator door with one small folded paper note stuck to it with a magnet, a glass of milk beside it on a shelf",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-14",
+          "formula": 7,
+          "emotional_core": "a note that outlives its moment",
+          "visual_concept": "one small folded note on a fridge door, still there",
+          "physical_action": "a note stuck to the fridge, still holding",
+          "hook": "Her fridge note is still there.",
+          "subline": "you are doing great. i have re-read it nine times",
+          "cta": "Which line hit you the most?",
+          "caption": "The note was four words. No occasion. No reason. Just four words on a fridge door, in her handwriting, from a Tuesday I had already forgotten by Wednesday.\n\nAnd yet here it is, still there, still doing its job — nine re-reads this month, each one a small you are not doing this alone.\n\nWords can work long shifts. So can people.\n\nWrite someone four words today. They will hold for years.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#smallgestures",
+            "#couples",
+            "#notes",
+            "#love"
+          ],
+          "image_prompt": "a plain off-white refrigerator door with one small folded paper note stuck to it with a magnet, a glass of milk beside it on a shelf",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -130,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -140,
+            "A-15"
+          ],
+          [
+            -140,
+            "A-16"
+          ],
+          [
+            -130,
+            "B-14"
+          ],
+          [
+            -130,
+            "B-15"
+          ],
+          [
+            -130,
+            "B-16"
+          ],
+          [
+            -130,
+            "C-14"
+          ],
+          [
+            -130,
+            "C-15"
+          ],
+          [
+            -130,
+            "C-16"
+          ],
+          [
+            -130,
+            "D-14"
+          ],
+          [
+            -130,
+            "D-15"
+          ],
+          [
+            -130,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261103-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261103-001.jpg",
+        "provider": "pollinations",
+        "retries": 3,
+        "bg_luminance_avg": 243.0,
+        "bg_corners": [
+          253.0,
+          251.0,
+          243.0,
+          253.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.873,
+        "subject_bbox_height_frac": 0.007,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261103-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.09
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261103-001.txt",
+        "text": "The note was four words. No occasion. No reason. Just four words on a fridge door, in her handwriting, from a Tuesday I had already forgotten by Wednesday.\n\nAnd yet here it is, still there, still doing its job — nine re-reads this month, each one a small you are not doing this alone.\n\nWords can work long shifts. So can people.\n\nWrite someone four words today. They will hold for years.\n\n#wordsforbeing #smallgestures #couples #notes #love"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 243.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-11-03T18:27:02.594404+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-03T18:24:41.550370+05:30",
+          "msg": "selected B-14 (cat B / formula 7: Micro-story, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-03T18:24:47.788477+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 172.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-03T18:25:08.246159+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-03T18:25:57.668572+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject reaches into the text zone (top edge at 14% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-11-03T18:27:00.218453+05:30",
+          "msg": "image ready (retries=3, bg=243.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-11-03T18:27:02.580901+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.09MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-11-03T18:27:02.594413+05:30",
+          "msg": "caption ready (440 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-11-03T18:27:02.606880+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 172.0 < 190)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: subject reaches into the text zone (top edge at 14% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 3
     }
   ],
   "meta": {
