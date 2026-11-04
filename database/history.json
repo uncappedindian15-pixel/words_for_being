@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T18:27:02.618895+05:30",
-  "count": 54,
+  "updated": "2026-11-04T18:38:00.054160+05:30",
+  "count": 55,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -433,6 +433,14 @@
       "category": "B",
       "formula": 7,
       "hook": "Her fridge note is still there."
+    },
+    {
+      "post_id": "wfB-20261104-001",
+      "date": "2026-11-04",
+      "status": "READY_TO_PUBLISH",
+      "category": "C",
+      "formula": 7,
+      "hook": "She blocked me at 2 AM."
     }
   ]
 }

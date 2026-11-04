@@ -15408,6 +15408,175 @@
         "image attempt 3: base image failed QC: subject reaches into the text zone (top edge at 14% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%)"
       ],
       "retries_total": 3
+    },
+    {
+      "post_id": "wfB-20261104-001",
+      "date": "2026-11-04",
+      "created": "2026-11-04T18:37:44.426569+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "C-14",
+        "formula": 7,
+        "emotional_core": "the double-sized silence",
+        "visual_concept": "a coat lying flat, its person long gone",
+        "physical_action": "a coat left hanging on the hook",
+        "hook": "She blocked me at 2 AM.",
+        "subline": "by 2:04 the house felt double-sized",
+        "cta": "",
+        "caption": "There is a specific math that happens after a block: the room does not change, but its volume does.\n\nThe kitchen is the same kitchen. The chair is the same chair. But the silence has weight now, and the weight is the size of the person who used to be in it.\n\nI am not saying it did not hurt. I am saying I measured it. 2:04 AM, double-sized. And I let it.\n\nYou can grieve a silence and still choose the quiet. Both are true. Both are allowed.\n\nWhat did the silence sound like for you?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#closure",
+          "#grief",
+          "#healingjourney",
+          "#lettinggo"
+        ],
+        "image_prompt": "a single coat lying flat with its sleeves neatly folded, isolated on plain white, vast empty white space around it, soft light",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-14",
+          "formula": 7,
+          "emotional_core": "the double-sized silence",
+          "visual_concept": "a coat lying flat, its person long gone",
+          "physical_action": "a coat left hanging on the hook",
+          "hook": "She blocked me at 2 AM.",
+          "subline": "by 2:04 the house felt double-sized",
+          "cta": "",
+          "caption": "There is a specific math that happens after a block: the room does not change, but its volume does.\n\nThe kitchen is the same kitchen. The chair is the same chair. But the silence has weight now, and the weight is the size of the person who used to be in it.\n\nI am not saying it did not hurt. I am saying I measured it. 2:04 AM, double-sized. And I let it.\n\nYou can grieve a silence and still choose the quiet. Both are true. Both are allowed.\n\nWhat did the silence sound like for you?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#closure",
+            "#grief",
+            "#healingjourney",
+            "#lettinggo"
+          ],
+          "image_prompt": "a single coat lying flat with its sleeves neatly folded, isolated on plain white, vast empty white space around it, soft light",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -130,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -140,
+            "A-15"
+          ],
+          [
+            -140,
+            "A-16"
+          ],
+          [
+            -140,
+            "B-15"
+          ],
+          [
+            -140,
+            "B-16"
+          ],
+          [
+            -130,
+            "C-14"
+          ],
+          [
+            -130,
+            "C-15"
+          ],
+          [
+            -130,
+            "C-16"
+          ],
+          [
+            -130,
+            "D-14"
+          ],
+          [
+            -130,
+            "D-15"
+          ],
+          [
+            -130,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261104-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261104-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 235.0,
+        "bg_corners": [
+          242.0,
+          235.0,
+          240.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261104-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.09
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261104-001.txt",
+        "text": "There is a specific math that happens after a block: the room does not change, but its volume does.\n\nThe kitchen is the same kitchen. The chair is the same chair. But the silence has weight now, and the weight is the size of the person who used to be in it.\n\nI am not saying it did not hurt. I am saying I measured it. 2:04 AM, double-sized. And I let it.\n\nYou can grieve a silence and still choose the quiet. Both are true. Both are allowed.\n\nWhat did the silence sound like for you?\n\n#wordsforbeing #closure #grief #healingjourney #lettinggo"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 235.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-11-04T18:38:00.028740+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-04T18:37:44.441918+05:30",
+          "msg": "selected C-14 (cat C / formula 7: Micro-story, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-11-04T18:37:57.667828+05:30",
+          "msg": "image ready (retries=0, bg=235.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-11-04T18:38:00.014571+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.09MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-11-04T18:38:00.028755+05:30",
+          "msg": "caption ready (543 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-11-04T18:38:00.041736+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {
