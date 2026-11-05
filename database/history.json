@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T18:38:00.054160+05:30",
-  "count": 55,
+  "updated": "2026-11-05T18:52:35.986858+05:30",
+  "count": 56,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -441,6 +441,14 @@
       "category": "C",
       "formula": 7,
       "hook": "She blocked me at 2 AM."
+    },
+    {
+      "post_id": "wfB-20261105-001",
+      "date": "2026-11-05",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 4,
+      "hook": "11:59 group chat: 3 people, 178 messages."
     }
   ]
 }

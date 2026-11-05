@@ -15577,6 +15577,171 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20261105-001",
+      "date": "2026-11-05",
+      "created": "2026-11-05T18:52:17.976140+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-14",
+        "formula": 4,
+        "emotional_core": "the 11:59 group chat",
+        "visual_concept": "a phone with 178 tiny dots and a small bar chart",
+        "physical_action": "178 dots accumulating on a screen",
+        "hook": "11:59 group chat: 3 people, 178 messages.",
+        "subline": "0 decisions made. as usual.",
+        "cta": "Tag someone who needs this.",
+        "caption": "The group chat at 11:59 is a specific ecosystem.\n\nThree people. One undecided question — where for dinner. 178 messages. Zero decisions. A poll is started. The poll is abandoned. A fourth person is added who has been offline since 2023.\n\nBy 12:01 the group has settled on nothing, and everyone is hungry, and everyone is slightly proud of the process.\n\nThis is not a failure of communication. This is the group chat doing exactly what the group chat does: it is the ritual, not the solution.\n\nWhat is your group chat's all-time message count for a single dinner?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#groupchat",
+          "#relatable",
+          "#friendship",
+          "#humor"
+        ],
+        "image_prompt": "a smartphone with 178 tiny dots arranged in a loose grid on its blank screen, a small bar chart beside it, a calm table",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-14",
+          "formula": 4,
+          "emotional_core": "the 11:59 group chat",
+          "visual_concept": "a phone with 178 tiny dots and a small bar chart",
+          "physical_action": "178 dots accumulating on a screen",
+          "hook": "11:59 group chat: 3 people, 178 messages.",
+          "subline": "0 decisions made. as usual.",
+          "cta": "Tag someone who needs this.",
+          "caption": "The group chat at 11:59 is a specific ecosystem.\n\nThree people. One undecided question — where for dinner. 178 messages. Zero decisions. A poll is started. The poll is abandoned. A fourth person is added who has been offline since 2023.\n\nBy 12:01 the group has settled on nothing, and everyone is hungry, and everyone is slightly proud of the process.\n\nThis is not a failure of communication. This is the group chat doing exactly what the group chat does: it is the ritual, not the solution.\n\nWhat is your group chat's all-time message count for a single dinner?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#groupchat",
+            "#relatable",
+            "#friendship",
+            "#humor"
+          ],
+          "image_prompt": "a smartphone with 178 tiny dots arranged in a loose grid on its blank screen, a small bar chart beside it, a calm table",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -130,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -140,
+            "A-15"
+          ],
+          [
+            -140,
+            "A-16"
+          ],
+          [
+            -140,
+            "B-15"
+          ],
+          [
+            -140,
+            "B-16"
+          ],
+          [
+            -140,
+            "C-15"
+          ],
+          [
+            -140,
+            "C-16"
+          ],
+          [
+            -130,
+            "D-14"
+          ],
+          [
+            -130,
+            "D-15"
+          ],
+          [
+            -130,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261105-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261105-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 239.0,
+        "bg_corners": [
+          249.0,
+          252.0,
+          239.0,
+          254.0
+        ],
+        "subject_top_frac": 0.001,
+        "subject_bbox_top_frac": 0.555,
+        "subject_bbox_height_frac": 0.092,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261105-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.12
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261105-001.txt",
+        "text": "The group chat at 11:59 is a specific ecosystem.\n\nThree people. One undecided question — where for dinner. 178 messages. Zero decisions. A poll is started. The poll is abandoned. A fourth person is added who has been offline since 2023.\n\nBy 12:01 the group has settled on nothing, and everyone is hungry, and everyone is slightly proud of the process.\n\nThis is not a failure of communication. This is the group chat doing exactly what the group chat does: it is the ritual, not the solution.\n\nWhat is your group chat's all-time message count for a single dinner?\n\n#wordsforbeing #groupchat #relatable #friendship #humor"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 239.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-11-05T18:52:35.960130+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-05T18:52:17.992826+05:30",
+          "msg": "selected D-14 (cat D / formula 4: Internet-native meme phrasing, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-11-05T18:52:33.125949+05:30",
+          "msg": "image ready (retries=0, bg=239.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-11-05T18:52:35.945999+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.12MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-11-05T18:52:35.960142+05:30",
+          "msg": "caption ready (619 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-11-05T18:52:35.973875+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {
