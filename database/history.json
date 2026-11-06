@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T18:52:35.986858+05:30",
-  "count": 56,
+  "updated": "2026-11-06T18:40:20.262130+05:30",
+  "count": 57,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -449,6 +449,14 @@
       "category": "D",
       "formula": 4,
       "hook": "11:59 group chat: 3 people, 178 messages."
+    },
+    {
+      "post_id": "wfB-20261106-001",
+      "date": "2026-11-06",
+      "status": "READY_TO_PUBLISH",
+      "category": "A",
+      "formula": 2,
+      "hook": "Motivation is a scam. Momentum is a craft."
     }
   ]
 }

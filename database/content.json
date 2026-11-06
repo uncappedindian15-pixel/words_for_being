@@ -15742,6 +15742,203 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20261106-001",
+      "date": "2026-11-06",
+      "created": "2026-11-06T18:34:59.552007+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "A-15",
+        "formula": 2,
+        "emotional_core": "momentum over motivation",
+        "visual_concept": "two shoes, one laced and ready, one unlaced",
+        "physical_action": "one shoe laced and waiting, the other still loose",
+        "hook": "Motivation is a scam. Momentum is a craft.",
+        "subline": "you do not find it, you build it",
+        "cta": "Save this for later.",
+        "caption": "Hot take: motivation is a visitor, not a resident. It walks in, looks around, leaves.\n\nThe people you admire are not motivated — they are built. A laced shoe by the door. A page opened at 7. A rep done tired.\n\nMomentum is a craft you practice on the days you do not feel anything, and one day it becomes the thing that pulls you up instead of the thing you chase.\n\nStart with one laced shoe. That is the whole system.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#momentum",
+          "#habits",
+          "#selfdiscipline",
+          "#growthmindset"
+        ],
+        "image_prompt": "two sneakers side by side, one fully laced and ready, the other still unlaced with loose laces, isolated on plain white",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-15",
+          "formula": 2,
+          "emotional_core": "momentum over motivation",
+          "visual_concept": "two shoes, one laced and ready, one unlaced",
+          "physical_action": "one shoe laced and waiting, the other still loose",
+          "hook": "Motivation is a scam. Momentum is a craft.",
+          "subline": "you do not find it, you build it",
+          "cta": "Save this for later.",
+          "caption": "Hot take: motivation is a visitor, not a resident. It walks in, looks around, leaves.\n\nThe people you admire are not motivated — they are built. A laced shoe by the door. A page opened at 7. A rep done tired.\n\nMomentum is a craft you practice on the days you do not feel anything, and one day it becomes the thing that pulls you up instead of the thing you chase.\n\nStart with one laced shoe. That is the whole system.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#momentum",
+            "#habits",
+            "#selfdiscipline",
+            "#growthmindset"
+          ],
+          "image_prompt": "two sneakers side by side, one fully laced and ready, the other still unlaced with loose laces, isolated on plain white",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -140,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -140,
+            "A-15"
+          ],
+          [
+            -140,
+            "A-16"
+          ],
+          [
+            -140,
+            "B-15"
+          ],
+          [
+            -140,
+            "B-16"
+          ],
+          [
+            -140,
+            "C-15"
+          ],
+          [
+            -140,
+            "C-16"
+          ],
+          [
+            -140,
+            "D-15"
+          ],
+          [
+            -140,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261106-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261106-001.jpg",
+        "provider": "pollinations",
+        "retries": 5,
+        "bg_luminance_avg": 237.0,
+        "bg_corners": [
+          237.0,
+          238.0,
+          244.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.489,
+        "subject_bbox_height_frac": 0.44,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261106-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.11
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261106-001.txt",
+        "text": "Hot take: motivation is a visitor, not a resident. It walks in, looks around, leaves.\n\nThe people you admire are not motivated — they are built. A laced shoe by the door. A page opened at 7. A rep done tired.\n\nMomentum is a craft you practice on the days you do not feel anything, and one day it becomes the thing that pulls you up instead of the thing you chase.\n\nStart with one laced shoe. That is the whole system.\n\n#wordsforbeing #momentum #habits #selfdiscipline #growthmindset"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 237.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-11-06T18:40:20.235867+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-06T18:34:59.570429+05:30",
+          "msg": "selected A-15 (cat A / formula 2: Hot take/opinion, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-06T18:35:14.950562+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject reaches into the text zone (top edge at 16% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-06T18:35:35.205434+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 10"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-06T18:36:23.480297+05:30",
+          "msg": "attempt 3 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-06T18:37:25.114228+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.233 > 0.07); subject reaches into the text zone (top edge at 9% of frame, must be <"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-06T18:38:42.978423+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject reaches into the text zone (top edge at 20% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-11-06T18:40:17.676484+05:30",
+          "msg": "image ready (retries=5, bg=237.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-11-06T18:40:20.221990+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.11MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-11-06T18:40:20.235877+05:30",
+          "msg": "caption ready (482 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-11-06T18:40:20.249214+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject reaches into the text zone (top edge at 16% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 10s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: provider watermark detected in bottom-right zone",
+        "image attempt 4: base image failed QC: subject too high in frame (top-zone subject fraction 0.233 > 0.07); subject reaches into the text zone (top edge at 9% of frame, must be <= 42%); subject too tall (81% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 20% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 5
     }
   ],
   "meta": {
