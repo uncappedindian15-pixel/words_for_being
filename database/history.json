@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T18:40:20.262130+05:30",
-  "count": 57,
+  "updated": "2026-11-07T17:26:49.335831+05:30",
+  "count": 58,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -457,6 +457,14 @@
       "category": "A",
       "formula": 2,
       "hook": "Motivation is a scam. Momentum is a craft."
+    },
+    {
+      "post_id": "wfB-20261107-001",
+      "date": "2026-11-07",
+      "status": "FAILED",
+      "category": "B",
+      "formula": 2,
+      "hook": "Romance is not dead. Your standards are."
     }
   ]
 }

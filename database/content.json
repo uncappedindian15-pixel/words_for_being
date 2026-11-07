@@ -15939,6 +15939,155 @@
         "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 20% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%)"
       ],
       "retries_total": 5
+    },
+    {
+      "post_id": "wfB-20261107-001",
+      "date": "2026-11-07",
+      "created": "2026-11-07T17:20:01.271513+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-15",
+        "formula": 2,
+        "emotional_core": "romance is a standard, not a mood",
+        "visual_concept": "a single lit match beside a wilting flower",
+        "physical_action": "a match lit next to a wilting bloom",
+        "hook": "Romance is not dead. Your standards are.",
+        "subline": "flowers wilt when you stop expecting",
+        "cta": "",
+        "caption": "Hot take: nobody said romance died. You just stopped expecting it, so it stopped arriving.\n\nRomance is a standard — a candle lit at 9, a how-was-your-day that means it, a door held that is not performative.\n\nThe day you decide your person just is not romantic, you have actually decided you no longer find romance worth asking for.\n\nThe flame is still in the drawer. You just stopped looking.\n\nRomance is not dead. It is on strike. Pay it attention.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#romance",
+          "#relationshiptruths",
+          "#standards",
+          "#love"
+        ],
+        "image_prompt": "a single lit match standing upright next to a slightly wilting flower in a small glass, warm flame against a calm background",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-15",
+          "formula": 2,
+          "emotional_core": "romance is a standard, not a mood",
+          "visual_concept": "a single lit match beside a wilting flower",
+          "physical_action": "a match lit next to a wilting bloom",
+          "hook": "Romance is not dead. Your standards are.",
+          "subline": "flowers wilt when you stop expecting",
+          "cta": "",
+          "caption": "Hot take: nobody said romance died. You just stopped expecting it, so it stopped arriving.\n\nRomance is a standard — a candle lit at 9, a how-was-your-day that means it, a door held that is not performative.\n\nThe day you decide your person just is not romantic, you have actually decided you no longer find romance worth asking for.\n\nThe flame is still in the drawer. You just stopped looking.\n\nRomance is not dead. It is on strike. Pay it attention.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#romance",
+            "#relationshiptruths",
+            "#standards",
+            "#love"
+          ],
+          "image_prompt": "a single lit match standing upright next to a slightly wilting flower in a small glass, warm flame against a calm background",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -140,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -150,
+            "A-16"
+          ],
+          [
+            -140,
+            "B-15"
+          ],
+          [
+            -140,
+            "B-16"
+          ],
+          [
+            -140,
+            "C-15"
+          ],
+          [
+            -140,
+            "C-16"
+          ],
+          [
+            -140,
+            "D-15"
+          ],
+          [
+            -140,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-07T17:20:01.285464+05:30",
+          "msg": "selected B-15 (cat B / formula 2: Hot take/opinion, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-07T17:20:08.510005+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 175.0 < 190); subject too high in frame (top-zone subject fraction 0.1 > 0.07); subject rea"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-07T17:20:28.796207+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 18"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-07T17:21:09.070400+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 110.0 < 190); subject reaches into the text zone (top edge at 29% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-07T17:22:10.875787+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject reaches into the text zone (top edge at 30% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-07T17:23:27.228245+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject reaches into the text zone (top edge at 36% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-07T17:24:59.369071+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (68% of frame height, must be <= 58%); pro"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-07T17:26:49.324866+05:30",
+          "msg": "attempt 7 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 175.0 < 190); subject too high in frame (top-zone subject fraction 0.1 > 0.07); subject reaches into the text zone (top edge at 16% of frame, must be <= 42%); subject too tall (83% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 18s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 110.0 < 190); subject reaches into the text zone (top edge at 29% of frame, must be <= 42%)",
+        "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 30% of frame, must be <= 42%); provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 36% of frame, must be <= 42%); provider watermark detected in bottom-right zone",
+        "image attempt 6: base image failed QC: subject reaches into the text zone (top edge at 21% of frame, must be <= 42%); subject too tall (68% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 7: base image failed QC: provider watermark detected in bottom-right zone"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
