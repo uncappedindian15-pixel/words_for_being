@@ -16088,6 +16088,151 @@
         "image attempt 7: base image failed QC: provider watermark detected in bottom-right zone"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261108-001",
+      "date": "2026-11-08",
+      "created": "2026-11-08T17:31:54.534881+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-15",
+        "formula": 2,
+        "emotional_core": "re-explaining a boundary is narration",
+        "visual_concept": "a small train pulling away from an empty platform",
+        "physical_action": "a train leaving an empty platform",
+        "hook": "Re-explaining a boundary is just narrating your exit.",
+        "subline": "",
+        "cta": "",
+        "caption": "Hot take: the first time you explain a boundary, it is information. The second, it is patience.\n\nBy the fourth, it is a documentary. And by the fortieth, it is the closing credits of a departure you are describing to someone who is not watching.\n\nIf you find yourself re-explaining the same line, the same limit, the same no — you are not failing to communicate. You are being honest about a door that is already closed.\n\nThe train leaves on time. It just takes a while to leave.\n\nYou do not have to narrate. You just have to leave.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#boundaries",
+          "#selfrespect",
+          "#toxicrelationships",
+          "#realtalk"
+        ],
+        "image_prompt": "a small toy train pulling away toward the edge of the frame, one empty seat in the foreground, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-15",
+          "formula": 2,
+          "emotional_core": "re-explaining a boundary is narration",
+          "visual_concept": "a small train pulling away from an empty platform",
+          "physical_action": "a train leaving an empty platform",
+          "hook": "Re-explaining a boundary is just narrating your exit.",
+          "subline": "",
+          "cta": "",
+          "caption": "Hot take: the first time you explain a boundary, it is information. The second, it is patience.\n\nBy the fourth, it is a documentary. And by the fortieth, it is the closing credits of a departure you are describing to someone who is not watching.\n\nIf you find yourself re-explaining the same line, the same limit, the same no — you are not failing to communicate. You are being honest about a door that is already closed.\n\nThe train leaves on time. It just takes a while to leave.\n\nYou do not have to narrate. You just have to leave.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#boundaries",
+            "#selfrespect",
+            "#toxicrelationships",
+            "#realtalk"
+          ],
+          "image_prompt": "a small toy train pulling away toward the edge of the frame, one empty seat in the foreground, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -140,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -150,
+            "A-16"
+          ],
+          [
+            -150,
+            "B-16"
+          ],
+          [
+            -140,
+            "C-15"
+          ],
+          [
+            -140,
+            "C-16"
+          ],
+          [
+            -140,
+            "D-15"
+          ],
+          [
+            -140,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-08T17:31:54.547401+05:30",
+          "msg": "selected C-15 (cat C / formula 2: Hot take/opinion, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-08T17:32:06.636097+05:30",
+          "msg": "attempt 1 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-08T17:32:26.886760+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 14"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-08T17:33:10.707183+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject reaches into the text zone (top edge at 30% of frame, must be <= 42%); subject too tall (62% of frame height, must be <= 58%); pro"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-08T17:34:09.630518+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject reaches into the text zone (top edge at 37% of frame, must be <= 42%); provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-08T17:35:25.083671+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-08T17:36:51.279381+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 137.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-08T17:38:35.812475+05:30",
+          "msg": "attempt 7 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: provider watermark detected in bottom-right zone",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 14s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: subject reaches into the text zone (top edge at 30% of frame, must be <= 42%); subject too tall (62% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 37% of frame, must be <= 42%); provider watermark detected in bottom-right zone",
+        "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 137.0 < 190)",
+        "image attempt 7: base image failed QC: provider watermark detected in bottom-right zone"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
