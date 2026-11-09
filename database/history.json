@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T17:38:35.820549+05:30",
-  "count": 59,
+  "updated": "2026-11-09T19:39:52.937143+05:30",
+  "count": 60,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -473,6 +473,14 @@
       "category": "C",
       "formula": 2,
       "hook": "Re-explaining a boundary is just narrating your exit."
+    },
+    {
+      "post_id": "wfB-20261109-001",
+      "date": "2026-11-09",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 5,
+      "hook": "Sleep is a subscription you cannot cancel."
     }
   ]
 }
