@@ -16411,6 +16411,143 @@
         "image attempt 4: base image failed QC: background not off-white (avg corner luminance 160.0 < 190); subject too high in frame (top-zone subject fraction 0.161 > 0.07); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%)"
       ],
       "retries_total": 4
+    },
+    {
+      "post_id": "wfB-20261110-001",
+      "date": "2026-11-10",
+      "created": "2026-11-10T19:08:37.426137+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-16",
+        "formula": 4,
+        "emotional_core": "answering anxiety's loops",
+        "visual_concept": "a small storm cloud over a calm teacup, one arrow through it",
+        "physical_action": "an arrow passing cleanly through the storm cloud",
+        "hook": "my anxiety asked what if 41 times.",
+        "subline": "i said then what once. loop closed.",
+        "cta": "",
+        "caption": "41 what-ifs in a single evening. What if I fail. What if they leave. What if I am too late. What if I am too much.\n\nI finally answered it with the only question that actually works: then what?\n\nThen what does it matter if I fail? I will still be here. Then what is the exit door anxiety never wants you to find.\n\nShare this with a 3 AM overthinker.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#anxiety",
+          "#overthinking",
+          "#mentalhealth",
+          "#calm"
+        ],
+        "image_prompt": "a small pale grey cloud hovering over a calm steaming teacup, a single small arrow passing cleanly through the cloud, the cup untouched",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-16",
+          "formula": 4,
+          "emotional_core": "answering anxiety's loops",
+          "visual_concept": "a small storm cloud over a calm teacup, one arrow through it",
+          "physical_action": "an arrow passing cleanly through the storm cloud",
+          "hook": "my anxiety asked what if 41 times.",
+          "subline": "i said then what once. loop closed.",
+          "cta": "",
+          "caption": "41 what-ifs in a single evening. What if I fail. What if they leave. What if I am too late. What if I am too much.\n\nI finally answered it with the only question that actually works: then what?\n\nThen what does it matter if I fail? I will still be here. Then what is the exit door anxiety never wants you to find.\n\nShare this with a 3 AM overthinker.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#anxiety",
+            "#overthinking",
+            "#mentalhealth",
+            "#calm"
+          ],
+          "image_prompt": "a small pale grey cloud hovering over a calm steaming teacup, a single small arrow passing cleanly through the cloud, the cup untouched",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -150,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -150,
+            "A-16"
+          ],
+          [
+            -150,
+            "B-16"
+          ],
+          [
+            -150,
+            "C-16"
+          ],
+          [
+            -150,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-10T19:08:37.438916+05:30",
+          "msg": "selected A-16 (cat A / formula 4: Internet-native meme phrasing, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-10T19:08:42.767953+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 158.0 < 190); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-10T19:09:02.976844+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 20"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-10T19:09:44.194278+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 139.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-10T19:10:40.176299+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 138.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-10T19:11:55.171468+05:30",
+          "msg": "attempt 5 failed: base image failed QC: provider watermark detected in bottom-right zone"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-10T19:13:21.218756+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 150.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-10T19:15:02.498322+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 134.0 < 190)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 158.0 < 190); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (63% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 20s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 139.0 < 190)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 138.0 < 190)",
+        "image attempt 5: base image failed QC: provider watermark detected in bottom-right zone",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 150.0 < 190)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 134.0 < 190)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
