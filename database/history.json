@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T19:15:02.506341+05:30",
-  "count": 61,
+  "updated": "2026-11-11T18:27:26.290627+05:30",
+  "count": 62,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -489,6 +489,14 @@
       "category": "A",
       "formula": 4,
       "hook": "my anxiety asked what if 41 times."
+    },
+    {
+      "post_id": "wfB-20261111-001",
+      "date": "2026-11-11",
+      "status": "FAILED",
+      "category": "B",
+      "formula": 4,
+      "hook": "his love language: 82 unread good-mornings."
     }
   ]
 }

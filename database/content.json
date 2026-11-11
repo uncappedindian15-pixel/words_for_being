@@ -16548,6 +16548,139 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 134.0 < 190)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261111-001",
+      "date": "2026-11-11",
+      "created": "2026-11-11T18:20:55.265166+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-16",
+        "formula": 4,
+        "emotional_core": "love shown in receipts",
+        "visual_concept": "a paper cup with a neat grid of tiny heart stamps",
+        "physical_action": "a grid of small hearts stamped on a cup",
+        "hook": "his love language: 82 unread good-mornings.",
+        "subline": "the archive is the affection",
+        "cta": "",
+        "caption": "Some people show love in words. His shows up in the archive — 82 good-morning texts, zero of them asked for.\n\nYou can swipe through them on a bad day like a highlight reel, except it is real, and it is dated, and it is all just showing up.\n\nThe receipts are the romance. The archive is the affection. You do not need a grand gesture when the small ones are on a 365-day subscription.\n\nHow many receipts does your person have on you?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#texting",
+          "#couples",
+          "#lovequotes",
+          "#goodmorning"
+        ],
+        "image_prompt": "a paper coffee cup decorated with a neat small grid of tiny heart stamps, steam rising, on a plain surface",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-16",
+          "formula": 4,
+          "emotional_core": "love shown in receipts",
+          "visual_concept": "a paper cup with a neat grid of tiny heart stamps",
+          "physical_action": "a grid of small hearts stamped on a cup",
+          "hook": "his love language: 82 unread good-mornings.",
+          "subline": "the archive is the affection",
+          "cta": "",
+          "caption": "Some people show love in words. His shows up in the archive — 82 good-morning texts, zero of them asked for.\n\nYou can swipe through them on a bad day like a highlight reel, except it is real, and it is dated, and it is all just showing up.\n\nThe receipts are the romance. The archive is the affection. You do not need a grand gesture when the small ones are on a 365-day subscription.\n\nHow many receipts does your person have on you?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#texting",
+            "#couples",
+            "#lovequotes",
+            "#goodmorning"
+          ],
+          "image_prompt": "a paper coffee cup decorated with a neat small grid of tiny heart stamps, steam rising, on a plain surface",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -150,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -150,
+            "B-16"
+          ],
+          [
+            -150,
+            "C-16"
+          ],
+          [
+            -150,
+            "D-16"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-11T18:20:55.281945+05:30",
+          "msg": "selected B-16 (cat B / formula 4: Internet-native meme phrasing, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-11T18:21:05.670181+05:30",
+          "msg": "attempt 1 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.198 > 0.07); subject reaches into the text zone (top edge at 19% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-11T18:21:26.154088+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 15"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-11T18:22:12.075244+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.352 > 0.07); subject reaches into the text zone (top edge at 14% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-11T18:23:07.632181+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 145.0 < 190); subject reaches into the text zone (top edge at 28% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-11T18:24:18.711011+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 168.0 < 190); image model appears to have drawn text (8 words by OCR)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-11T18:25:44.966447+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 157.0 < 190); subject reaches into the text zone (top edge at 39% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-11T18:27:26.279026+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 91.0 < 190); subject reaches into the text zone (top edge at 14% of frame, must be <= 42%);"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: subject too high in frame (top-zone subject fraction 0.198 > 0.07); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (73% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 15s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: subject too high in frame (top-zone subject fraction 0.352 > 0.07); subject reaches into the text zone (top edge at 14% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 145.0 < 190); subject reaches into the text zone (top edge at 28% of frame, must be <= 42%); subject too tall (71% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 168.0 < 190); image model appears to have drawn text (8 words by OCR)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 157.0 < 190); subject reaches into the text zone (top edge at 39% of frame, must be <= 42%); subject too tall (60% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 91.0 < 190); subject reaches into the text zone (top edge at 14% of frame, must be <= 42%); subject too tall (85% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
