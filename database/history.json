@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T18:27:26.290627+05:30",
-  "count": 62,
+  "updated": "2026-11-12T19:27:01.452715+05:30",
+  "count": 63,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -497,6 +497,14 @@
       "category": "B",
       "formula": 4,
       "hook": "his love language: 82 unread good-mornings."
+    },
+    {
+      "post_id": "wfB-20261112-001",
+      "date": "2026-11-12",
+      "status": "READY_TO_PUBLISH",
+      "category": "C",
+      "formula": 4,
+      "hook": "her: we are fine."
     }
   ]
 }
