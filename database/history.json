@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T19:27:01.452715+05:30",
-  "count": 63,
+  "updated": "2026-11-13T18:46:02.170712+05:30",
+  "count": 64,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -505,6 +505,14 @@
       "category": "C",
       "formula": 4,
       "hook": "her: we are fine."
+    },
+    {
+      "post_id": "wfB-20261113-001",
+      "date": "2026-11-13",
+      "status": "READY_TO_PUBLISH",
+      "category": "D",
+      "formula": 1,
+      "hook": "One last word: that is on the router."
     }
   ]
 }

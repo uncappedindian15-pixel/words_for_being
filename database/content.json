@@ -16847,6 +16847,139 @@
         "image attempt 4: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
       ],
       "retries_total": 4
+    },
+    {
+      "post_id": "wfB-20261113-001",
+      "date": "2026-11-13",
+      "created": "2026-11-13T18:45:47.337517+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "D-16",
+        "formula": 1,
+        "emotional_core": "the router's patience",
+        "visual_concept": "a router with one weak signal bar, a sofa in front",
+        "physical_action": "one weak bar glowing above the router",
+        "hook": "One last word: that is on the router.",
+        "subline": "the router takes no blame either",
+        "cta": "",
+        "caption": "One last word, from the router's perspective, and I am quoting it:\n\nif your Wi-Fi is better than your patience, that is on the router.\n\nThe router saw the buffering. The router saw the 3 percent signal in the far corner of the room. The router saw you hold your phone up like a lantern, searching for a bar, and the router had opinions.\n\nThe sofa is the front row. The signal is the plot. You are the audience of one, and the Wi-Fi is the only thing in the house that has ever kept you waiting with a loading circle and a promise.\n\nHow many bars do you get in your favourite spot?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#wifi",
+          "#relatable",
+          "#everydaylife",
+          "#humor"
+        ],
+        "image_prompt": "a small router with one single weak signal bar above it, isolated on plain white",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-16",
+          "formula": 1,
+          "emotional_core": "the router's patience",
+          "visual_concept": "a router with one weak signal bar, a sofa in front",
+          "physical_action": "one weak bar glowing above the router",
+          "hook": "One last word: that is on the router.",
+          "subline": "the router takes no blame either",
+          "cta": "",
+          "caption": "One last word, from the router's perspective, and I am quoting it:\n\nif your Wi-Fi is better than your patience, that is on the router.\n\nThe router saw the buffering. The router saw the 3 percent signal in the far corner of the room. The router saw you hold your phone up like a lantern, searching for a bar, and the router had opinions.\n\nThe sofa is the front row. The signal is the plot. You are the audience of one, and the Wi-Fi is the only thing in the house that has ever kept you waiting with a loading circle and a promise.\n\nHow many bars do you get in your favourite spot?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#wifi",
+            "#relatable",
+            "#everydaylife",
+            "#humor"
+          ],
+          "image_prompt": "a small router with one single weak signal bar above it, isolated on plain white",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -150,
+        "cycle_reset": false,
+        "rejections": [],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -150,
+            "D-16"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261113-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261113-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 235.0,
+        "bg_corners": [
+          239.0,
+          240.0,
+          235.0,
+          252.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 1.0,
+        "subject_bbox_height_frac": 0.0,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261113-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.09
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261113-001.txt",
+        "text": "One last word, from the router's perspective, and I am quoting it:\n\nif your Wi-Fi is better than your patience, that is on the router.\n\nThe router saw the buffering. The router saw the 3 percent signal in the far corner of the room. The router saw you hold your phone up like a lantern, searching for a bar, and the router had opinions.\n\nThe sofa is the front row. The signal is the plot. You are the audience of one, and the Wi-Fi is the only thing in the house that has ever kept you waiting with a loading circle and a promise.\n\nHow many bars do you get in your favourite spot?\n\n#wordsforbeing #wifi #relatable #everydaylife #humor"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 235.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-11-13T18:46:02.143076+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-13T18:45:47.359857+05:30",
+          "msg": "selected D-16 (cat D / formula 1: Blunt ultimatum, rejections=0)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-11-13T18:46:00.232268+05:30",
+          "msg": "image ready (retries=0, bg=235.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-11-13T18:46:02.127410+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.09MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-11-13T18:46:02.143089+05:30",
+          "msg": "caption ready (634 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-11-13T18:46:02.157190+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {
