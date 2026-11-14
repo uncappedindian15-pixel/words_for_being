@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T18:46:02.170712+05:30",
-  "count": 64,
+  "updated": "2026-11-14T17:50:16.658228+05:30",
+  "count": 65,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -513,6 +513,14 @@
       "category": "D",
       "formula": 1,
       "hook": "One last word: that is on the router."
+    },
+    {
+      "post_id": "wfB-20261114-001",
+      "date": "2026-11-14",
+      "status": "READY_TO_PUBLISH",
+      "category": "A",
+      "formula": 5,
+      "hook": "You are the whole year, not a season."
     }
   ]
 }

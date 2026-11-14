@@ -16980,6 +16980,436 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20261114-001",
+      "date": "2026-11-14",
+      "created": "2026-11-14T17:50:05.164054+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "A-01",
+        "formula": 5,
+        "emotional_core": "quiet self-reclamation after years of shrinking",
+        "visual_concept": "a green shoot cracking open a concrete block",
+        "physical_action": "a single shoot splitting a concrete block",
+        "hook": "You are the whole year, not a season.",
+        "subline": "spring never apologises for arriving late",
+        "cta": "Save this for later.",
+        "caption": "Somewhere along the way I started treating myself like a phase. A few hard months. A temporary version.\n\nBut you are not a season — you are the whole year, with every kind of weather in it. Late spring counts. Long winters count.\n\nThis one is for every version of you that is still growing.\n\nFollow @words.for.being for daily reminders that you are the long story, not a chapter.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfgrowth",
+          "#healingjourney",
+          "#growthmindset",
+          "#personaldevelopment"
+        ],
+        "image_prompt": "a single green shoot with two leaves cracking open the top of a small pale concrete block, the crack visible as a zigzag line, the block sitting alone on a plain surface",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-01",
+          "formula": 5,
+          "emotional_core": "quiet self-reclamation after years of shrinking",
+          "visual_concept": "a green shoot cracking open a concrete block",
+          "physical_action": "a single shoot splitting a concrete block",
+          "hook": "You are the whole year, not a season.",
+          "subline": "spring never apologises for arriving late",
+          "cta": "Save this for later.",
+          "caption": "Somewhere along the way I started treating myself like a phase. A few hard months. A temporary version.\n\nBut you are not a season — you are the whole year, with every kind of weather in it. Late spring counts. Long winters count.\n\nThis one is for every version of you that is still growing.\n\nFollow @words.for.being for daily reminders that you are the long story, not a chapter.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfgrowth",
+            "#healingjourney",
+            "#growthmindset",
+            "#personaldevelopment"
+          ],
+          "image_prompt": "a single green shoot with two leaves cracking open the top of a small pale concrete block, the crack visible as a zigzag line, the block sitting alone on a plain surface",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -160,
+        "cycle_reset": true,
+        "rejections": [
+          {
+            "id": "A-12",
+            "reasons": [
+              "action reused 20d ago"
+            ]
+          },
+          {
+            "id": "A-13",
+            "reasons": [
+              "action reused 16d ago"
+            ]
+          },
+          {
+            "id": "A-14",
+            "reasons": [
+              "action reused 12d ago"
+            ]
+          },
+          {
+            "id": "A-15",
+            "reasons": [
+              "action reused 8d ago"
+            ]
+          },
+          {
+            "id": "A-16",
+            "reasons": [
+              "similar to A-16 (sim=1.00)",
+              "action reused 4d ago"
+            ]
+          },
+          {
+            "id": "B-12",
+            "reasons": [
+              "action reused 19d ago"
+            ]
+          },
+          {
+            "id": "B-13",
+            "reasons": [
+              "action reused 15d ago"
+            ]
+          },
+          {
+            "id": "B-14",
+            "reasons": [
+              "action reused 11d ago"
+            ]
+          },
+          {
+            "id": "B-15",
+            "reasons": [
+              "action reused 7d ago"
+            ]
+          },
+          {
+            "id": "B-16",
+            "reasons": [
+              "similar to B-16 (sim=1.00)",
+              "action reused 3d ago"
+            ]
+          },
+          {
+            "id": "C-12",
+            "reasons": [
+              "action reused 18d ago"
+            ]
+          },
+          {
+            "id": "C-13",
+            "reasons": [
+              "action reused 14d ago"
+            ]
+          },
+          {
+            "id": "C-14",
+            "reasons": [
+              "action reused 10d ago"
+            ]
+          },
+          {
+            "id": "C-15",
+            "reasons": [
+              "action reused 6d ago"
+            ]
+          },
+          {
+            "id": "C-16",
+            "reasons": [
+              "similar to C-16 (sim=1.00)",
+              "action reused 2d ago"
+            ]
+          },
+          {
+            "id": "D-12",
+            "reasons": [
+              "action reused 17d ago"
+            ]
+          },
+          {
+            "id": "D-13",
+            "reasons": [
+              "action reused 13d ago"
+            ]
+          },
+          {
+            "id": "D-14",
+            "reasons": [
+              "action reused 9d ago"
+            ]
+          },
+          {
+            "id": "D-15",
+            "reasons": [
+              "action reused 5d ago"
+            ]
+          },
+          {
+            "id": "D-16",
+            "reasons": [
+              "similar to D-16 (sim=1.00)",
+              "action reused 1d ago"
+            ]
+          }
+        ],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -160,
+            "A-01"
+          ],
+          [
+            -160,
+            "A-02"
+          ],
+          [
+            -160,
+            "A-03"
+          ],
+          [
+            -160,
+            "A-04"
+          ],
+          [
+            -160,
+            "A-05"
+          ],
+          [
+            -160,
+            "A-06"
+          ],
+          [
+            -160,
+            "A-07"
+          ],
+          [
+            -160,
+            "A-08"
+          ],
+          [
+            -160,
+            "A-09"
+          ],
+          [
+            -160,
+            "A-10"
+          ],
+          [
+            -160,
+            "A-11"
+          ],
+          [
+            -160,
+            "B-01"
+          ],
+          [
+            -160,
+            "B-02"
+          ],
+          [
+            -160,
+            "B-03"
+          ],
+          [
+            -160,
+            "B-04"
+          ],
+          [
+            -160,
+            "B-05"
+          ],
+          [
+            -160,
+            "B-06"
+          ],
+          [
+            -160,
+            "B-07"
+          ],
+          [
+            -160,
+            "B-08"
+          ],
+          [
+            -160,
+            "B-09"
+          ],
+          [
+            -160,
+            "B-10"
+          ],
+          [
+            -160,
+            "B-11"
+          ],
+          [
+            -160,
+            "C-01"
+          ],
+          [
+            -160,
+            "C-02"
+          ],
+          [
+            -160,
+            "C-03"
+          ],
+          [
+            -160,
+            "C-04"
+          ],
+          [
+            -160,
+            "C-05"
+          ],
+          [
+            -160,
+            "C-06"
+          ],
+          [
+            -160,
+            "C-07"
+          ],
+          [
+            -160,
+            "C-08"
+          ],
+          [
+            -160,
+            "C-09"
+          ],
+          [
+            -160,
+            "C-10"
+          ],
+          [
+            -160,
+            "C-11"
+          ],
+          [
+            -160,
+            "D-01"
+          ],
+          [
+            -160,
+            "D-02"
+          ],
+          [
+            -160,
+            "D-03"
+          ],
+          [
+            -160,
+            "D-04"
+          ],
+          [
+            -160,
+            "D-05"
+          ],
+          [
+            -160,
+            "D-06"
+          ],
+          [
+            -160,
+            "D-07"
+          ],
+          [
+            -160,
+            "D-08"
+          ],
+          [
+            -160,
+            "D-09"
+          ],
+          [
+            -160,
+            "D-10"
+          ],
+          [
+            -160,
+            "D-11"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261114-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261114-001.jpg",
+        "provider": "pollinations",
+        "retries": 0,
+        "bg_luminance_avg": 240.0,
+        "bg_corners": [
+          240.0,
+          240.0,
+          253.0,
+          255.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.49,
+        "subject_bbox_height_frac": 0.317,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261114-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.18
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261114-001.txt",
+        "text": "Somewhere along the way I started treating myself like a phase. A few hard months. A temporary version.\n\nBut you are not a season — you are the whole year, with every kind of weather in it. Late spring counts. Long winters count.\n\nThis one is for every version of you that is still growing.\n\nFollow @words.for.being for daily reminders that you are the long story, not a chapter.\n\n#wordsforbeing #selfgrowth #healingjourney #growthmindset #personaldevelopment"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 240.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-11-14T17:50:16.640616+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-14T17:50:05.179935+05:30",
+          "msg": "selected A-01 (cat A / formula 5: One-line metaphor, rejections=20)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-11-14T17:50:15.087047+05:30",
+          "msg": "image ready (retries=0, bg=240.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-11-14T17:50:16.630517+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.18MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-11-14T17:50:16.640629+05:30",
+          "msg": "caption ready (459 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-11-14T17:50:16.649788+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [],
+      "retries_total": 0
     }
   ],
   "meta": {
