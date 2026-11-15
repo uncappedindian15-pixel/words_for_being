@@ -17410,6 +17410,465 @@
       ],
       "errors": [],
       "retries_total": 0
+    },
+    {
+      "post_id": "wfB-20261115-001",
+      "date": "2026-11-15",
+      "created": "2026-11-15T18:21:53.989683+05:30",
+      "status": "READY_TO_PUBLISH",
+      "concept": {
+        "id": "B-01",
+        "formula": 5,
+        "emotional_core": "love as steady presence",
+        "visual_concept": "a single open umbrella standing alone in light rain",
+        "physical_action": "an umbrella standing open in falling rain",
+        "hook": "Love is the umbrella, not the thunder.",
+        "subline": "it never leaves when it rains",
+        "cta": "",
+        "caption": "We fall in love with the thunder — the first spark, the chase, the fireworks.\n\nBut a relationship is built in the quiet: the umbrella that stays open on ordinary, grey, nothing-happening days. The person who never once asks you to perform being loved.\n\nIf you have someone who is your steady weather, this is for them. If you do not, this is the standard.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#lovelanguage",
+          "#relationships",
+          "#lovequotes",
+          "#longdistance"
+        ],
+        "image_prompt": "a single open umbrella lying on its side, a few thin minimal rain lines falling around it, isolated on plain white, soft light",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-01",
+          "formula": 5,
+          "emotional_core": "love as steady presence",
+          "visual_concept": "a single open umbrella standing alone in light rain",
+          "physical_action": "an umbrella standing open in falling rain",
+          "hook": "Love is the umbrella, not the thunder.",
+          "subline": "it never leaves when it rains",
+          "cta": "",
+          "caption": "We fall in love with the thunder — the first spark, the chase, the fireworks.\n\nBut a relationship is built in the quiet: the umbrella that stays open on ordinary, grey, nothing-happening days. The person who never once asks you to perform being loved.\n\nIf you have someone who is your steady weather, this is for them. If you do not, this is the standard.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#lovelanguage",
+            "#relationships",
+            "#lovequotes",
+            "#longdistance"
+          ],
+          "image_prompt": "a single open umbrella lying on its side, a few thin minimal rain lines falling around it, isolated on plain white, soft light",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -160,
+        "cycle_reset": true,
+        "rejections": [
+          {
+            "id": "A-01",
+            "reasons": [
+              "similar to A-01 (sim=1.00)",
+              "action reused 1d ago"
+            ]
+          },
+          {
+            "id": "A-13",
+            "reasons": [
+              "action reused 17d ago"
+            ]
+          },
+          {
+            "id": "A-14",
+            "reasons": [
+              "action reused 13d ago"
+            ]
+          },
+          {
+            "id": "A-15",
+            "reasons": [
+              "action reused 9d ago"
+            ]
+          },
+          {
+            "id": "A-16",
+            "reasons": [
+              "action reused 5d ago"
+            ]
+          },
+          {
+            "id": "B-12",
+            "reasons": [
+              "action reused 20d ago"
+            ]
+          },
+          {
+            "id": "B-13",
+            "reasons": [
+              "action reused 16d ago"
+            ]
+          },
+          {
+            "id": "B-14",
+            "reasons": [
+              "action reused 12d ago"
+            ]
+          },
+          {
+            "id": "B-15",
+            "reasons": [
+              "action reused 8d ago"
+            ]
+          },
+          {
+            "id": "B-16",
+            "reasons": [
+              "similar to B-16 (sim=1.00)",
+              "action reused 4d ago"
+            ]
+          },
+          {
+            "id": "C-12",
+            "reasons": [
+              "action reused 19d ago"
+            ]
+          },
+          {
+            "id": "C-13",
+            "reasons": [
+              "action reused 15d ago"
+            ]
+          },
+          {
+            "id": "C-14",
+            "reasons": [
+              "action reused 11d ago"
+            ]
+          },
+          {
+            "id": "C-15",
+            "reasons": [
+              "action reused 7d ago"
+            ]
+          },
+          {
+            "id": "C-16",
+            "reasons": [
+              "similar to C-16 (sim=1.00)",
+              "action reused 3d ago"
+            ]
+          },
+          {
+            "id": "D-12",
+            "reasons": [
+              "action reused 18d ago"
+            ]
+          },
+          {
+            "id": "D-13",
+            "reasons": [
+              "action reused 14d ago"
+            ]
+          },
+          {
+            "id": "D-14",
+            "reasons": [
+              "action reused 10d ago"
+            ]
+          },
+          {
+            "id": "D-15",
+            "reasons": [
+              "action reused 6d ago"
+            ]
+          },
+          {
+            "id": "D-16",
+            "reasons": [
+              "similar to D-16 (sim=1.00)",
+              "action reused 2d ago"
+            ]
+          }
+        ],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -170,
+            "A-02"
+          ],
+          [
+            -170,
+            "A-03"
+          ],
+          [
+            -170,
+            "A-04"
+          ],
+          [
+            -170,
+            "A-05"
+          ],
+          [
+            -170,
+            "A-06"
+          ],
+          [
+            -170,
+            "A-07"
+          ],
+          [
+            -170,
+            "A-08"
+          ],
+          [
+            -170,
+            "A-09"
+          ],
+          [
+            -170,
+            "A-10"
+          ],
+          [
+            -170,
+            "A-11"
+          ],
+          [
+            -170,
+            "A-12"
+          ],
+          [
+            -160,
+            "B-01"
+          ],
+          [
+            -160,
+            "B-02"
+          ],
+          [
+            -160,
+            "B-03"
+          ],
+          [
+            -160,
+            "B-04"
+          ],
+          [
+            -160,
+            "B-05"
+          ],
+          [
+            -160,
+            "B-06"
+          ],
+          [
+            -160,
+            "B-07"
+          ],
+          [
+            -160,
+            "B-08"
+          ],
+          [
+            -160,
+            "B-09"
+          ],
+          [
+            -160,
+            "B-10"
+          ],
+          [
+            -160,
+            "B-11"
+          ],
+          [
+            -160,
+            "C-01"
+          ],
+          [
+            -160,
+            "C-02"
+          ],
+          [
+            -160,
+            "C-03"
+          ],
+          [
+            -160,
+            "C-04"
+          ],
+          [
+            -160,
+            "C-05"
+          ],
+          [
+            -160,
+            "C-06"
+          ],
+          [
+            -160,
+            "C-07"
+          ],
+          [
+            -160,
+            "C-08"
+          ],
+          [
+            -160,
+            "C-09"
+          ],
+          [
+            -160,
+            "C-10"
+          ],
+          [
+            -160,
+            "C-11"
+          ],
+          [
+            -160,
+            "D-01"
+          ],
+          [
+            -160,
+            "D-02"
+          ],
+          [
+            -160,
+            "D-03"
+          ],
+          [
+            -160,
+            "D-04"
+          ],
+          [
+            -160,
+            "D-05"
+          ],
+          [
+            -160,
+            "D-06"
+          ],
+          [
+            -160,
+            "D-07"
+          ],
+          [
+            -160,
+            "D-08"
+          ],
+          [
+            -160,
+            "D-09"
+          ],
+          [
+            -160,
+            "D-10"
+          ],
+          [
+            -160,
+            "D-11"
+          ]
+        ]
+      },
+      "image": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261115-001-base.jpg",
+        "final_path": "/home/runner/work/words_for_being/words_for_being/generated/images/wfB-20261115-001.jpg",
+        "provider": "pollinations",
+        "retries": 4,
+        "bg_luminance_avg": 249.0,
+        "bg_corners": [
+          255.0,
+          249.0,
+          254.0,
+          254.0
+        ],
+        "subject_top_frac": 0.0,
+        "subject_bbox_top_frac": 0.807,
+        "subject_bbox_height_frac": 0.059,
+        "ocr_words": 0,
+        "watermark_zone_words": 0
+      },
+      "video": {
+        "path": "/home/runner/work/words_for_being/words_for_being/generated/videos/wfB-20261115-001.mp4",
+        "duration": 5.0,
+        "width": 1080,
+        "height": 1920,
+        "vcodec": "h264",
+        "acodec": "aac",
+        "size_mb": 0.14
+      },
+      "caption": {
+        "path": "/home/runner/work/words_for_being/words_for_being/captions/wfB-20261115-001.txt",
+        "text": "We fall in love with the thunder — the first spark, the chase, the fireworks.\n\nBut a relationship is built in the quiet: the umbrella that stays open on ordinary, grey, nothing-happening days. The person who never once asks you to perform being loved.\n\nIf you have someone who is your steady weather, this is for them. If you do not, this is the standard.\n\n#wordsforbeing #lovelanguage #relationships #lovequotes #longdistance"
+      },
+      "quality": {
+        "content": "PASS",
+        "base_image": 249.0,
+        "ocr_words": 0,
+        "video": 5.0,
+        "checked_at": "2026-11-15T18:25:21.935727+05:30"
+      },
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-15T18:21:54.015152+05:30",
+          "msg": "selected B-01 (cat B / formula 5: One-line metaphor, rejections=20)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-15T18:22:00.299213+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 150.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-15T18:22:20.484950+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-15T18:23:07.093379+05:30",
+          "msg": "attempt 3 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.152 > 0.07); subject reaches into the text zone (top edge at 19% of frame, must be "
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-15T18:24:02.811278+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 152.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": true,
+          "ts": "2026-11-15T18:25:19.189278+05:30",
+          "msg": "image ready (retries=4, bg=249.0, ocr_words=0)"
+        },
+        {
+          "stage": "video",
+          "ok": true,
+          "ts": "2026-11-15T18:25:21.920288+05:30",
+          "msg": "video ready: 5.0s 1080x1920 0.14MB"
+        },
+        {
+          "stage": "caption",
+          "ok": true,
+          "ts": "2026-11-15T18:25:21.935740+05:30",
+          "msg": "caption ready (426 chars)"
+        },
+        {
+          "stage": "publish",
+          "ok": true,
+          "ts": "2026-11-15T18:25:21.949945+05:30",
+          "msg": "SAFE MODE: waiting for human review before publishing"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 150.0 < 190)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: subject too high in frame (top-zone subject fraction 0.152 > 0.07); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (74% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 152.0 < 190)"
+      ],
+      "retries_total": 4
     }
   ],
   "meta": {
