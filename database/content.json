@@ -17869,6 +17869,428 @@
         "image attempt 4: base image failed QC: background not off-white (avg corner luminance 152.0 < 190)"
       ],
       "retries_total": 4
+    },
+    {
+      "post_id": "wfB-20261116-001",
+      "date": "2026-11-16",
+      "created": "2026-11-16T19:21:01.802171+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-01",
+        "formula": 5,
+        "emotional_core": "not owing strangers a performance",
+        "visual_concept": "a mask hanging on a wall hook, an empty chair beneath",
+        "physical_action": "a mask hanging, not worn",
+        "hook": "You do not owe strangers your best face.",
+        "subline": "your people see the face. the rest can wait.",
+        "cta": "",
+        "caption": "There is a version of you that exists only for the people who have earned it — the loud laugh, the honest answer, the real face.\n\nYou do not owe strangers that version. You do not owe them your softness as a free sample, your boundaries as a suggestion, your history as entertainment.\n\nThe mask is fine on the hook. You do not have to wear it for everyone.\n\nWho are the people the real version is for?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#boundaries",
+          "#selfrespect",
+          "#personalboundaries",
+          "#truth"
+        ],
+        "image_prompt": "a simple smooth mask hanging from a single hook, an empty chair placed beneath it, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-01",
+          "formula": 5,
+          "emotional_core": "not owing strangers a performance",
+          "visual_concept": "a mask hanging on a wall hook, an empty chair beneath",
+          "physical_action": "a mask hanging, not worn",
+          "hook": "You do not owe strangers your best face.",
+          "subline": "your people see the face. the rest can wait.",
+          "cta": "",
+          "caption": "There is a version of you that exists only for the people who have earned it — the loud laugh, the honest answer, the real face.\n\nYou do not owe strangers that version. You do not owe them your softness as a free sample, your boundaries as a suggestion, your history as entertainment.\n\nThe mask is fine on the hook. You do not have to wear it for everyone.\n\nWho are the people the real version is for?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#boundaries",
+            "#selfrespect",
+            "#personalboundaries",
+            "#truth"
+          ],
+          "image_prompt": "a simple smooth mask hanging from a single hook, an empty chair placed beneath it, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -160,
+        "cycle_reset": true,
+        "rejections": [
+          {
+            "id": "A-01",
+            "reasons": [
+              "similar to A-01 (sim=1.00)",
+              "action reused 2d ago"
+            ]
+          },
+          {
+            "id": "A-13",
+            "reasons": [
+              "action reused 18d ago"
+            ]
+          },
+          {
+            "id": "A-14",
+            "reasons": [
+              "action reused 14d ago"
+            ]
+          },
+          {
+            "id": "A-15",
+            "reasons": [
+              "action reused 10d ago"
+            ]
+          },
+          {
+            "id": "A-16",
+            "reasons": [
+              "action reused 6d ago"
+            ]
+          },
+          {
+            "id": "B-01",
+            "reasons": [
+              "similar to B-01 (sim=1.00)",
+              "action reused 1d ago"
+            ]
+          },
+          {
+            "id": "B-13",
+            "reasons": [
+              "action reused 17d ago"
+            ]
+          },
+          {
+            "id": "B-14",
+            "reasons": [
+              "action reused 13d ago"
+            ]
+          },
+          {
+            "id": "B-15",
+            "reasons": [
+              "action reused 9d ago"
+            ]
+          },
+          {
+            "id": "B-16",
+            "reasons": [
+              "action reused 5d ago"
+            ]
+          },
+          {
+            "id": "C-12",
+            "reasons": [
+              "action reused 20d ago"
+            ]
+          },
+          {
+            "id": "C-13",
+            "reasons": [
+              "action reused 16d ago"
+            ]
+          },
+          {
+            "id": "C-14",
+            "reasons": [
+              "action reused 12d ago"
+            ]
+          },
+          {
+            "id": "C-15",
+            "reasons": [
+              "action reused 8d ago"
+            ]
+          },
+          {
+            "id": "C-16",
+            "reasons": [
+              "similar to C-16 (sim=1.00)",
+              "action reused 4d ago"
+            ]
+          },
+          {
+            "id": "D-12",
+            "reasons": [
+              "action reused 19d ago"
+            ]
+          },
+          {
+            "id": "D-13",
+            "reasons": [
+              "action reused 15d ago"
+            ]
+          },
+          {
+            "id": "D-14",
+            "reasons": [
+              "action reused 11d ago"
+            ]
+          },
+          {
+            "id": "D-15",
+            "reasons": [
+              "action reused 7d ago"
+            ]
+          },
+          {
+            "id": "D-16",
+            "reasons": [
+              "similar to D-16 (sim=1.00)",
+              "action reused 3d ago"
+            ]
+          }
+        ],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -170,
+            "A-02"
+          ],
+          [
+            -170,
+            "A-03"
+          ],
+          [
+            -170,
+            "A-04"
+          ],
+          [
+            -170,
+            "A-05"
+          ],
+          [
+            -170,
+            "A-06"
+          ],
+          [
+            -170,
+            "A-07"
+          ],
+          [
+            -170,
+            "A-08"
+          ],
+          [
+            -170,
+            "A-09"
+          ],
+          [
+            -170,
+            "A-10"
+          ],
+          [
+            -170,
+            "A-11"
+          ],
+          [
+            -170,
+            "A-12"
+          ],
+          [
+            -170,
+            "B-02"
+          ],
+          [
+            -170,
+            "B-03"
+          ],
+          [
+            -170,
+            "B-04"
+          ],
+          [
+            -170,
+            "B-05"
+          ],
+          [
+            -170,
+            "B-06"
+          ],
+          [
+            -170,
+            "B-07"
+          ],
+          [
+            -170,
+            "B-08"
+          ],
+          [
+            -170,
+            "B-09"
+          ],
+          [
+            -170,
+            "B-10"
+          ],
+          [
+            -170,
+            "B-11"
+          ],
+          [
+            -170,
+            "B-12"
+          ],
+          [
+            -160,
+            "C-01"
+          ],
+          [
+            -160,
+            "C-02"
+          ],
+          [
+            -160,
+            "C-03"
+          ],
+          [
+            -160,
+            "C-04"
+          ],
+          [
+            -160,
+            "C-05"
+          ],
+          [
+            -160,
+            "C-06"
+          ],
+          [
+            -160,
+            "C-07"
+          ],
+          [
+            -160,
+            "C-08"
+          ],
+          [
+            -160,
+            "C-09"
+          ],
+          [
+            -160,
+            "C-10"
+          ],
+          [
+            -160,
+            "C-11"
+          ],
+          [
+            -160,
+            "D-01"
+          ],
+          [
+            -160,
+            "D-02"
+          ],
+          [
+            -160,
+            "D-03"
+          ],
+          [
+            -160,
+            "D-04"
+          ],
+          [
+            -160,
+            "D-05"
+          ],
+          [
+            -160,
+            "D-06"
+          ],
+          [
+            -160,
+            "D-07"
+          ],
+          [
+            -160,
+            "D-08"
+          ],
+          [
+            -160,
+            "D-09"
+          ],
+          [
+            -160,
+            "D-10"
+          ],
+          [
+            -160,
+            "D-11"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-16T19:21:01.819605+05:30",
+          "msg": "selected C-01 (cat C / formula 5: One-line metaphor, rejections=20)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-16T19:21:04.440379+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-16T19:21:24.729252+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 23"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-16T19:22:04.901625+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 112.0 < 190); subject too high in frame (top-zone subject fraction 0.435 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-16T19:22:57.064880+05:30",
+          "msg": "attempt 4 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-16T19:24:08.215216+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 163.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-16T19:25:33.414976+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 172.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-16T19:27:10.846822+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 23s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 112.0 < 190); subject too high in frame (top-zone subject fraction 0.435 > 0.07); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (100% of frame height, must be <= 58%)",
+        "image attempt 4: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 163.0 < 190)",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 172.0 < 190)",
+        "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
