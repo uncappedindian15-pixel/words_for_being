@@ -18736,6 +18736,428 @@
         "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 19s, or get unlimited images with a pollen key at https://enter.p"
       ],
       "retries_total": 2
+    },
+    {
+      "post_id": "wfB-20261118-001",
+      "date": "2026-11-18",
+      "created": "2026-11-18T20:08:50.647528+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "A-02",
+        "formula": 1,
+        "emotional_core": "the cost of postponing your own life",
+        "visual_concept": "one seed beside a closed stack of someday notebooks",
+        "physical_action": "a seed waiting beside closed notebooks",
+        "hook": "Either start today, or keep explaining.",
+        "subline": "a seed does not wait for perfect",
+        "cta": "",
+        "caption": "We do not lack plans. We lack one small act we actually did.\n\nOne page. One rep. One honest message. The excuse machine is louder than the starting gun, and you know which one you have been listening to.\n\nStart smaller than you are comfortable with. Start today.\n\nSave this for the day you almost again.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#selfgrowth",
+          "#startsmall",
+          "#discipline",
+          "#mindsetshift"
+        ],
+        "image_prompt": "one small brown seed resting on a round wooden dish, next to it a neat closed stack of three plain notebooks, all objects on a plain surface",
+        "category": "A"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "A-02",
+          "formula": 1,
+          "emotional_core": "the cost of postponing your own life",
+          "visual_concept": "one seed beside a closed stack of someday notebooks",
+          "physical_action": "a seed waiting beside closed notebooks",
+          "hook": "Either start today, or keep explaining.",
+          "subline": "a seed does not wait for perfect",
+          "cta": "",
+          "caption": "We do not lack plans. We lack one small act we actually did.\n\nOne page. One rep. One honest message. The excuse machine is louder than the starting gun, and you know which one you have been listening to.\n\nStart smaller than you are comfortable with. Start today.\n\nSave this for the day you almost again.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#selfgrowth",
+            "#startsmall",
+            "#discipline",
+            "#mindsetshift"
+          ],
+          "image_prompt": "one small brown seed resting on a round wooden dish, next to it a neat closed stack of three plain notebooks, all objects on a plain surface",
+          "category": "A",
+          "_source": "A"
+        },
+        "score": -170,
+        "cycle_reset": true,
+        "rejections": [
+          {
+            "id": "A-01",
+            "reasons": [
+              "similar to A-01 (sim=1.00)",
+              "action reused 4d ago"
+            ]
+          },
+          {
+            "id": "A-13",
+            "reasons": [
+              "action reused 20d ago"
+            ]
+          },
+          {
+            "id": "A-14",
+            "reasons": [
+              "action reused 16d ago"
+            ]
+          },
+          {
+            "id": "A-15",
+            "reasons": [
+              "action reused 12d ago"
+            ]
+          },
+          {
+            "id": "A-16",
+            "reasons": [
+              "action reused 8d ago"
+            ]
+          },
+          {
+            "id": "B-01",
+            "reasons": [
+              "similar to B-01 (sim=1.00)",
+              "action reused 3d ago"
+            ]
+          },
+          {
+            "id": "B-13",
+            "reasons": [
+              "action reused 19d ago"
+            ]
+          },
+          {
+            "id": "B-14",
+            "reasons": [
+              "action reused 15d ago"
+            ]
+          },
+          {
+            "id": "B-15",
+            "reasons": [
+              "action reused 11d ago"
+            ]
+          },
+          {
+            "id": "B-16",
+            "reasons": [
+              "action reused 7d ago"
+            ]
+          },
+          {
+            "id": "C-01",
+            "reasons": [
+              "similar to C-01 (sim=1.00)",
+              "action reused 2d ago"
+            ]
+          },
+          {
+            "id": "C-13",
+            "reasons": [
+              "action reused 18d ago"
+            ]
+          },
+          {
+            "id": "C-14",
+            "reasons": [
+              "action reused 14d ago"
+            ]
+          },
+          {
+            "id": "C-15",
+            "reasons": [
+              "action reused 10d ago"
+            ]
+          },
+          {
+            "id": "C-16",
+            "reasons": [
+              "action reused 6d ago"
+            ]
+          },
+          {
+            "id": "D-01",
+            "reasons": [
+              "similar to D-01 (sim=1.00)",
+              "action reused 1d ago"
+            ]
+          },
+          {
+            "id": "D-13",
+            "reasons": [
+              "action reused 17d ago"
+            ]
+          },
+          {
+            "id": "D-14",
+            "reasons": [
+              "action reused 13d ago"
+            ]
+          },
+          {
+            "id": "D-15",
+            "reasons": [
+              "action reused 9d ago"
+            ]
+          },
+          {
+            "id": "D-16",
+            "reasons": [
+              "action reused 5d ago"
+            ]
+          }
+        ],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -170,
+            "A-02"
+          ],
+          [
+            -170,
+            "A-03"
+          ],
+          [
+            -170,
+            "A-04"
+          ],
+          [
+            -170,
+            "A-05"
+          ],
+          [
+            -170,
+            "A-06"
+          ],
+          [
+            -170,
+            "A-07"
+          ],
+          [
+            -170,
+            "A-08"
+          ],
+          [
+            -170,
+            "A-09"
+          ],
+          [
+            -170,
+            "A-10"
+          ],
+          [
+            -170,
+            "A-11"
+          ],
+          [
+            -170,
+            "A-12"
+          ],
+          [
+            -170,
+            "B-02"
+          ],
+          [
+            -170,
+            "B-03"
+          ],
+          [
+            -170,
+            "B-04"
+          ],
+          [
+            -170,
+            "B-05"
+          ],
+          [
+            -170,
+            "B-06"
+          ],
+          [
+            -170,
+            "B-07"
+          ],
+          [
+            -170,
+            "B-08"
+          ],
+          [
+            -170,
+            "B-09"
+          ],
+          [
+            -170,
+            "B-10"
+          ],
+          [
+            -170,
+            "B-11"
+          ],
+          [
+            -170,
+            "B-12"
+          ],
+          [
+            -170,
+            "C-02"
+          ],
+          [
+            -170,
+            "C-03"
+          ],
+          [
+            -170,
+            "C-04"
+          ],
+          [
+            -170,
+            "C-05"
+          ],
+          [
+            -170,
+            "C-06"
+          ],
+          [
+            -170,
+            "C-07"
+          ],
+          [
+            -170,
+            "C-08"
+          ],
+          [
+            -170,
+            "C-09"
+          ],
+          [
+            -170,
+            "C-10"
+          ],
+          [
+            -170,
+            "C-11"
+          ],
+          [
+            -170,
+            "C-12"
+          ],
+          [
+            -170,
+            "D-02"
+          ],
+          [
+            -170,
+            "D-03"
+          ],
+          [
+            -170,
+            "D-04"
+          ],
+          [
+            -170,
+            "D-05"
+          ],
+          [
+            -170,
+            "D-06"
+          ],
+          [
+            -170,
+            "D-07"
+          ],
+          [
+            -170,
+            "D-08"
+          ],
+          [
+            -170,
+            "D-09"
+          ],
+          [
+            -170,
+            "D-10"
+          ],
+          [
+            -170,
+            "D-11"
+          ],
+          [
+            -170,
+            "D-12"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-18T20:08:50.666549+05:30",
+          "msg": "selected A-02 (cat A / formula 1: Blunt ultimatum, rejections=20)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-18T20:08:59.182651+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 149.0 < 190); subject reaches into the text zone (top edge at 23% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-18T20:09:19.464787+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 17"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-18T20:10:03.699247+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 156.0 < 190); subject too high in frame (top-zone subject fraction 0.098 > 0.07); subject r"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-18T20:11:03.346770+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject reaches into the text zone (top edge at 25% of frame, must be <= 42%); subject too tall (63% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-18T20:12:12.354045+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-18T20:13:34.836207+05:30",
+          "msg": "attempt 6 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-18T20:15:21.727320+05:30",
+          "msg": "attempt 7 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.085 > 0.07); subject reaches into the text zone (top edge at 12% of frame, must be "
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 149.0 < 190); subject reaches into the text zone (top edge at 23% of frame, must be <= 42%); subject too tall (76% of frame height, must be <= 58%); provider watermark detected in bottom-right zone",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 17s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 156.0 < 190); subject too high in frame (top-zone subject fraction 0.098 > 0.07); subject reaches into the text zone (top edge at 3% of frame, must be <= 42%); subject too tall (97% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 25% of frame, must be <= 42%); subject too tall (63% of frame height, must be <= 58%)",
+        "image attempt 5: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 6: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 7: base image failed QC: subject too high in frame (top-zone subject fraction 0.085 > 0.07); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
