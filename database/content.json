@@ -19158,6 +19158,428 @@
         "image attempt 7: base image failed QC: subject too high in frame (top-zone subject fraction 0.085 > 0.07); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261119-001",
+      "date": "2026-11-19",
+      "created": "2026-11-19T20:07:24.488338+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "B-02",
+        "formula": 1,
+        "emotional_core": "calm or honesty, nothing in between",
+        "visual_concept": "two mugs, one full and steaming, one empty",
+        "physical_action": "one mug full and warm, one empty and cold",
+        "hook": "Be my calm, or be my honesty.",
+        "subline": "anything in between is just weather",
+        "cta": "",
+        "caption": "Some people are your calm — the exhale, the silence that heals, the room that finally quiets.\n\nOthers cannot be that, and that is their story. But at minimum be honest. Be the person who says the hard thing gently instead of the soft thing falsely.\n\nI would rather hold an empty honest mug than a full one that is slowly going cold on me.\n\nCalm is a gift. Honesty is a floor. Know the difference.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#relationshiptruths",
+          "#honesty",
+          "#lovelanguage",
+          "#boundaries"
+        ],
+        "image_prompt": "two ceramic mugs side by side on a plain surface, one full and steaming, the other empty with a ring of dried tea at the bottom",
+        "category": "B"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "B-02",
+          "formula": 1,
+          "emotional_core": "calm or honesty, nothing in between",
+          "visual_concept": "two mugs, one full and steaming, one empty",
+          "physical_action": "one mug full and warm, one empty and cold",
+          "hook": "Be my calm, or be my honesty.",
+          "subline": "anything in between is just weather",
+          "cta": "",
+          "caption": "Some people are your calm — the exhale, the silence that heals, the room that finally quiets.\n\nOthers cannot be that, and that is their story. But at minimum be honest. Be the person who says the hard thing gently instead of the soft thing falsely.\n\nI would rather hold an empty honest mug than a full one that is slowly going cold on me.\n\nCalm is a gift. Honesty is a floor. Know the difference.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#relationshiptruths",
+            "#honesty",
+            "#lovelanguage",
+            "#boundaries"
+          ],
+          "image_prompt": "two ceramic mugs side by side on a plain surface, one full and steaming, the other empty with a ring of dried tea at the bottom",
+          "category": "B",
+          "_source": "B"
+        },
+        "score": -170,
+        "cycle_reset": true,
+        "rejections": [
+          {
+            "id": "A-01",
+            "reasons": [
+              "action reused 5d ago"
+            ]
+          },
+          {
+            "id": "A-02",
+            "reasons": [
+              "similar to A-02 (sim=1.00)",
+              "action reused 1d ago"
+            ]
+          },
+          {
+            "id": "A-14",
+            "reasons": [
+              "action reused 17d ago"
+            ]
+          },
+          {
+            "id": "A-15",
+            "reasons": [
+              "action reused 13d ago"
+            ]
+          },
+          {
+            "id": "A-16",
+            "reasons": [
+              "action reused 9d ago"
+            ]
+          },
+          {
+            "id": "B-01",
+            "reasons": [
+              "similar to B-01 (sim=1.00)",
+              "action reused 4d ago"
+            ]
+          },
+          {
+            "id": "B-13",
+            "reasons": [
+              "action reused 20d ago"
+            ]
+          },
+          {
+            "id": "B-14",
+            "reasons": [
+              "action reused 16d ago"
+            ]
+          },
+          {
+            "id": "B-15",
+            "reasons": [
+              "action reused 12d ago"
+            ]
+          },
+          {
+            "id": "B-16",
+            "reasons": [
+              "action reused 8d ago"
+            ]
+          },
+          {
+            "id": "C-01",
+            "reasons": [
+              "similar to C-01 (sim=1.00)",
+              "action reused 3d ago"
+            ]
+          },
+          {
+            "id": "C-13",
+            "reasons": [
+              "action reused 19d ago"
+            ]
+          },
+          {
+            "id": "C-14",
+            "reasons": [
+              "action reused 15d ago"
+            ]
+          },
+          {
+            "id": "C-15",
+            "reasons": [
+              "action reused 11d ago"
+            ]
+          },
+          {
+            "id": "C-16",
+            "reasons": [
+              "action reused 7d ago"
+            ]
+          },
+          {
+            "id": "D-01",
+            "reasons": [
+              "similar to D-01 (sim=1.00)",
+              "action reused 2d ago"
+            ]
+          },
+          {
+            "id": "D-13",
+            "reasons": [
+              "action reused 18d ago"
+            ]
+          },
+          {
+            "id": "D-14",
+            "reasons": [
+              "action reused 14d ago"
+            ]
+          },
+          {
+            "id": "D-15",
+            "reasons": [
+              "action reused 10d ago"
+            ]
+          },
+          {
+            "id": "D-16",
+            "reasons": [
+              "action reused 6d ago"
+            ]
+          }
+        ],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -180,
+            "A-03"
+          ],
+          [
+            -180,
+            "A-04"
+          ],
+          [
+            -180,
+            "A-05"
+          ],
+          [
+            -180,
+            "A-06"
+          ],
+          [
+            -180,
+            "A-07"
+          ],
+          [
+            -180,
+            "A-08"
+          ],
+          [
+            -180,
+            "A-09"
+          ],
+          [
+            -180,
+            "A-10"
+          ],
+          [
+            -180,
+            "A-11"
+          ],
+          [
+            -180,
+            "A-12"
+          ],
+          [
+            -180,
+            "A-13"
+          ],
+          [
+            -170,
+            "B-02"
+          ],
+          [
+            -170,
+            "B-03"
+          ],
+          [
+            -170,
+            "B-04"
+          ],
+          [
+            -170,
+            "B-05"
+          ],
+          [
+            -170,
+            "B-06"
+          ],
+          [
+            -170,
+            "B-07"
+          ],
+          [
+            -170,
+            "B-08"
+          ],
+          [
+            -170,
+            "B-09"
+          ],
+          [
+            -170,
+            "B-10"
+          ],
+          [
+            -170,
+            "B-11"
+          ],
+          [
+            -170,
+            "B-12"
+          ],
+          [
+            -170,
+            "C-02"
+          ],
+          [
+            -170,
+            "C-03"
+          ],
+          [
+            -170,
+            "C-04"
+          ],
+          [
+            -170,
+            "C-05"
+          ],
+          [
+            -170,
+            "C-06"
+          ],
+          [
+            -170,
+            "C-07"
+          ],
+          [
+            -170,
+            "C-08"
+          ],
+          [
+            -170,
+            "C-09"
+          ],
+          [
+            -170,
+            "C-10"
+          ],
+          [
+            -170,
+            "C-11"
+          ],
+          [
+            -170,
+            "C-12"
+          ],
+          [
+            -170,
+            "D-02"
+          ],
+          [
+            -170,
+            "D-03"
+          ],
+          [
+            -170,
+            "D-04"
+          ],
+          [
+            -170,
+            "D-05"
+          ],
+          [
+            -170,
+            "D-06"
+          ],
+          [
+            -170,
+            "D-07"
+          ],
+          [
+            -170,
+            "D-08"
+          ],
+          [
+            -170,
+            "D-09"
+          ],
+          [
+            -170,
+            "D-10"
+          ],
+          [
+            -170,
+            "D-11"
+          ],
+          [
+            -170,
+            "D-12"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-19T20:07:24.507053+05:30",
+          "msg": "selected B-02 (cat B / formula 1: Blunt ultimatum, rejections=20)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-19T20:07:28.051789+05:30",
+          "msg": "attempt 1 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-19T20:07:48.364589+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 22"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-19T20:08:26.242743+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-19T20:09:25.848915+05:30",
+          "msg": "attempt 4 failed: base image failed QC: subject reaches into the text zone (top edge at 34% of frame, must be <= 42%); subject too tall (65% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-19T20:10:36.435452+05:30",
+          "msg": "attempt 5 failed: base image failed QC: background not off-white (avg corner luminance 136.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-19T20:11:58.403377+05:30",
+          "msg": "attempt 6 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-19T20:13:35.818138+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        }
+      ],
+      "errors": [
+        "image attempt 1: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 22s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 4: base image failed QC: subject reaches into the text zone (top edge at 34% of frame, must be <= 42%); subject too tall (65% of frame height, must be <= 58%)",
+        "image attempt 5: base image failed QC: background not off-white (avg corner luminance 136.0 < 190)",
+        "image attempt 6: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {
