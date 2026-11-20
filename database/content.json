@@ -19580,6 +19580,428 @@
         "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261120-001",
+      "date": "2026-11-20",
+      "created": "2026-11-20T20:01:56.601645+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "C-02",
+        "formula": 1,
+        "emotional_core": "one warning, then absence",
+        "visual_concept": "a key on the floor outside a closed door",
+        "physical_action": "a key left on the floor, the door closed",
+        "hook": "One warning given. The door is closed now.",
+        "subline": "i will not be a lesson at my expense",
+        "cta": "",
+        "caption": "You have already had the conversation. The signs were not subtle — you just kept interpreting them as temporary.\n\nSo here is the warning, once, clearly, without drama: I am not a lesson. I am not a phase. I am not a mistake you get to study. I will not be the person who pays the tuition for your growth.\n\nThe key is on the floor and the door is closed, and this time there is no we-need-to-talk behind it. There is just the door.\n\nTo everyone who finally became the boundary: well done.",
+        "hashtags": [
+          "#wordsforbeing",
+          "#boundaries",
+          "#leaving",
+          "#selfworth",
+          "#relationshiptruths"
+        ],
+        "image_prompt": "a single key lying in front of a simple closed door standing upright, its shadow small and soft, nothing else in the frame, isolated on plain white",
+        "category": "C"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "C-02",
+          "formula": 1,
+          "emotional_core": "one warning, then absence",
+          "visual_concept": "a key on the floor outside a closed door",
+          "physical_action": "a key left on the floor, the door closed",
+          "hook": "One warning given. The door is closed now.",
+          "subline": "i will not be a lesson at my expense",
+          "cta": "",
+          "caption": "You have already had the conversation. The signs were not subtle — you just kept interpreting them as temporary.\n\nSo here is the warning, once, clearly, without drama: I am not a lesson. I am not a phase. I am not a mistake you get to study. I will not be the person who pays the tuition for your growth.\n\nThe key is on the floor and the door is closed, and this time there is no we-need-to-talk behind it. There is just the door.\n\nTo everyone who finally became the boundary: well done.",
+          "hashtags": [
+            "#wordsforbeing",
+            "#boundaries",
+            "#leaving",
+            "#selfworth",
+            "#relationshiptruths"
+          ],
+          "image_prompt": "a single key lying in front of a simple closed door standing upright, its shadow small and soft, nothing else in the frame, isolated on plain white",
+          "category": "C",
+          "_source": "C"
+        },
+        "score": -170,
+        "cycle_reset": true,
+        "rejections": [
+          {
+            "id": "A-01",
+            "reasons": [
+              "action reused 6d ago"
+            ]
+          },
+          {
+            "id": "A-02",
+            "reasons": [
+              "similar to A-02 (sim=1.00)",
+              "action reused 2d ago"
+            ]
+          },
+          {
+            "id": "A-14",
+            "reasons": [
+              "action reused 18d ago"
+            ]
+          },
+          {
+            "id": "A-15",
+            "reasons": [
+              "action reused 14d ago"
+            ]
+          },
+          {
+            "id": "A-16",
+            "reasons": [
+              "action reused 10d ago"
+            ]
+          },
+          {
+            "id": "B-01",
+            "reasons": [
+              "action reused 5d ago"
+            ]
+          },
+          {
+            "id": "B-02",
+            "reasons": [
+              "similar to B-02 (sim=1.00)",
+              "action reused 1d ago"
+            ]
+          },
+          {
+            "id": "B-14",
+            "reasons": [
+              "action reused 17d ago"
+            ]
+          },
+          {
+            "id": "B-15",
+            "reasons": [
+              "action reused 13d ago"
+            ]
+          },
+          {
+            "id": "B-16",
+            "reasons": [
+              "action reused 9d ago"
+            ]
+          },
+          {
+            "id": "C-01",
+            "reasons": [
+              "similar to C-01 (sim=1.00)",
+              "action reused 4d ago"
+            ]
+          },
+          {
+            "id": "C-13",
+            "reasons": [
+              "action reused 20d ago"
+            ]
+          },
+          {
+            "id": "C-14",
+            "reasons": [
+              "action reused 16d ago"
+            ]
+          },
+          {
+            "id": "C-15",
+            "reasons": [
+              "action reused 12d ago"
+            ]
+          },
+          {
+            "id": "C-16",
+            "reasons": [
+              "action reused 8d ago"
+            ]
+          },
+          {
+            "id": "D-01",
+            "reasons": [
+              "similar to D-01 (sim=1.00)",
+              "action reused 3d ago"
+            ]
+          },
+          {
+            "id": "D-13",
+            "reasons": [
+              "action reused 19d ago"
+            ]
+          },
+          {
+            "id": "D-14",
+            "reasons": [
+              "action reused 15d ago"
+            ]
+          },
+          {
+            "id": "D-15",
+            "reasons": [
+              "action reused 11d ago"
+            ]
+          },
+          {
+            "id": "D-16",
+            "reasons": [
+              "action reused 7d ago"
+            ]
+          }
+        ],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -180,
+            "A-03"
+          ],
+          [
+            -180,
+            "A-04"
+          ],
+          [
+            -180,
+            "A-05"
+          ],
+          [
+            -180,
+            "A-06"
+          ],
+          [
+            -180,
+            "A-07"
+          ],
+          [
+            -180,
+            "A-08"
+          ],
+          [
+            -180,
+            "A-09"
+          ],
+          [
+            -180,
+            "A-10"
+          ],
+          [
+            -180,
+            "A-11"
+          ],
+          [
+            -180,
+            "A-12"
+          ],
+          [
+            -180,
+            "A-13"
+          ],
+          [
+            -180,
+            "B-03"
+          ],
+          [
+            -180,
+            "B-04"
+          ],
+          [
+            -180,
+            "B-05"
+          ],
+          [
+            -180,
+            "B-06"
+          ],
+          [
+            -180,
+            "B-07"
+          ],
+          [
+            -180,
+            "B-08"
+          ],
+          [
+            -180,
+            "B-09"
+          ],
+          [
+            -180,
+            "B-10"
+          ],
+          [
+            -180,
+            "B-11"
+          ],
+          [
+            -180,
+            "B-12"
+          ],
+          [
+            -180,
+            "B-13"
+          ],
+          [
+            -170,
+            "C-02"
+          ],
+          [
+            -170,
+            "C-03"
+          ],
+          [
+            -170,
+            "C-04"
+          ],
+          [
+            -170,
+            "C-05"
+          ],
+          [
+            -170,
+            "C-06"
+          ],
+          [
+            -170,
+            "C-07"
+          ],
+          [
+            -170,
+            "C-08"
+          ],
+          [
+            -170,
+            "C-09"
+          ],
+          [
+            -170,
+            "C-10"
+          ],
+          [
+            -170,
+            "C-11"
+          ],
+          [
+            -170,
+            "C-12"
+          ],
+          [
+            -170,
+            "D-02"
+          ],
+          [
+            -170,
+            "D-03"
+          ],
+          [
+            -170,
+            "D-04"
+          ],
+          [
+            -170,
+            "D-05"
+          ],
+          [
+            -170,
+            "D-06"
+          ],
+          [
+            -170,
+            "D-07"
+          ],
+          [
+            -170,
+            "D-08"
+          ],
+          [
+            -170,
+            "D-09"
+          ],
+          [
+            -170,
+            "D-10"
+          ],
+          [
+            -170,
+            "D-11"
+          ],
+          [
+            -170,
+            "D-12"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-20T20:01:56.633310+05:30",
+          "msg": "selected C-02 (cat C / formula 1: Blunt ultimatum, rejections=20)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-20T20:02:04.161587+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 158.0 < 190); subject reaches into the text zone (top edge at 8% of frame, must be <= 42%);"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-20T20:02:24.499330+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 18"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-20T20:03:02.371450+05:30",
+          "msg": "attempt 3 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-20T20:03:59.964922+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 127.0 < 190); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-20T20:05:07.119502+05:30",
+          "msg": "attempt 5 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-20T20:06:33.423593+05:30",
+          "msg": "attempt 6 failed: base image failed QC: background not off-white (avg corner luminance 92.0 < 190); subject too high in frame (top-zone subject fraction 0.12 > 0.07); subject rea"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-20T20:08:15.360761+05:30",
+          "msg": "attempt 7 failed: base image failed QC: background not off-white (avg corner luminance 132.0 < 190); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%)"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 158.0 < 190); subject reaches into the text zone (top edge at 8% of frame, must be <= 42%); subject too tall (91% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 18s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 127.0 < 190); subject reaches into the text zone (top edge at 19% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)",
+        "image attempt 5: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:",
+        "image attempt 6: base image failed QC: background not off-white (avg corner luminance 92.0 < 190); subject too high in frame (top-zone subject fraction 0.12 > 0.07); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (100% of frame height, must be <= 58%)",
+        "image attempt 7: base image failed QC: background not off-white (avg corner luminance 132.0 < 190); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {

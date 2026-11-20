@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T20:13:35.831231+05:30",
-  "count": 70,
+  "updated": "2026-11-20T20:08:15.378126+05:30",
+  "count": 71,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -561,6 +561,14 @@
       "category": "B",
       "formula": 1,
       "hook": "Be my calm, or be my honesty."
+    },
+    {
+      "post_id": "wfB-20261120-001",
+      "date": "2026-11-20",
+      "status": "FAILED",
+      "category": "C",
+      "formula": 1,
+      "hook": "One warning given. The door is closed now."
     }
   ]
 }
