@@ -20002,6 +20002,428 @@
         "image attempt 7: base image failed QC: background not off-white (avg corner luminance 132.0 < 190); subject reaches into the text zone (top edge at 12% of frame, must be <= 42%); subject too tall (80% of frame height, must be <= 58%)"
       ],
       "retries_total": 7
+    },
+    {
+      "post_id": "wfB-20261121-001",
+      "date": "2026-11-21",
+      "created": "2026-11-21T19:06:34.072062+05:30",
+      "status": "FAILED",
+      "concept": {
+        "id": "D-02",
+        "formula": 5,
+        "emotional_core": "quiet presence as a vibe",
+        "visual_concept": "an open book with a bookmark and a tiny moth",
+        "physical_action": "a moth resting on an open page",
+        "hook": "Your vibe is a library, not a billboard.",
+        "subline": "quiet, but everyone finds something",
+        "cta": "",
+        "caption": "Some people are a stadium. Loud, bright, everyone sees the same show.\n\nYou are a library. Quieter at the door, but walk in and every person finds a different shelf — a joke that is only for them, a silence that is only for them, a sentence they will carry for years.\n\nYou do not perform. You are stocked. And the people who find their thing? They do not leave. They become regulars.\n\nWhat is the shelf you would put yourself on?",
+        "hashtags": [
+          "#wordsforbeing",
+          "#quietvibes",
+          "#personality",
+          "#lovequotes",
+          "#relatable"
+        ],
+        "image_prompt": "a small open book on a plain surface with a single bookmark, a tiny moth resting on one corner of the page",
+        "category": "D"
+      },
+      "originality_report": {
+        "chosen": {
+          "id": "D-02",
+          "formula": 5,
+          "emotional_core": "quiet presence as a vibe",
+          "visual_concept": "an open book with a bookmark and a tiny moth",
+          "physical_action": "a moth resting on an open page",
+          "hook": "Your vibe is a library, not a billboard.",
+          "subline": "quiet, but everyone finds something",
+          "cta": "",
+          "caption": "Some people are a stadium. Loud, bright, everyone sees the same show.\n\nYou are a library. Quieter at the door, but walk in and every person finds a different shelf — a joke that is only for them, a silence that is only for them, a sentence they will carry for years.\n\nYou do not perform. You are stocked. And the people who find their thing? They do not leave. They become regulars.\n\nWhat is the shelf you would put yourself on?",
+          "hashtags": [
+            "#wordsforbeing",
+            "#quietvibes",
+            "#personality",
+            "#lovequotes",
+            "#relatable"
+          ],
+          "image_prompt": "a small open book on a plain surface with a single bookmark, a tiny moth resting on one corner of the page",
+          "category": "D",
+          "_source": "D"
+        },
+        "score": -170,
+        "cycle_reset": true,
+        "rejections": [
+          {
+            "id": "A-01",
+            "reasons": [
+              "action reused 7d ago"
+            ]
+          },
+          {
+            "id": "A-02",
+            "reasons": [
+              "similar to A-02 (sim=1.00)",
+              "action reused 3d ago"
+            ]
+          },
+          {
+            "id": "A-14",
+            "reasons": [
+              "action reused 19d ago"
+            ]
+          },
+          {
+            "id": "A-15",
+            "reasons": [
+              "action reused 15d ago"
+            ]
+          },
+          {
+            "id": "A-16",
+            "reasons": [
+              "action reused 11d ago"
+            ]
+          },
+          {
+            "id": "B-01",
+            "reasons": [
+              "action reused 6d ago"
+            ]
+          },
+          {
+            "id": "B-02",
+            "reasons": [
+              "similar to B-02 (sim=1.00)",
+              "action reused 2d ago"
+            ]
+          },
+          {
+            "id": "B-14",
+            "reasons": [
+              "action reused 18d ago"
+            ]
+          },
+          {
+            "id": "B-15",
+            "reasons": [
+              "action reused 14d ago"
+            ]
+          },
+          {
+            "id": "B-16",
+            "reasons": [
+              "action reused 10d ago"
+            ]
+          },
+          {
+            "id": "C-01",
+            "reasons": [
+              "action reused 5d ago"
+            ]
+          },
+          {
+            "id": "C-02",
+            "reasons": [
+              "similar to C-02 (sim=1.00)",
+              "action reused 1d ago"
+            ]
+          },
+          {
+            "id": "C-14",
+            "reasons": [
+              "action reused 17d ago"
+            ]
+          },
+          {
+            "id": "C-15",
+            "reasons": [
+              "action reused 13d ago"
+            ]
+          },
+          {
+            "id": "C-16",
+            "reasons": [
+              "action reused 9d ago"
+            ]
+          },
+          {
+            "id": "D-01",
+            "reasons": [
+              "similar to D-01 (sim=1.00)",
+              "action reused 4d ago"
+            ]
+          },
+          {
+            "id": "D-13",
+            "reasons": [
+              "action reused 20d ago"
+            ]
+          },
+          {
+            "id": "D-14",
+            "reasons": [
+              "action reused 16d ago"
+            ]
+          },
+          {
+            "id": "D-15",
+            "reasons": [
+              "action reused 12d ago"
+            ]
+          },
+          {
+            "id": "D-16",
+            "reasons": [
+              "action reused 8d ago"
+            ]
+          }
+        ],
+        "candidates": 64,
+        "errors": [],
+        "scores": [
+          [
+            -180,
+            "A-03"
+          ],
+          [
+            -180,
+            "A-04"
+          ],
+          [
+            -180,
+            "A-05"
+          ],
+          [
+            -180,
+            "A-06"
+          ],
+          [
+            -180,
+            "A-07"
+          ],
+          [
+            -180,
+            "A-08"
+          ],
+          [
+            -180,
+            "A-09"
+          ],
+          [
+            -180,
+            "A-10"
+          ],
+          [
+            -180,
+            "A-11"
+          ],
+          [
+            -180,
+            "A-12"
+          ],
+          [
+            -180,
+            "A-13"
+          ],
+          [
+            -180,
+            "B-03"
+          ],
+          [
+            -180,
+            "B-04"
+          ],
+          [
+            -180,
+            "B-05"
+          ],
+          [
+            -180,
+            "B-06"
+          ],
+          [
+            -180,
+            "B-07"
+          ],
+          [
+            -180,
+            "B-08"
+          ],
+          [
+            -180,
+            "B-09"
+          ],
+          [
+            -180,
+            "B-10"
+          ],
+          [
+            -180,
+            "B-11"
+          ],
+          [
+            -180,
+            "B-12"
+          ],
+          [
+            -180,
+            "B-13"
+          ],
+          [
+            -180,
+            "C-03"
+          ],
+          [
+            -180,
+            "C-04"
+          ],
+          [
+            -180,
+            "C-05"
+          ],
+          [
+            -180,
+            "C-06"
+          ],
+          [
+            -180,
+            "C-07"
+          ],
+          [
+            -180,
+            "C-08"
+          ],
+          [
+            -180,
+            "C-09"
+          ],
+          [
+            -180,
+            "C-10"
+          ],
+          [
+            -180,
+            "C-11"
+          ],
+          [
+            -180,
+            "C-12"
+          ],
+          [
+            -180,
+            "C-13"
+          ],
+          [
+            -170,
+            "D-02"
+          ],
+          [
+            -170,
+            "D-03"
+          ],
+          [
+            -170,
+            "D-04"
+          ],
+          [
+            -170,
+            "D-05"
+          ],
+          [
+            -170,
+            "D-06"
+          ],
+          [
+            -170,
+            "D-07"
+          ],
+          [
+            -170,
+            "D-08"
+          ],
+          [
+            -170,
+            "D-09"
+          ],
+          [
+            -170,
+            "D-10"
+          ],
+          [
+            -170,
+            "D-11"
+          ],
+          [
+            -170,
+            "D-12"
+          ]
+        ]
+      },
+      "image": null,
+      "video": null,
+      "caption": null,
+      "quality": null,
+      "publish": null,
+      "timeline": [
+        {
+          "stage": "concept",
+          "ok": true,
+          "ts": "2026-11-21T19:06:34.099417+05:30",
+          "msg": "selected D-02 (cat D / formula 5: One-line metaphor, rejections=20)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-21T19:06:40.055327+05:30",
+          "msg": "attempt 1 failed: base image failed QC: background not off-white (avg corner luminance 44.0 < 190); subject too high in frame (top-zone subject fraction 0.18 > 0.07); subject rea"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-21T19:07:00.301672+05:30",
+          "msg": "attempt 2 failed: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 20"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-21T19:07:41.113842+05:30",
+          "msg": "attempt 3 failed: base image failed QC: background not off-white (avg corner luminance 152.0 < 190); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-21T19:08:36.356208+05:30",
+          "msg": "attempt 4 failed: base image failed QC: background not off-white (avg corner luminance 62.0 < 190)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-21T19:09:55.202171+05:30",
+          "msg": "attempt 5 failed: base image failed QC: subject reaches into the text zone (top edge at 7% of frame, must be <= 42%); subject too tall (92% of frame height, must be <= 58%)"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-21T19:11:26.149644+05:30",
+          "msg": "attempt 6 failed: base image failed QC: subject too high in frame (top-zone subject fraction 0.31 > 0.07); subject reaches into the text zone (top edge at 10% of frame, must be <"
+        },
+        {
+          "stage": "image",
+          "ok": false,
+          "ts": "2026-11-21T19:13:04.837933+05:30",
+          "msg": "attempt 7 failed: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s"
+        }
+      ],
+      "errors": [
+        "image attempt 1: base image failed QC: background not off-white (avg corner luminance 44.0 < 190); subject too high in frame (top-zone subject fraction 0.18 > 0.07); subject reaches into the text zone (top edge at 0% of frame, must be <= 42%); subject too tall (100% of frame height, must be <= 58%)",
+        "image attempt 2: pollinations HTTP 402: {\"status\":402,\"success\":false,\"error\":{\"code\":\"FREE_LIMIT\",\"message\":\"Free limit reached: 1 image every 45 seconds per IP. Retry after 20s, or get unlimited images with a pollen key at https://enter.p",
+        "image attempt 3: base image failed QC: background not off-white (avg corner luminance 152.0 < 190); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%); subject too tall (90% of frame height, must be <= 58%)",
+        "image attempt 4: base image failed QC: background not off-white (avg corner luminance 62.0 < 190)",
+        "image attempt 5: base image failed QC: subject reaches into the text zone (top edge at 7% of frame, must be <= 42%); subject too tall (92% of frame height, must be <= 58%)",
+        "image attempt 6: base image failed QC: subject too high in frame (top-zone subject fraction 0.31 > 0.07); subject reaches into the text zone (top edge at 10% of frame, must be <= 42%); subject too tall (84% of frame height, must be <= 58%)",
+        "image attempt 7: pollinations HTTP 503: {\"status\":503,\"success\":false,\"error\":{\"code\":\"SERVICE_UNAVAILABLE\",\"message\":\"The Classic API is at its limit right now. Retry after 10s, or get full access to every model with a pollen key at https:"
+      ],
+      "retries_total": 7
     }
   ],
   "meta": {

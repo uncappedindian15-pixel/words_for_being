@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T20:08:15.378126+05:30",
-  "count": 71,
+  "updated": "2026-11-21T19:13:04.855024+05:30",
+  "count": 72,
   "posts": [
     {
       "post_id": "wfB-20260911-001",
@@ -569,6 +569,14 @@
       "category": "C",
       "formula": 1,
       "hook": "One warning given. The door is closed now."
+    },
+    {
+      "post_id": "wfB-20261121-001",
+      "date": "2026-11-21",
+      "status": "FAILED",
+      "category": "D",
+      "formula": 5,
+      "hook": "Your vibe is a library, not a billboard."
     }
   ]
 }
